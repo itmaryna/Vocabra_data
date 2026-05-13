@@ -1,0 +1,22 @@
+[
+{"id":"help","word":"עזרה","transcription":"ezra"},
+{"id":"call_police","word":"תתקשר למשטרה","transcription":"titkasher la-mishtara"},
+{"id":"call_ambulance","word":"תתקשר לאמבולנס","transcription":"titkasher le-ambolans"},
+{"id":"fire","word":"אש","transcription":"esh"},
+{"id":"emergency","word":"חירום","transcription":"chirum"},
+{"id":"i_need_help","word":"אני צריך עזרה","transcription":"ani tzarih ezra"},
+{"id":"are_you_ok","word":"אתה בסדר?","transcription":"ata beseder"},
+{"id":"i_am_injured","word":"אני פצוע","transcription":"ani patzu'a"},
+{"id":"bleeding","word":"דימום","transcription":"dimum"},
+{"id":"pain","word":"כאב","transcription":"ke'ev"},
+{"id":"hospital","word":"בית חולים","transcription":"beit cholim"},
+{"id":"doctor","word":"רופא","transcription":"rofe"},
+{"id":"police","word":"משטרה","transcription":"mishtara"},
+{"id":"ambulance","word":"אמבולנס","transcription":"ambolans"},
+{"id":"safe","word":"בטוח","transcription":"batuach"},
+{"id":"danger","word":"סכנה","transcription":"sakana"},
+{"id":"hurt","word":"פצוע","transcription":"patzu'a"},
+{"id":"unconscious","word":"חסר הכרה","transcription":"haser hakara"},
+{"id":"chest_pain","word":"כאב בחזה","transcription":"ke'ev be-chaze"},
+{"id":"allergic_reaction","word":"תגובה אלרגית","transcription":"tguva alergit"}
+]

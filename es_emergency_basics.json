@@ -1,0 +1,22 @@
+[
+{"id":"help","word":"ayuda","transcription":"a-yu-da"},
+{"id":"call_police","word":"llama a la policía","transcription":"ya-ma a la po-li-si-a"},
+{"id":"call_ambulance","word":"llama a una ambulancia","transcription":"ya-ma a u-na am-bu-lan-si-a"},
+{"id":"fire","word":"fuego","transcription":"fue-go"},
+{"id":"emergency","word":"emergencia","transcription":"e-mer-gen-si-a"},
+{"id":"i_need_help","word":"necesito ayuda","transcription":"ne-se-si-to a-yu-da"},
+{"id":"are_you_ok","word":"¿estás bien?","transcription":"es-tas bien"},
+{"id":"i_am_injured","word":"estoy herido","transcription":"es-toy e-ri-do"},
+{"id":"bleeding","word":"sangrado","transcription":"san-gra-do"},
+{"id":"pain","word":"dolor","transcription":"do-lor"},
+{"id":"hospital","word":"hospital","transcription":"hos-pi-tal"},
+{"id":"doctor","word":"doctor","transcription":"doc-tor"},
+{"id":"police","word":"policía","transcription":"po-li-si-a"},
+{"id":"ambulance","word":"ambulancia","transcription":"am-bu-lan-si-a"},
+{"id":"safe","word":"seguro","transcription":"se-gu-ro"},
+{"id":"danger","word":"peligro","transcription":"pe-li-gro"},
+{"id":"hurt","word":"herido","transcription":"e-ri-do"},
+{"id":"unconscious","word":"inconsciente","transcription":"in-con-sien-te"},
+{"id":"chest_pain","word":"dolor en el pecho","transcription":"do-lor en el pe-cho"},
+{"id":"allergic_reaction","word":"reacción alérgica","transcription":"re-ac-cion a-ler-gi-ca"}
+]

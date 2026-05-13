@@ -1,0 +1,22 @@
+[
+{"id":"help","word":"допомога","transcription":"do-po-mo-ha","type":"phrase"},
+{"id":"call_police","word":"виклич поліцію","transcription":"vyk-lych po-li-tsi-yu","type":"phrase"},
+{"id":"call_ambulance","word":"виклич швидку","transcription":"vyk-lych shvyd-ku","type":"phrase"},
+{"id":"fire","word":"вогонь","transcription":"vo-hon","type":"word"},
+{"id":"emergency","word":"надзвичайна ситуація","transcription":"nad-zvy-chay-na sy-tu-a-tsi-ya","type":"phrase"},
+{"id":"i_need_help","word":"мені потрібна допомога","transcription":"me-ni po-tri-bna do-po-mo-ha","type":"phrase"},
+{"id":"are_you_ok","word":"ти в порядку?","transcription":"ty v po-ryad-ku","type":"phrase"},
+{"id":"i_am_injured","word":"я поранений","transcription":"ya po-ra-ne-nyy","type":"phrase"},
+{"id":"bleeding","word":"кровотеча","transcription":"kro-vo-te-cha","type":"word"},
+{"id":"pain","word":"біль","transcription":"bil","type":"word"},
+{"id":"hospital","word":"лікарня","transcription":"li-kar-nya","type":"word"},
+{"id":"doctor","word":"лікар","transcription":"li-kar","type":"word"},
+{"id":"police","word":"поліція","transcription":"po-li-tsi-ya","type":"word"},
+{"id":"ambulance","word":"швидка","transcription":"shvyd-ka","type":"word"},
+{"id":"safe","word":"безпечно","transcription":"bez-pech-no","type":"word"},
+{"id":"danger","word":"небезпека","transcription":"ne-bez-pe-ka","type":"word"},
+{"id":"hurt","word":"пошкоджений","transcription":"posh-kod-zhe-nyy","type":"word"},
+{"id":"unconscious","word":"без свідомості","transcription":"bez svi-do-mo-sti","type":"phrase"},
+{"id":"chest_pain","word":"біль у грудях","transcription":"bil u gru-dyah","type":"phrase"},
+{"id":"allergic_reaction","word":"алергічна реакція","transcription":"a-ler-gi-chna re-ak-tsi-ya","type":"phrase"}
+]

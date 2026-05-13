@@ -1,0 +1,22 @@
+[
+{"id":"help","word":"help","transcription":"/hɛlp/","type":"phrase"},
+{"id":"call_police","word":"call the police","transcription":"/kɔːl ðə pəˈliːs/","type":"phrase"},
+{"id":"call_ambulance","word":"call an ambulance","transcription":"/kɔːl ən ˈæmbjʊləns/","type":"phrase"},
+{"id":"fire","word":"fire","transcription":"/ˈfaɪər/","type":"word"},
+{"id":"emergency","word":"emergency","transcription":"/ɪˈmɜːrdʒənsi/","type":"word"},
+{"id":"i_need_help","word":"I need help","transcription":"/aɪ niːd hɛlp/","type":"phrase"},
+{"id":"are_you_ok","word":"are you okay?","transcription":"/ɑːr juː oʊˈkeɪ/","type":"phrase"},
+{"id":"i_am_injured","word":"I am injured","transcription":"/aɪ æm ˈɪndʒərd/","type":"phrase"},
+{"id":"bleeding","word":"bleeding","transcription":"/ˈbliːdɪŋ/","type":"word"},
+{"id":"pain","word":"pain","transcription":"/peɪn/","type":"word"},
+{"id":"hospital","word":"hospital","transcription":"/ˈhɒspɪtl/","type":"word"},
+{"id":"doctor","word":"doctor","transcription":"/ˈdɒktər/","type":"word"},
+{"id":"police","word":"police","transcription":"/pəˈliːs/","type":"word"},
+{"id":"ambulance","word":"ambulance","transcription":"/ˈæmbjʊləns/","type":"word"},
+{"id":"safe","word":"safe","transcription":"/seɪf/","type":"word"},
+{"id":"danger","word":"danger","transcription":"/ˈdeɪndʒər/","type":"word"},
+{"id":"hurt","word":"hurt","transcription":"/hɜːrt/","type":"word"},
+{"id":"unconscious","word":"unconscious","transcription":"/ʌnˈkɒnʃəs/","type":"word"},
+{"id":"chest_pain","word":"chest pain","transcription":"/tʃɛst peɪn/","type":"phrase"},
+{"id":"allergic_reaction","word":"allergic reaction","transcription":"/əˈlɜːrdʒɪk riˈækʃən/","type":"phrase"}
+]
