@@ -1,0 +1,602 @@
+[
+  {
+    "id": "hello",
+    "word": "مرحبًا",
+    "transcription": "mrhban",
+    "type": "phrase"
+  },
+  {
+    "id": "hi",
+    "word": "أهلاً",
+    "transcription": "ahlaan",
+    "type": "phrase"
+  },
+  {
+    "id": "good_morning",
+    "word": "صباح الخير",
+    "transcription": "sabah alkhayr",
+    "type": "phrase"
+  },
+  {
+    "id": "good_afternoon",
+    "word": "مساء الخير",
+    "transcription": "masa' alkhayr",
+    "type": "phrase"
+  },
+  {
+    "id": "good_evening",
+    "word": "مساء الخير",
+    "transcription": "masa' alkhayr",
+    "type": "phrase"
+  },
+  {
+    "id": "good_night",
+    "word": "طاب مساؤك",
+    "transcription": "tab masawuk",
+    "type": "phrase"
+  },
+  {
+    "id": "how_are_you",
+    "word": "كيف حالك؟",
+    "transcription": "kayf halika?",
+    "type": "phrase"
+  },
+  {
+    "id": "im_good",
+    "word": "أنا بخير",
+    "transcription": "'ana bikhayr",
+    "type": "phrase"
+  },
+  {
+    "id": "im_fine",
+    "word": "أنا بخير",
+    "transcription": "'ana bikhayr",
+    "type": "phrase"
+  },
+  {
+    "id": "not_bad",
+    "word": "ليس سيئًا",
+    "transcription": "lays syyan",
+    "type": "phrase"
+  },
+  {
+    "id": "whats_up",
+    "word": "ما أخبارك؟",
+    "transcription": "ma 'akhbarika?",
+    "type": "phrase"
+  },
+  {
+    "id": "nothing_much",
+    "word": "لا شيء كثيرا",
+    "transcription": "la shay' kathiran",
+    "type": "phrase"
+  },
+  {
+    "id": "nice_to_meet_you",
+    "word": "سعيد بلقائك",
+    "transcription": "saeid biliqayik",
+    "type": "phrase"
+  },
+  {
+    "id": "same_here",
+    "word": "نفس الشيء هنا",
+    "transcription": "nafs alshay' huna",
+    "type": "phrase"
+  },
+  {
+    "id": "thank_you",
+    "word": "شكرًا لك",
+    "transcription": "shkran lak",
+    "type": "phrase"
+  },
+  {
+    "id": "thanks",
+    "word": "شكرًا",
+    "transcription": "shkran",
+    "type": "phrase"
+  },
+  {
+    "id": "youre_welcome",
+    "word": "على الرحب والسعة",
+    "transcription": "ealaa alrahb walsaea",
+    "type": "phrase"
+  },
+  {
+    "id": "please",
+    "word": "لو سمحت",
+    "transcription": "law samaht",
+    "type": "word"
+  },
+  {
+    "id": "excuse_me",
+    "word": "اعذرني",
+    "transcription": "aiedhirni",
+    "type": "phrase"
+  },
+  {
+    "id": "sorry",
+    "word": "آسف",
+    "transcription": "asf",
+    "type": "word"
+  },
+  {
+    "id": "yes",
+    "word": "نعم",
+    "transcription": "naeam",
+    "type": "word"
+  },
+  {
+    "id": "no",
+    "word": "لا",
+    "transcription": "la",
+    "type": "word"
+  },
+  {
+    "id": "maybe",
+    "word": "ربما",
+    "transcription": "rubama",
+    "type": "word"
+  },
+  {
+    "id": "i_dont_know",
+    "word": "لا أعرف",
+    "transcription": "la 'aerif",
+    "type": "phrase"
+  },
+  {
+    "id": "i_understand",
+    "word": "أفهم",
+    "transcription": "'afham",
+    "type": "phrase"
+  },
+  {
+    "id": "i_dont_understand",
+    "word": "لا أفهم",
+    "transcription": "la 'afham",
+    "type": "phrase"
+  },
+  {
+    "id": "can_you_help_me",
+    "word": "هل يمكنك مساعدتي؟",
+    "transcription": "hal yumkinuk musaeadati?",
+    "type": "phrase"
+  },
+  {
+    "id": "help_me",
+    "word": "ساعدني",
+    "transcription": "saeadani",
+    "type": "phrase"
+  },
+  {
+    "id": "repeat_please",
+    "word": "كرر من فضلك",
+    "transcription": "karir min fadlik",
+    "type": "phrase"
+  },
+  {
+    "id": "speak_slowly",
+    "word": "تحدث ببطء",
+    "transcription": "tahadath bibut'",
+    "type": "phrase"
+  },
+  {
+    "id": "what_is_this",
+    "word": "ما هذا؟",
+    "transcription": "ma hadha?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_much",
+    "word": "كم ثمن؟",
+    "transcription": "kam thamana?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_is",
+    "word": "أين هو...؟",
+    "transcription": "'ayn hu...?",
+    "type": "phrase"
+  },
+  {
+    "id": "i_need",
+    "word": "انا بحاجة",
+    "transcription": "ana bihaja",
+    "type": "phrase"
+  },
+  {
+    "id": "i_want",
+    "word": "أريد",
+    "transcription": "'urid",
+    "type": "phrase"
+  },
+  {
+    "id": "i_like_it",
+    "word": "أحبها",
+    "transcription": "'uhibuha",
+    "type": "phrase"
+  },
+  {
+    "id": "i_dont_like_it",
+    "word": "أنا لا أحب ذلك",
+    "transcription": "'ana la 'uhibu dhalik",
+    "type": "phrase"
+  },
+  {
+    "id": "im_tired",
+    "word": "أنا متعب",
+    "transcription": "'ana muteab",
+    "type": "phrase"
+  },
+  {
+    "id": "im_hungry",
+    "word": "أنا جائع",
+    "transcription": "'ana jayie",
+    "type": "phrase"
+  },
+  {
+    "id": "im_thirsty",
+    "word": "أنا عطشان",
+    "transcription": "'ana eatshan",
+    "type": "phrase"
+  },
+  {
+    "id": "im_happy",
+    "word": "أنا سعيد",
+    "transcription": "'ana saeid",
+    "type": "phrase"
+  },
+  {
+    "id": "im_sad",
+    "word": "أنا حزين",
+    "transcription": "'ana hazin",
+    "type": "phrase"
+  },
+  {
+    "id": "im_angry",
+    "word": "أنا غاضب",
+    "transcription": "'ana ghadib",
+    "type": "phrase"
+  },
+  {
+    "id": "im_scared",
+    "word": "أنا خائف",
+    "transcription": "'ana khayif",
+    "type": "phrase"
+  },
+  {
+    "id": "im_busy",
+    "word": "أنا مشغول",
+    "transcription": "'ana mashghul",
+    "type": "phrase"
+  },
+  {
+    "id": "im_free",
+    "word": "أنا حر",
+    "transcription": "'ana hurun",
+    "type": "phrase"
+  },
+  {
+    "id": "today",
+    "word": "اليوم",
+    "transcription": "alyawm",
+    "type": "word"
+  },
+  {
+    "id": "tomorrow",
+    "word": "غداً",
+    "transcription": "ghdaan",
+    "type": "word"
+  },
+  {
+    "id": "yesterday",
+    "word": "أمس",
+    "transcription": "'ams",
+    "type": "word"
+  },
+  {
+    "id": "now",
+    "word": "الآن",
+    "transcription": "alan",
+    "type": "word"
+  },
+  {
+    "id": "later",
+    "word": "لاحقاً",
+    "transcription": "lahqaan",
+    "type": "word"
+  },
+  {
+    "id": "morning",
+    "word": "صباح",
+    "transcription": "sabah",
+    "type": "word"
+  },
+  {
+    "id": "afternoon",
+    "word": "بعد الظهر",
+    "transcription": "baed alzuhr",
+    "type": "word"
+  },
+  {
+    "id": "evening",
+    "word": "مساء",
+    "transcription": "masa'an",
+    "type": "word"
+  },
+  {
+    "id": "night",
+    "word": "ليلة",
+    "transcription": "layla",
+    "type": "word"
+  },
+  {
+    "id": "time",
+    "word": "وقت",
+    "transcription": "waqt",
+    "type": "word"
+  },
+  {
+    "id": "what_time_is_it",
+    "word": "أي ساعة؟",
+    "transcription": "'ayu saeatin?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_old_are_you",
+    "word": "كم عمرك؟",
+    "transcription": "kam eumarka?",
+    "type": "phrase"
+  },
+  {
+    "id": "im_from",
+    "word": "أنا من",
+    "transcription": "'ana min",
+    "type": "phrase"
+  },
+  {
+    "id": "where_are_you_from",
+    "word": "من أين أنت ؟",
+    "transcription": "min 'ayn 'ant ?",
+    "type": "phrase"
+  },
+  {
+    "id": "whats_your_name",
+    "word": "ما اسمك؟",
+    "transcription": "ma asmuk?",
+    "type": "phrase"
+  },
+  {
+    "id": "my_name_is",
+    "word": "اسمي هو",
+    "transcription": "asmi hu",
+    "type": "phrase"
+  },
+  {
+    "id": "nice_day",
+    "word": "يوم جميل",
+    "transcription": "yawm jamil",
+    "type": "phrase"
+  },
+  {
+    "id": "good_luck",
+    "word": "حظ سعيد",
+    "transcription": "hazun saeid",
+    "type": "phrase"
+  },
+  {
+    "id": "congratulations",
+    "word": "تهانينا",
+    "transcription": "tahanina",
+    "type": "word"
+  },
+  {
+    "id": "welcome",
+    "word": "مرحباً",
+    "transcription": "mrhbaan",
+    "type": "word"
+  },
+  {
+    "id": "goodbye",
+    "word": "مع السلامة",
+    "transcription": "mae alsalama",
+    "type": "word"
+  },
+  {
+    "id": "see_you",
+    "word": "أرك لاحقًا",
+    "transcription": "'aruk lahqan",
+    "type": "phrase"
+  },
+  {
+    "id": "see_you_later",
+    "word": "أراك لاحقًا",
+    "transcription": "'arak lahqan",
+    "type": "phrase"
+  },
+  {
+    "id": "take_care",
+    "word": "يعتني",
+    "transcription": "yaetani",
+    "type": "phrase"
+  },
+  {
+    "id": "be_careful",
+    "word": "احرص",
+    "transcription": "ahris",
+    "type": "phrase"
+  },
+  {
+    "id": "open",
+    "word": "يفتح",
+    "transcription": "yuftah",
+    "type": "word"
+  },
+  {
+    "id": "close",
+    "word": "يغلق",
+    "transcription": "yughlaq",
+    "type": "word"
+  },
+  {
+    "id": "go",
+    "word": "يذهب",
+    "transcription": "yadhhab",
+    "type": "word"
+  },
+  {
+    "id": "come",
+    "word": "يأتي",
+    "transcription": "yati",
+    "type": "word"
+  },
+  {
+    "id": "stop",
+    "word": "قف",
+    "transcription": "qf",
+    "type": "word"
+  },
+  {
+    "id": "wait",
+    "word": "انتظر",
+    "transcription": "antazir",
+    "type": "word"
+  },
+  {
+    "id": "sit",
+    "word": "يجلس",
+    "transcription": "yajlis",
+    "type": "word"
+  },
+  {
+    "id": "stand",
+    "word": "يقف",
+    "transcription": "yaqif",
+    "type": "word"
+  },
+  {
+    "id": "eat",
+    "word": "يأكل",
+    "transcription": "yakul",
+    "type": "word"
+  },
+  {
+    "id": "drink",
+    "word": "شرب",
+    "transcription": "shurib",
+    "type": "word"
+  },
+  {
+    "id": "sleep",
+    "word": "ينام",
+    "transcription": "yanam",
+    "type": "word"
+  },
+  {
+    "id": "wake_up",
+    "word": "استيقظ",
+    "transcription": "aistayqaz",
+    "type": "phrase"
+  },
+  {
+    "id": "work",
+    "word": "عمل",
+    "transcription": "eamil",
+    "type": "word"
+  },
+  {
+    "id": "study",
+    "word": "يذاكر",
+    "transcription": "yudhakir",
+    "type": "word"
+  },
+  {
+    "id": "play",
+    "word": "يلعب",
+    "transcription": "yaleab",
+    "type": "word"
+  },
+  {
+    "id": "listen",
+    "word": "يستمع",
+    "transcription": "yastamie",
+    "type": "word"
+  },
+  {
+    "id": "look",
+    "word": "ينظر",
+    "transcription": "yanzur",
+    "type": "word"
+  },
+  {
+    "id": "write",
+    "word": "يكتب",
+    "transcription": "yaktub",
+    "type": "word"
+  },
+  {
+    "id": "read",
+    "word": "يقرأ",
+    "transcription": "yaqra",
+    "type": "word"
+  },
+  {
+    "id": "call_me",
+    "word": "اتصل بي",
+    "transcription": "aitasil bi",
+    "type": "phrase"
+  },
+  {
+    "id": "text_me",
+    "word": "أرسل لي رسالة نصية",
+    "transcription": "'arsil li risalatan nasiyatan",
+    "type": "phrase"
+  },
+  {
+    "id": "i_agree",
+    "word": "أنا موافق",
+    "transcription": "'ana muafiq",
+    "type": "phrase"
+  },
+  {
+    "id": "i_disagree",
+    "word": "أنا أعترض",
+    "transcription": "'ana 'aetarid",
+    "type": "phrase"
+  },
+  {
+    "id": "of_course",
+    "word": "بالطبع",
+    "transcription": "bialtabe",
+    "type": "phrase"
+  },
+  {
+    "id": "i_think_so",
+    "word": "أعتقد ذلك",
+    "transcription": "'aetaqid dhalik",
+    "type": "phrase"
+  },
+  {
+    "id": "i_dont_think_so",
+    "word": "أنا لا أعتقد ذلك",
+    "transcription": "'ana la 'aetaqid dhalik",
+    "type": "phrase"
+  },
+  {
+    "id": "thats_right",
+    "word": "هذا صحيح",
+    "transcription": "hadha sahih",
+    "type": "phrase"
+  },
+  {
+    "id": "wrong",
+    "word": "خطأ",
+    "transcription": "khata",
+    "type": "word"
+  },
+  {
+    "id": "its_ok",
+    "word": "لا بأس",
+    "transcription": "la bas",
+    "type": "phrase"
+  }
+]

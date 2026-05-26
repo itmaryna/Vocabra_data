@@ -1,0 +1,608 @@
+[
+  {
+    "id": "kitchen",
+    "word": "مطبخ",
+    "transcription": "matbakh",
+    "type": "word"
+  },
+  {
+    "id": "chef",
+    "word": "الشيف",
+    "transcription": "alshayf",
+    "type": "word"
+  },
+  {
+    "id": "cook",
+    "word": "يطبخ",
+    "transcription": "yatbakh",
+    "type": "word"
+  },
+  {
+    "id": "recipe",
+    "word": "وصفة",
+    "transcription": "wasfatan",
+    "type": "word"
+  },
+  {
+    "id": "ingredient",
+    "word": "المكون",
+    "transcription": "almukawan",
+    "type": "word"
+  },
+  {
+    "id": "oven",
+    "word": "فرن",
+    "transcription": "furan",
+    "type": "word"
+  },
+  {
+    "id": "stove",
+    "word": "موقد",
+    "transcription": "mawqid",
+    "type": "word"
+  },
+  {
+    "id": "pan",
+    "word": "مِقلاة",
+    "transcription": "miqla",
+    "type": "word"
+  },
+  {
+    "id": "pot",
+    "word": "وعاء",
+    "transcription": "wiea'an",
+    "type": "word"
+  },
+  {
+    "id": "knife",
+    "word": "سكين",
+    "transcription": "sikiyn",
+    "type": "word"
+  },
+  {
+    "id": "fork",
+    "word": "شوكة",
+    "transcription": "shawka",
+    "type": "word"
+  },
+  {
+    "id": "spoon",
+    "word": "ملعقة",
+    "transcription": "mileaqa",
+    "type": "word"
+  },
+  {
+    "id": "plate",
+    "word": "طبق",
+    "transcription": "tabaq",
+    "type": "word"
+  },
+  {
+    "id": "bowl",
+    "word": "صَحن",
+    "transcription": "sahn",
+    "type": "word"
+  },
+  {
+    "id": "cup",
+    "word": "كوب",
+    "transcription": "kub",
+    "type": "word"
+  },
+  {
+    "id": "glass",
+    "word": "زجاج",
+    "transcription": "zujaj",
+    "type": "word"
+  },
+  {
+    "id": "cutting_board",
+    "word": "لوح التقطيع",
+    "transcription": "lawih altaqtie",
+    "type": "word"
+  },
+  {
+    "id": "spatula",
+    "word": "ملعقة",
+    "transcription": "mileaqa",
+    "type": "word"
+  },
+  {
+    "id": "whisk",
+    "word": "خفقت",
+    "transcription": "khafaqat",
+    "type": "word"
+  },
+  {
+    "id": "ladle",
+    "word": "مغرفة",
+    "transcription": "maghrifa",
+    "type": "word"
+  },
+  {
+    "id": "apron",
+    "word": "ساحة",
+    "transcription": "saha",
+    "type": "word"
+  },
+  {
+    "id": "sink",
+    "word": "حوض",
+    "transcription": "hawd",
+    "type": "word"
+  },
+  {
+    "id": "fridge",
+    "word": "ثلاجة",
+    "transcription": "thalaaja",
+    "type": "word"
+  },
+  {
+    "id": "freezer",
+    "word": "الفريزر",
+    "transcription": "alfrizir",
+    "type": "word"
+  },
+  {
+    "id": "microwave",
+    "word": "ميكروويف",
+    "transcription": "mikruwif",
+    "type": "word"
+  },
+  {
+    "id": "toaster",
+    "word": "محمصة",
+    "transcription": "muhamasa",
+    "type": "word"
+  },
+  {
+    "id": "blender",
+    "word": "خلاط",
+    "transcription": "khalat",
+    "type": "word"
+  },
+  {
+    "id": "mixer",
+    "word": "خلاط",
+    "transcription": "khalat",
+    "type": "word"
+  },
+  {
+    "id": "grill",
+    "word": "شواء",
+    "transcription": "shiwaa'",
+    "type": "word"
+  },
+  {
+    "id": "tray",
+    "word": "صينية",
+    "transcription": "sinia",
+    "type": "word"
+  },
+  {
+    "id": "napkin",
+    "word": "منديل",
+    "transcription": "mindil",
+    "type": "word"
+  },
+  {
+    "id": "tablecloth",
+    "word": "مفرش المائدة",
+    "transcription": "mufrish almayida",
+    "type": "word"
+  },
+  {
+    "id": "salt",
+    "word": "ملح",
+    "transcription": "milh",
+    "type": "word"
+  },
+  {
+    "id": "pepper",
+    "word": "الفلفل",
+    "transcription": "alfilfil",
+    "type": "word"
+  },
+  {
+    "id": "sugar",
+    "word": "سكر",
+    "transcription": "sukar",
+    "type": "word"
+  },
+  {
+    "id": "flour",
+    "word": "دقيق",
+    "transcription": "daqiq",
+    "type": "word"
+  },
+  {
+    "id": "oil",
+    "word": "زيت",
+    "transcription": "zayt",
+    "type": "word"
+  },
+  {
+    "id": "butter",
+    "word": "سمنة",
+    "transcription": "simna",
+    "type": "word"
+  },
+  {
+    "id": "egg",
+    "word": "بيضة",
+    "transcription": "bayda",
+    "type": "word"
+  },
+  {
+    "id": "milk",
+    "word": "لبن",
+    "transcription": "laban",
+    "type": "word"
+  },
+  {
+    "id": "cheese",
+    "word": "جبن",
+    "transcription": "jubn",
+    "type": "word"
+  },
+  {
+    "id": "bread",
+    "word": "خبز",
+    "transcription": "khubz",
+    "type": "word"
+  },
+  {
+    "id": "rice",
+    "word": "أرز",
+    "transcription": "'arz",
+    "type": "word"
+  },
+  {
+    "id": "pasta",
+    "word": "معكرونة",
+    "transcription": "maekaruna",
+    "type": "word"
+  },
+  {
+    "id": "soup",
+    "word": "حساء",
+    "transcription": "hisa'an",
+    "type": "word"
+  },
+  {
+    "id": "salad",
+    "word": "سلطة",
+    "transcription": "sulta",
+    "type": "word"
+  },
+  {
+    "id": "meat",
+    "word": "لحمة",
+    "transcription": "luhmatan",
+    "type": "word"
+  },
+  {
+    "id": "fish",
+    "word": "سمكة",
+    "transcription": "samaka",
+    "type": "word"
+  },
+  {
+    "id": "chicken",
+    "word": "فرخة",
+    "transcription": "farkha",
+    "type": "word"
+  },
+  {
+    "id": "vegetable",
+    "word": "نباتي",
+    "transcription": "nabati",
+    "type": "word"
+  },
+  {
+    "id": "fruit",
+    "word": "الفاكهة",
+    "transcription": "alfakiha",
+    "type": "word"
+  },
+  {
+    "id": "apple",
+    "word": "تفاحة",
+    "transcription": "tufaahatan",
+    "type": "word"
+  },
+  {
+    "id": "banana",
+    "word": "موز",
+    "transcription": "mawz",
+    "type": "word"
+  },
+  {
+    "id": "orange",
+    "word": "برتقال",
+    "transcription": "burtuqal",
+    "type": "word"
+  },
+  {
+    "id": "tomato",
+    "word": "طماطم",
+    "transcription": "tamatim",
+    "type": "word"
+  },
+  {
+    "id": "potato",
+    "word": "البطاطس",
+    "transcription": "albatatis",
+    "type": "word"
+  },
+  {
+    "id": "onion",
+    "word": "بصل",
+    "transcription": "basal",
+    "type": "word"
+  },
+  {
+    "id": "garlic",
+    "word": "ثوم",
+    "transcription": "thum",
+    "type": "word"
+  },
+  {
+    "id": "carrot",
+    "word": "جزرة",
+    "transcription": "jazra",
+    "type": "word"
+  },
+  {
+    "id": "cucumber",
+    "word": "خيار",
+    "transcription": "khiar",
+    "type": "word"
+  },
+  {
+    "id": "lettuce",
+    "word": "خَسّ",
+    "transcription": "khas",
+    "type": "word"
+  },
+  {
+    "id": "pepper_vegetable",
+    "word": "الفلفل الحلو",
+    "transcription": "alfulfil alhulw",
+    "type": "word"
+  },
+  {
+    "id": "broccoli",
+    "word": "بروكلي",
+    "transcription": "brukli",
+    "type": "word"
+  },
+  {
+    "id": "mushroom",
+    "word": "فطر",
+    "transcription": "fatar",
+    "type": "word"
+  },
+  {
+    "id": "corn",
+    "word": "حبوب ذرة",
+    "transcription": "hubub dharatan",
+    "type": "word"
+  },
+  {
+    "id": "beans",
+    "word": "فول",
+    "transcription": "fwl",
+    "type": "word"
+  },
+  {
+    "id": "peas",
+    "word": "البازلاء",
+    "transcription": "albazala'",
+    "type": "word"
+  },
+  {
+    "id": "lemon",
+    "word": "ليمون",
+    "transcription": "lymun",
+    "type": "word"
+  },
+  {
+    "id": "lime",
+    "word": "الجير",
+    "transcription": "aljir",
+    "type": "word"
+  },
+  {
+    "id": "strawberry",
+    "word": "الفراولة",
+    "transcription": "alfarawila",
+    "type": "word"
+  },
+  {
+    "id": "grape",
+    "word": "العنب",
+    "transcription": "aleanab",
+    "type": "word"
+  },
+  {
+    "id": "watermelon",
+    "word": "بطيخ",
+    "transcription": "batikh",
+    "type": "word"
+  },
+  {
+    "id": "pineapple",
+    "word": "أناناس",
+    "transcription": "'ananas",
+    "type": "word"
+  },
+  {
+    "id": "coffee",
+    "word": "قهوة",
+    "transcription": "qahwa",
+    "type": "word"
+  },
+  {
+    "id": "tea",
+    "word": "شاي",
+    "transcription": "shay",
+    "type": "word"
+  },
+  {
+    "id": "juice",
+    "word": "عصير",
+    "transcription": "easir",
+    "type": "word"
+  },
+  {
+    "id": "water",
+    "word": "ماء",
+    "transcription": "ma'",
+    "type": "word"
+  },
+  {
+    "id": "wine",
+    "word": "خمر",
+    "transcription": "khamr",
+    "type": "word"
+  },
+  {
+    "id": "beer",
+    "word": "جعة",
+    "transcription": "jieatan",
+    "type": "word"
+  },
+  {
+    "id": "cook_verb",
+    "word": "لطهي الطعام",
+    "transcription": "latahy altaeam",
+    "type": "phrase"
+  },
+  {
+    "id": "bake",
+    "word": "خبز",
+    "transcription": "khubz",
+    "type": "word"
+  },
+  {
+    "id": "fry",
+    "word": "جمهورية يوغوسلافيا الاتحادية",
+    "transcription": "jumhuriat yughuslafia aliatihadia",
+    "type": "word"
+  },
+  {
+    "id": "boil",
+    "word": "يغلي",
+    "transcription": "yaghli",
+    "type": "word"
+  },
+  {
+    "id": "steam",
+    "word": "بخار",
+    "transcription": "bukhar",
+    "type": "word"
+  },
+  {
+    "id": "grate",
+    "word": "صر",
+    "transcription": "sur",
+    "type": "word"
+  },
+  {
+    "id": "slice",
+    "word": "شريحة",
+    "transcription": "shariha",
+    "type": "word"
+  },
+  {
+    "id": "chop",
+    "word": "ختم",
+    "transcription": "khatim",
+    "type": "word"
+  },
+  {
+    "id": "mix",
+    "word": "مزج",
+    "transcription": "mazj",
+    "type": "word"
+  },
+  {
+    "id": "stir",
+    "word": "اثارة",
+    "transcription": "aithara",
+    "type": "word"
+  },
+  {
+    "id": "pour",
+    "word": "صب",
+    "transcription": "sabb",
+    "type": "word"
+  },
+  {
+    "id": "wash",
+    "word": "غسل",
+    "transcription": "ghasl",
+    "type": "word"
+  },
+  {
+    "id": "peel",
+    "word": "قشر",
+    "transcription": "qashar",
+    "type": "word"
+  },
+  {
+    "id": "measure",
+    "word": "يقيس",
+    "transcription": "yaqis",
+    "type": "word"
+  },
+  {
+    "id": "taste",
+    "word": "ذوق",
+    "transcription": "dhawq",
+    "type": "word"
+  },
+  {
+    "id": "smell",
+    "word": "يشم",
+    "transcription": "yashumu",
+    "type": "word"
+  },
+  {
+    "id": "delicious",
+    "word": "لذيذ",
+    "transcription": "ladhidh",
+    "type": "word"
+  },
+  {
+    "id": "spicy",
+    "word": "حار",
+    "transcription": "har",
+    "type": "word"
+  },
+  {
+    "id": "sweet",
+    "word": "حلو",
+    "transcription": "hulw",
+    "type": "word"
+  },
+  {
+    "id": "salty",
+    "word": "مالح",
+    "transcription": "malih",
+    "type": "word"
+  },
+  {
+    "id": "sour",
+    "word": "حامِض",
+    "transcription": "hamid",
+    "type": "word"
+  },
+  {
+    "id": "bitter",
+    "word": "مر",
+    "transcription": "mara",
+    "type": "word"
+  }
+]

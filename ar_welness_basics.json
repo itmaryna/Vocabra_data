@@ -1,0 +1,248 @@
+[
+  {
+    "id": "wellness",
+    "word": "صحة",
+    "transcription": "siha",
+    "type": "word"
+  },
+  {
+    "id": "health",
+    "word": "صحة",
+    "transcription": "siha",
+    "type": "word"
+  },
+  {
+    "id": "body",
+    "word": "جسم",
+    "transcription": "jism",
+    "type": "word"
+  },
+  {
+    "id": "my_body",
+    "word": "جسدي",
+    "transcription": "jasadi",
+    "type": "phrase"
+  },
+  {
+    "id": "mind",
+    "word": "عقل",
+    "transcription": "eaql",
+    "type": "word"
+  },
+  {
+    "id": "feeling",
+    "word": "إحساس",
+    "transcription": "'iihsas",
+    "type": "word"
+  },
+  {
+    "id": "i_feel_good",
+    "word": "أشعر أنني بحالة جيدة",
+    "transcription": "'asheur 'anani bihalat jayida",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_bad",
+    "word": "أشعر بشعور سيء",
+    "transcription": "'asheur bishueur sayi'",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_tired",
+    "word": "أشعر بالتعب",
+    "transcription": "'asheur bialtaeab",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_happy",
+    "word": "أشعر بالسعادة",
+    "transcription": "'asheur bialsaeada",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_sad",
+    "word": "أشعر بالحزن",
+    "transcription": "'asheur bialhuzn",
+    "type": "phrase"
+  },
+  {
+    "id": "stress",
+    "word": "ضغط",
+    "transcription": "daght",
+    "type": "word"
+  },
+  {
+    "id": "relax",
+    "word": "يستريح",
+    "transcription": "yastarih",
+    "type": "verb"
+  },
+  {
+    "id": "calm",
+    "word": "هادئ",
+    "transcription": "hadi",
+    "type": "word"
+  },
+  {
+    "id": "anxiety",
+    "word": "قلق",
+    "transcription": "qalaq",
+    "type": "word"
+  },
+  {
+    "id": "emotion",
+    "word": "العاطفة",
+    "transcription": "aleatifa",
+    "type": "word"
+  },
+  {
+    "id": "mood",
+    "word": "مزاج",
+    "transcription": "mizaj",
+    "type": "word"
+  },
+  {
+    "id": "energy",
+    "word": "طاقة",
+    "transcription": "taqa",
+    "type": "word"
+  },
+  {
+    "id": "sleep",
+    "word": "ينام",
+    "transcription": "yanam",
+    "type": "word"
+  },
+  {
+    "id": "rest",
+    "word": "استراحة",
+    "transcription": "aistiraha",
+    "type": "word"
+  },
+  {
+    "id": "breathe",
+    "word": "يتنفس",
+    "transcription": "yatanafas",
+    "type": "verb"
+  },
+  {
+    "id": "breathing",
+    "word": "التنفس",
+    "transcription": "altanafus",
+    "type": "word"
+  },
+  {
+    "id": "meditation",
+    "word": "تأمل",
+    "transcription": "tamal",
+    "type": "word"
+  },
+  {
+    "id": "peace",
+    "word": "سلام",
+    "transcription": "salam",
+    "type": "word"
+  },
+  {
+    "id": "balance",
+    "word": "توازن",
+    "transcription": "tawazun",
+    "type": "word"
+  },
+  {
+    "id": "routine",
+    "word": "روتين",
+    "transcription": "rutin",
+    "type": "word"
+  },
+  {
+    "id": "my_day",
+    "word": "يومي",
+    "transcription": "yawmi",
+    "type": "phrase"
+  },
+  {
+    "id": "morning",
+    "word": "صباح",
+    "transcription": "sabah",
+    "type": "word"
+  },
+  {
+    "id": "afternoon",
+    "word": "بعد الظهر",
+    "transcription": "baed alzuhr",
+    "type": "word"
+  },
+  {
+    "id": "evening",
+    "word": "مساء",
+    "transcription": "masa'an",
+    "type": "word"
+  },
+  {
+    "id": "night",
+    "word": "ليلة",
+    "transcription": "layla",
+    "type": "word"
+  },
+  {
+    "id": "self_care",
+    "word": "رعاية ذاتية",
+    "transcription": "rieayat dhatia",
+    "type": "word"
+  },
+  {
+    "id": "listen_body",
+    "word": "استمع إلى جسدي",
+    "transcription": "astamie 'iilaa jasadi",
+    "type": "phrase"
+  },
+  {
+    "id": "healthy_lifestyle",
+    "word": "نمط حياة صحي",
+    "transcription": "namat hayaat sihiyin",
+    "type": "phrase"
+  },
+  {
+    "id": "mental_health",
+    "word": "الصحة العقلية",
+    "transcription": "alsihat aleaqlia",
+    "type": "phrase"
+  },
+  {
+    "id": "positive_thinking",
+    "word": "التفكير الإيجابي",
+    "transcription": "altafkir al'iijabiu",
+    "type": "phrase"
+  },
+  {
+    "id": "negative_thinking",
+    "word": "التفكير السلبي",
+    "transcription": "altafkir alsalbiu",
+    "type": "phrase"
+  },
+  {
+    "id": "gratitude",
+    "word": "اِمتِنان",
+    "transcription": "aimtinan",
+    "type": "word"
+  },
+  {
+    "id": "focus",
+    "word": "ركز",
+    "transcription": "rakaz",
+    "type": "word"
+  },
+  {
+    "id": "growth",
+    "word": "نمو",
+    "transcription": "numuun",
+    "type": "word"
+  },
+  {
+    "id": "healing",
+    "word": "شفاء",
+    "transcription": "shifa'",
+    "type": "word"
+  }
+]

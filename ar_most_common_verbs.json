@@ -1,0 +1,302 @@
+[
+  {
+    "id": "be",
+    "word": "يكون",
+    "transcription": "yakun",
+    "type": "verb"
+  },
+  {
+    "id": "have",
+    "word": "يملك",
+    "transcription": "yamlik",
+    "type": "verb"
+  },
+  {
+    "id": "do",
+    "word": "يفعل",
+    "transcription": "yafeal",
+    "type": "verb"
+  },
+  {
+    "id": "say",
+    "word": "يقول",
+    "transcription": "yaqul",
+    "type": "verb"
+  },
+  {
+    "id": "go",
+    "word": "يذهب",
+    "transcription": "yadhhab",
+    "type": "verb"
+  },
+  {
+    "id": "get",
+    "word": "يحصل",
+    "transcription": "yahsul",
+    "type": "verb"
+  },
+  {
+    "id": "make",
+    "word": "يصنع",
+    "transcription": "yasnae",
+    "type": "verb"
+  },
+  {
+    "id": "know",
+    "word": "يعرف",
+    "transcription": "yueraf",
+    "type": "verb"
+  },
+  {
+    "id": "think",
+    "word": "يفكر",
+    "transcription": "yufakir",
+    "type": "verb"
+  },
+  {
+    "id": "take",
+    "word": "يأخذ",
+    "transcription": "yakhudh",
+    "type": "verb"
+  },
+  {
+    "id": "see",
+    "word": "يرى",
+    "transcription": "yaraa",
+    "type": "verb"
+  },
+  {
+    "id": "come",
+    "word": "يأتي",
+    "transcription": "yati",
+    "type": "verb"
+  },
+  {
+    "id": "want",
+    "word": "يريد",
+    "transcription": "yurid",
+    "type": "verb"
+  },
+  {
+    "id": "look",
+    "word": "ينظر",
+    "transcription": "yanzur",
+    "type": "verb"
+  },
+  {
+    "id": "use",
+    "word": "يستخدم",
+    "transcription": "yustakhdam",
+    "type": "verb"
+  },
+  {
+    "id": "find",
+    "word": "يجد",
+    "transcription": "yajid",
+    "type": "verb"
+  },
+  {
+    "id": "give",
+    "word": "يعطي",
+    "transcription": "yueti",
+    "type": "verb"
+  },
+  {
+    "id": "tell",
+    "word": "يخبر",
+    "transcription": "yukhbir",
+    "type": "verb"
+  },
+  {
+    "id": "work",
+    "word": "عمل",
+    "transcription": "eamil",
+    "type": "verb"
+  },
+  {
+    "id": "call",
+    "word": "يتصل",
+    "transcription": "yatasil",
+    "type": "verb"
+  },
+  {
+    "id": "try",
+    "word": "يحاول",
+    "transcription": "yuhawil",
+    "type": "verb"
+  },
+  {
+    "id": "ask",
+    "word": "بسأل",
+    "transcription": "bisa'al",
+    "type": "verb"
+  },
+  {
+    "id": "need",
+    "word": "يحتاج",
+    "transcription": "yahtaj",
+    "type": "verb"
+  },
+  {
+    "id": "feel",
+    "word": "يشعر",
+    "transcription": "yasheur",
+    "type": "verb"
+  },
+  {
+    "id": "become",
+    "word": "يصبح",
+    "transcription": "yusbih",
+    "type": "verb"
+  },
+  {
+    "id": "leave",
+    "word": "يترك",
+    "transcription": "yatruk",
+    "type": "verb"
+  },
+  {
+    "id": "put",
+    "word": "يضع",
+    "transcription": "yadae",
+    "type": "verb"
+  },
+  {
+    "id": "mean",
+    "word": "يقصد",
+    "transcription": "yaqsid",
+    "type": "verb"
+  },
+  {
+    "id": "keep",
+    "word": "يحفظ",
+    "transcription": "yahfaz",
+    "type": "verb"
+  },
+  {
+    "id": "let",
+    "word": "يترك",
+    "transcription": "yatruk",
+    "type": "verb"
+  },
+  {
+    "id": "begin",
+    "word": "يبدأ",
+    "transcription": "yabda",
+    "type": "verb"
+  },
+  {
+    "id": "seem",
+    "word": "يبدو",
+    "transcription": "yabdu",
+    "type": "verb"
+  },
+  {
+    "id": "help",
+    "word": "يساعد",
+    "transcription": "yusaeid",
+    "type": "verb"
+  },
+  {
+    "id": "talk",
+    "word": "يتحدث",
+    "transcription": "yatahadath",
+    "type": "verb"
+  },
+  {
+    "id": "turn",
+    "word": "دور",
+    "transcription": "dawr",
+    "type": "verb"
+  },
+  {
+    "id": "start",
+    "word": "يبدأ",
+    "transcription": "yabda",
+    "type": "verb"
+  },
+  {
+    "id": "show",
+    "word": "يعرض",
+    "transcription": "yuerid",
+    "type": "verb"
+  },
+  {
+    "id": "hear",
+    "word": "يسمع",
+    "transcription": "yasmae",
+    "type": "verb"
+  },
+  {
+    "id": "play",
+    "word": "يلعب",
+    "transcription": "yaleab",
+    "type": "verb"
+  },
+  {
+    "id": "run",
+    "word": "يجري",
+    "transcription": "yajri",
+    "type": "verb"
+  },
+  {
+    "id": "move",
+    "word": "يتحرك",
+    "transcription": "yataharak",
+    "type": "verb"
+  },
+  {
+    "id": "live",
+    "word": "يعيش",
+    "transcription": "yaeish",
+    "type": "verb"
+  },
+  {
+    "id": "believe",
+    "word": "يعتقد",
+    "transcription": "yuetaqad",
+    "type": "verb"
+  },
+  {
+    "id": "bring",
+    "word": "يحضر",
+    "transcription": "yahdur",
+    "type": "verb"
+  },
+  {
+    "id": "happen",
+    "word": "يحدث",
+    "transcription": "yahduth",
+    "type": "verb"
+  },
+  {
+    "id": "write",
+    "word": "يكتب",
+    "transcription": "yaktub",
+    "type": "verb"
+  },
+  {
+    "id": "sit",
+    "word": "يجلس",
+    "transcription": "yajlis",
+    "type": "verb"
+  },
+  {
+    "id": "stand",
+    "word": "يقف",
+    "transcription": "yaqif",
+    "type": "verb"
+  },
+  {
+    "id": "lose",
+    "word": "يخسر",
+    "transcription": "yakhsar",
+    "type": "verb"
+  },
+  {
+    "id": "pay",
+    "word": "يدفع",
+    "transcription": "yadfae",
+    "type": "verb"
+  }
+]

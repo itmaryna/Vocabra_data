@@ -1,0 +1,266 @@
+[
+  {
+    "id": "family",
+    "word": "عائلة",
+    "transcription": "eayila",
+    "type": "word"
+  },
+  {
+    "id": "mother",
+    "word": "الأم",
+    "transcription": "al'umu",
+    "type": "word"
+  },
+  {
+    "id": "father",
+    "word": "أب",
+    "transcription": "'ab",
+    "type": "word"
+  },
+  {
+    "id": "parents",
+    "word": "آباء",
+    "transcription": "aba'an",
+    "type": "word"
+  },
+  {
+    "id": "child",
+    "word": "طفل",
+    "transcription": "tifl",
+    "type": "word"
+  },
+  {
+    "id": "children",
+    "word": "أطفال",
+    "transcription": "'atfal",
+    "type": "word"
+  },
+  {
+    "id": "son",
+    "word": "ابن",
+    "transcription": "abn",
+    "type": "word"
+  },
+  {
+    "id": "daughter",
+    "word": "بنت",
+    "transcription": "bint",
+    "type": "word"
+  },
+  {
+    "id": "brother",
+    "word": "أخ",
+    "transcription": "'akh",
+    "type": "word"
+  },
+  {
+    "id": "sister",
+    "word": "أخت",
+    "transcription": "'ukht",
+    "type": "word"
+  },
+  {
+    "id": "grandmother",
+    "word": "جدة",
+    "transcription": "jida",
+    "type": "word"
+  },
+  {
+    "id": "grandfather",
+    "word": "جد",
+    "transcription": "jd",
+    "type": "word"
+  },
+  {
+    "id": "grandparents",
+    "word": "الأجداد",
+    "transcription": "al'ajdad",
+    "type": "word"
+  },
+  {
+    "id": "uncle",
+    "word": "عم",
+    "transcription": "eamm",
+    "type": "word"
+  },
+  {
+    "id": "aunt",
+    "word": "عمة",
+    "transcription": "eama",
+    "type": "word"
+  },
+  {
+    "id": "cousin",
+    "word": "ابن عم",
+    "transcription": "abn eamin",
+    "type": "word"
+  },
+  {
+    "id": "husband",
+    "word": "زوج",
+    "transcription": "zawj",
+    "type": "word"
+  },
+  {
+    "id": "wife",
+    "word": "زوجة",
+    "transcription": "zawja",
+    "type": "word"
+  },
+  {
+    "id": "baby",
+    "word": "طفل",
+    "transcription": "tifl",
+    "type": "word"
+  },
+  {
+    "id": "newborn",
+    "word": "حديثي الولادة",
+    "transcription": "hadithi alwilada",
+    "type": "word"
+  },
+  {
+    "id": "teenager",
+    "word": "مراهق",
+    "transcription": "murahiq",
+    "type": "word"
+  },
+  {
+    "id": "adult",
+    "word": "بالغ",
+    "transcription": "baligh",
+    "type": "word"
+  },
+  {
+    "id": "elderly",
+    "word": "كبير",
+    "transcription": "kabir",
+    "type": "word"
+  },
+  {
+    "id": "family_member",
+    "word": "فرد من العائلة",
+    "transcription": "fardu min aleayila",
+    "type": "phrase"
+  },
+  {
+    "id": "relative",
+    "word": "نسبي",
+    "transcription": "nisbiun",
+    "type": "word"
+  },
+  {
+    "id": "home",
+    "word": "بيت",
+    "transcription": "bayt",
+    "type": "word"
+  },
+  {
+    "id": "house",
+    "word": "منزل",
+    "transcription": "manzil",
+    "type": "word"
+  },
+  {
+    "id": "marriage",
+    "word": "زواج",
+    "transcription": "zawaj",
+    "type": "word"
+  },
+  {
+    "id": "love",
+    "word": "حب",
+    "transcription": "habun",
+    "type": "word"
+  },
+  {
+    "id": "care",
+    "word": "رعاية",
+    "transcription": "rieaya",
+    "type": "word"
+  },
+  {
+    "id": "support",
+    "word": "يدعم",
+    "transcription": "yadeam",
+    "type": "word"
+  },
+  {
+    "id": "together",
+    "word": "معاً",
+    "transcription": "meaan",
+    "type": "word"
+  },
+  {
+    "id": "visit_family",
+    "word": "زيارة العائلة",
+    "transcription": "ziarat aleayila",
+    "type": "phrase"
+  },
+  {
+    "id": "family_time",
+    "word": "وقت العائلة",
+    "transcription": "waqt aleayila",
+    "type": "phrase"
+  },
+  {
+    "id": "big_family",
+    "word": "عائلة كبيرة",
+    "transcription": "eayilat kabira",
+    "type": "phrase"
+  },
+  {
+    "id": "small_family",
+    "word": "عائلة صغيرة",
+    "transcription": "eayilat saghira",
+    "type": "phrase"
+  },
+  {
+    "id": "close_family",
+    "word": "عائلة قريبة",
+    "transcription": "eayilat qariba",
+    "type": "phrase"
+  },
+  {
+    "id": "family_photo",
+    "word": "صورة عائلية",
+    "transcription": "surat eayilia",
+    "type": "phrase"
+  },
+  {
+    "id": "birthday",
+    "word": "عيد ميلاد",
+    "transcription": "eid milad",
+    "type": "word"
+  },
+  {
+    "id": "wedding",
+    "word": "قِرَان",
+    "transcription": "qiran",
+    "type": "word"
+  },
+  {
+    "id": "holiday",
+    "word": "عطلة",
+    "transcription": "eutla",
+    "type": "word"
+  },
+  {
+    "id": "celebration",
+    "word": "احتفال",
+    "transcription": "aihtifal",
+    "type": "word"
+  },
+  {
+    "id": "children_play",
+    "word": "يلعب الأطفال",
+    "transcription": "yaleab al'atfal",
+    "type": "phrase"
+  },
+  {
+    "id": "family_love",
+    "word": "حب العائلة",
+    "transcription": "hubu aleayila",
+    "type": "phrase"
+  }
+]

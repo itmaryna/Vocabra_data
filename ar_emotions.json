@@ -1,0 +1,302 @@
+[
+  {
+    "id": "emotion",
+    "word": "العاطفة",
+    "transcription": "aleatifa",
+    "type": "word"
+  },
+  {
+    "id": "feeling",
+    "word": "إحساس",
+    "transcription": "'iihsas",
+    "type": "word"
+  },
+  {
+    "id": "happy",
+    "word": "سعيد",
+    "transcription": "saeid",
+    "type": "word"
+  },
+  {
+    "id": "sad",
+    "word": "حزين",
+    "transcription": "hazin",
+    "type": "word"
+  },
+  {
+    "id": "angry",
+    "word": "غاضب",
+    "transcription": "ghadib",
+    "type": "word"
+  },
+  {
+    "id": "irritated",
+    "word": "منزعج",
+    "transcription": "munzaeij",
+    "type": "word"
+  },
+  {
+    "id": "annoyed",
+    "word": "متضايق",
+    "transcription": "mutadayiq",
+    "type": "word"
+  },
+  {
+    "id": "excited",
+    "word": "متحمس",
+    "transcription": "mutahamis",
+    "type": "word"
+  },
+  {
+    "id": "calm",
+    "word": "هادئ",
+    "transcription": "hadi",
+    "type": "word"
+  },
+  {
+    "id": "relaxed",
+    "word": "استرخاء",
+    "transcription": "astirkha'",
+    "type": "word"
+  },
+  {
+    "id": "tired",
+    "word": "مرهق",
+    "transcription": "marhiq",
+    "type": "word"
+  },
+  {
+    "id": "exhausted",
+    "word": "مرهق",
+    "transcription": "marhiq",
+    "type": "word"
+  },
+  {
+    "id": "nervous",
+    "word": "متوتر",
+    "transcription": "mutawatir",
+    "type": "word"
+  },
+  {
+    "id": "anxious",
+    "word": "قلق",
+    "transcription": "qalaq",
+    "type": "word"
+  },
+  {
+    "id": "worried",
+    "word": "قلق",
+    "transcription": "qalaq",
+    "type": "word"
+  },
+  {
+    "id": "confused",
+    "word": "مشوش",
+    "transcription": "mishawash",
+    "type": "word"
+  },
+  {
+    "id": "surprised",
+    "word": "متفاجئ",
+    "transcription": "mutafaji",
+    "type": "word"
+  },
+  {
+    "id": "shocked",
+    "word": "صدمت",
+    "transcription": "sadamat",
+    "type": "word"
+  },
+  {
+    "id": "scared",
+    "word": "مقدس",
+    "transcription": "muqadas",
+    "type": "word"
+  },
+  {
+    "id": "afraid",
+    "word": "خائف",
+    "transcription": "khayif",
+    "type": "word"
+  },
+  {
+    "id": "jealous",
+    "word": "غيور",
+    "transcription": "ghiur",
+    "type": "word"
+  },
+  {
+    "id": "suspicious",
+    "word": "مثير للشك",
+    "transcription": "muthir lilshaki",
+    "type": "word"
+  },
+  {
+    "id": "bored",
+    "word": "ممل",
+    "transcription": "mumil",
+    "type": "word"
+  },
+  {
+    "id": "lonely",
+    "word": "وحيد",
+    "transcription": "wahid",
+    "type": "word"
+  },
+  {
+    "id": "proud",
+    "word": "فخور",
+    "transcription": "fakhur",
+    "type": "word"
+  },
+  {
+    "id": "embarrassed",
+    "word": "مُحرَج",
+    "transcription": "muhraj",
+    "type": "word"
+  },
+  {
+    "id": "ashamed",
+    "word": "خجلان",
+    "transcription": "khajalan",
+    "type": "word"
+  },
+  {
+    "id": "hopeful",
+    "word": "متفائل",
+    "transcription": "mutafayil",
+    "type": "word"
+  },
+  {
+    "id": "grateful",
+    "word": "شاكر",
+    "transcription": "shakir",
+    "type": "word"
+  },
+  {
+    "id": "disappointed",
+    "word": "خائب الأمل",
+    "transcription": "khayib al'amal",
+    "type": "word"
+  },
+  {
+    "id": "frustrated",
+    "word": "محبط",
+    "transcription": "muhbit",
+    "type": "word"
+  },
+  {
+    "id": "crying",
+    "word": "بكاء",
+    "transcription": "buka'",
+    "type": "word"
+  },
+  {
+    "id": "laughing",
+    "word": "يضحك",
+    "transcription": "yadhak",
+    "type": "word"
+  },
+  {
+    "id": "smiling",
+    "word": "يبتسم",
+    "transcription": "yabtasim",
+    "type": "word"
+  },
+  {
+    "id": "thinking",
+    "word": "التفكير",
+    "transcription": "altafkir",
+    "type": "word"
+  },
+  {
+    "id": "peaceful",
+    "word": "سلمية",
+    "transcription": "silmia",
+    "type": "word"
+  },
+  {
+    "id": "confident",
+    "word": "واثق",
+    "transcription": "wathiq",
+    "type": "word"
+  },
+  {
+    "id": "insecure",
+    "word": "غير آمن",
+    "transcription": "ghayr aman",
+    "type": "word"
+  },
+  {
+    "id": "overwhelmed",
+    "word": "مُثقل",
+    "transcription": "muthql",
+    "type": "word"
+  },
+  {
+    "id": "curious",
+    "word": "فضولي",
+    "transcription": "fuduli",
+    "type": "word"
+  },
+  {
+    "id": "interested",
+    "word": "مهتم",
+    "transcription": "muhtamun",
+    "type": "word"
+  },
+  {
+    "id": "disgusted",
+    "word": "بالاشمئزاز",
+    "transcription": "bialashmizaz",
+    "type": "word"
+  },
+  {
+    "id": "hope",
+    "word": "يأمل",
+    "transcription": "yamal",
+    "type": "word"
+  },
+  {
+    "id": "love",
+    "word": "حب",
+    "transcription": "habun",
+    "type": "word"
+  },
+  {
+    "id": "hate",
+    "word": "يكره",
+    "transcription": "yakrah",
+    "type": "word"
+  },
+  {
+    "id": "joy",
+    "word": "مرح",
+    "transcription": "marah",
+    "type": "word"
+  },
+  {
+    "id": "sadness",
+    "word": "الحزن",
+    "transcription": "alhuzn",
+    "type": "word"
+  },
+  {
+    "id": "anger",
+    "word": "الغضب",
+    "transcription": "alghadab",
+    "type": "word"
+  },
+  {
+    "id": "fear",
+    "word": "يخاف",
+    "transcription": "yakhaf",
+    "type": "word"
+  },
+  {
+    "id": "stress",
+    "word": "ضغط",
+    "transcription": "daght",
+    "type": "word"
+  }
+]

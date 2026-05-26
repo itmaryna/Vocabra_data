@@ -1,0 +1,296 @@
+[
+  {
+    "id": "time",
+    "word": "وقت",
+    "transcription": "waqt",
+    "type": "word"
+  },
+  {
+    "id": "hour",
+    "word": "ساعة",
+    "transcription": "saea",
+    "type": "word"
+  },
+  {
+    "id": "minute",
+    "word": "دقيقة",
+    "transcription": "daqiqatan",
+    "type": "word"
+  },
+  {
+    "id": "second",
+    "word": "ثانية",
+    "transcription": "thania",
+    "type": "word"
+  },
+  {
+    "id": "day",
+    "word": "يوم",
+    "transcription": "yawm",
+    "type": "word"
+  },
+  {
+    "id": "night",
+    "word": "ليلة",
+    "transcription": "layla",
+    "type": "word"
+  },
+  {
+    "id": "morning",
+    "word": "صباح",
+    "transcription": "sabah",
+    "type": "word"
+  },
+  {
+    "id": "afternoon",
+    "word": "بعد الظهر",
+    "transcription": "baed alzuhr",
+    "type": "word"
+  },
+  {
+    "id": "evening",
+    "word": "مساء",
+    "transcription": "masa'an",
+    "type": "word"
+  },
+  {
+    "id": "today",
+    "word": "اليوم",
+    "transcription": "alyawm",
+    "type": "word"
+  },
+  {
+    "id": "tomorrow",
+    "word": "غداً",
+    "transcription": "ghdaan",
+    "type": "word"
+  },
+  {
+    "id": "yesterday",
+    "word": "أمس",
+    "transcription": "'ams",
+    "type": "word"
+  },
+  {
+    "id": "week",
+    "word": "أسبوع",
+    "transcription": "'usbue",
+    "type": "word"
+  },
+  {
+    "id": "month",
+    "word": "شهر",
+    "transcription": "shahr",
+    "type": "word"
+  },
+  {
+    "id": "year",
+    "word": "سنة",
+    "transcription": "sana",
+    "type": "word"
+  },
+  {
+    "id": "calendar",
+    "word": "تقويم",
+    "transcription": "taqwim",
+    "type": "word"
+  },
+  {
+    "id": "date",
+    "word": "موعد",
+    "transcription": "mawid",
+    "type": "word"
+  },
+  {
+    "id": "season",
+    "word": "موسم",
+    "transcription": "mawsim",
+    "type": "word"
+  },
+  {
+    "id": "spring",
+    "word": "ربيع",
+    "transcription": "rabie",
+    "type": "word"
+  },
+  {
+    "id": "summer",
+    "word": "صيف",
+    "transcription": "sayf",
+    "type": "word"
+  },
+  {
+    "id": "autumn",
+    "word": "خريف",
+    "transcription": "kharif",
+    "type": "word"
+  },
+  {
+    "id": "winter",
+    "word": "شتاء",
+    "transcription": "shita'",
+    "type": "word"
+  },
+  {
+    "id": "january",
+    "word": "يناير",
+    "transcription": "yanayir",
+    "type": "word"
+  },
+  {
+    "id": "february",
+    "word": "فبراير",
+    "transcription": "fibrayir",
+    "type": "word"
+  },
+  {
+    "id": "march",
+    "word": "يمشي",
+    "transcription": "yamshi",
+    "type": "word"
+  },
+  {
+    "id": "april",
+    "word": "أبريل",
+    "transcription": "'abril",
+    "type": "word"
+  },
+  {
+    "id": "may",
+    "word": "مايو",
+    "transcription": "mayu",
+    "type": "word"
+  },
+  {
+    "id": "june",
+    "word": "يونيو",
+    "transcription": "yuniu",
+    "type": "word"
+  },
+  {
+    "id": "july",
+    "word": "يوليو",
+    "transcription": "yuliu",
+    "type": "word"
+  },
+  {
+    "id": "august",
+    "word": "أغسطس",
+    "transcription": "'aghustus",
+    "type": "word"
+  },
+  {
+    "id": "september",
+    "word": "سبتمبر",
+    "transcription": "sibtambar",
+    "type": "word"
+  },
+  {
+    "id": "october",
+    "word": "أكتوبر",
+    "transcription": "'uktubar",
+    "type": "word"
+  },
+  {
+    "id": "november",
+    "word": "نوفمبر",
+    "transcription": "nufimbir",
+    "type": "word"
+  },
+  {
+    "id": "december",
+    "word": "ديسمبر",
+    "transcription": "disambir",
+    "type": "word"
+  },
+  {
+    "id": "weekend",
+    "word": "عطلة نهاية الأسبوع",
+    "transcription": "eutlat nihayat al'usbue",
+    "type": "word"
+  },
+  {
+    "id": "weekday",
+    "word": "أيام الأسبوع",
+    "transcription": "'ayaam al'usbue",
+    "type": "word"
+  },
+  {
+    "id": "monday",
+    "word": "الاثنين",
+    "transcription": "aliathnayn",
+    "type": "word"
+  },
+  {
+    "id": "tuesday",
+    "word": "يوم الثلاثاء",
+    "transcription": "yawm althulatha'",
+    "type": "word"
+  },
+  {
+    "id": "wednesday",
+    "word": "الأربعاء",
+    "transcription": "al'arbiea'",
+    "type": "word"
+  },
+  {
+    "id": "thursday",
+    "word": "يوم الخميس",
+    "transcription": "yawm alkhamis",
+    "type": "word"
+  },
+  {
+    "id": "friday",
+    "word": "جمعة",
+    "transcription": "jumea",
+    "type": "word"
+  },
+  {
+    "id": "saturday",
+    "word": "السبت",
+    "transcription": "alsabt",
+    "type": "word"
+  },
+  {
+    "id": "sunday",
+    "word": "الأحد",
+    "transcription": "al'ahad",
+    "type": "word"
+  },
+  {
+    "id": "now",
+    "word": "الآن",
+    "transcription": "alan",
+    "type": "word"
+  },
+  {
+    "id": "later",
+    "word": "لاحقاً",
+    "transcription": "lahqaan",
+    "type": "word"
+  },
+  {
+    "id": "soon",
+    "word": "قريباً",
+    "transcription": "qrybaan",
+    "type": "word"
+  },
+  {
+    "id": "always",
+    "word": "دائماً",
+    "transcription": "daymaan",
+    "type": "word"
+  },
+  {
+    "id": "never",
+    "word": "أبداً",
+    "transcription": "abdaan",
+    "type": "word"
+  },
+  {
+    "id": "sometimes",
+    "word": "أحيانا",
+    "transcription": "'ahyanan",
+    "type": "word"
+  }
+]

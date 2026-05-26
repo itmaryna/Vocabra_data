@@ -1,0 +1,608 @@
+[
+  {
+    "id": "number_0",
+    "word": "صفر",
+    "transcription": "sifr",
+    "type": "number"
+  },
+  {
+    "id": "number_1",
+    "word": "واحد",
+    "transcription": "wahid",
+    "type": "number"
+  },
+  {
+    "id": "number_2",
+    "word": "اثنان",
+    "transcription": "ithnan",
+    "type": "number"
+  },
+  {
+    "id": "number_3",
+    "word": "ثلاثة",
+    "transcription": "thalatha",
+    "type": "number"
+  },
+  {
+    "id": "number_4",
+    "word": "أربعة",
+    "transcription": "arbaa",
+    "type": "number"
+  },
+  {
+    "id": "number_5",
+    "word": "خمسة",
+    "transcription": "khamsa",
+    "type": "number"
+  },
+  {
+    "id": "number_6",
+    "word": "ستة",
+    "transcription": "sitta",
+    "type": "number"
+  },
+  {
+    "id": "number_7",
+    "word": "سبعة",
+    "transcription": "sabaa",
+    "type": "number"
+  },
+  {
+    "id": "number_8",
+    "word": "ثمانية",
+    "transcription": "thamaniya",
+    "type": "number"
+  },
+  {
+    "id": "number_9",
+    "word": "تسعة",
+    "transcription": "tisaa",
+    "type": "number"
+  },
+  {
+    "id": "number_10",
+    "word": "عشرة",
+    "transcription": "ashara",
+    "type": "number"
+  },
+  {
+    "id": "number_11",
+    "word": "أحد عشر",
+    "transcription": "ahad ashar",
+    "type": "number"
+  },
+  {
+    "id": "number_12",
+    "word": "اثنا عشر",
+    "transcription": "ithna ashar",
+    "type": "number"
+  },
+  {
+    "id": "number_13",
+    "word": "ثلاثة عشر",
+    "transcription": "thalathat ashar",
+    "type": "number"
+  },
+  {
+    "id": "number_14",
+    "word": "أربعة عشر",
+    "transcription": "arbaat ashar",
+    "type": "number"
+  },
+  {
+    "id": "number_15",
+    "word": "خمسة عشر",
+    "transcription": "khamsat ashar",
+    "type": "number"
+  },
+  {
+    "id": "number_16",
+    "word": "ستة عشر",
+    "transcription": "sittat ashar",
+    "type": "number"
+  },
+  {
+    "id": "number_17",
+    "word": "سبعة عشر",
+    "transcription": "sabaat ashar",
+    "type": "number"
+  },
+  {
+    "id": "number_18",
+    "word": "ثمانية عشر",
+    "transcription": "thamaniyat ashar",
+    "type": "number"
+  },
+  {
+    "id": "number_19",
+    "word": "تسعة عشر",
+    "transcription": "tisaat ashar",
+    "type": "number"
+  },
+  {
+    "id": "number_20",
+    "word": "عشرون",
+    "transcription": "ishrun",
+    "type": "number"
+  },
+  {
+    "id": "number_21",
+    "word": "واحد وعشرون",
+    "transcription": "wahid wa ishrun",
+    "type": "number"
+  },
+  {
+    "id": "number_22",
+    "word": "اثنان وعشرون",
+    "transcription": "ithnan wa ishrun",
+    "type": "number"
+  },
+  {
+    "id": "number_23",
+    "word": "ثلاثة وعشرون",
+    "transcription": "thalatha wa ishrun",
+    "type": "number"
+  },
+  {
+    "id": "number_24",
+    "word": "أربعة وعشرون",
+    "transcription": "arbaa wa ishrun",
+    "type": "number"
+  },
+  {
+    "id": "number_25",
+    "word": "خمسة وعشرون",
+    "transcription": "khamsa wa ishrun",
+    "type": "number"
+  },
+  {
+    "id": "number_26",
+    "word": "ستة وعشرون",
+    "transcription": "sitta wa ishrun",
+    "type": "number"
+  },
+  {
+    "id": "number_27",
+    "word": "سبعة وعشرون",
+    "transcription": "sabaa wa ishrun",
+    "type": "number"
+  },
+  {
+    "id": "number_28",
+    "word": "ثمانية وعشرون",
+    "transcription": "thamaniya wa ishrun",
+    "type": "number"
+  },
+  {
+    "id": "number_29",
+    "word": "تسعة وعشرون",
+    "transcription": "tisaa wa ishrun",
+    "type": "number"
+  },
+  {
+    "id": "number_30",
+    "word": "ثلاثون",
+    "transcription": "thalathun",
+    "type": "number"
+  },
+  {
+    "id": "number_31",
+    "word": "واحد وثلاثون",
+    "transcription": "wahid wa thalathun",
+    "type": "number"
+  },
+  {
+    "id": "number_32",
+    "word": "اثنان وثلاثون",
+    "transcription": "ithnan wa thalathun",
+    "type": "number"
+  },
+  {
+    "id": "number_33",
+    "word": "ثلاثة وثلاثون",
+    "transcription": "thalatha wa thalathun",
+    "type": "number"
+  },
+  {
+    "id": "number_34",
+    "word": "أربعة وثلاثون",
+    "transcription": "arbaa wa thalathun",
+    "type": "number"
+  },
+  {
+    "id": "number_35",
+    "word": "خمسة وثلاثون",
+    "transcription": "khamsa wa thalathun",
+    "type": "number"
+  },
+  {
+    "id": "number_36",
+    "word": "ستة وثلاثون",
+    "transcription": "sitta wa thalathun",
+    "type": "number"
+  },
+  {
+    "id": "number_37",
+    "word": "سبعة وثلاثون",
+    "transcription": "sabaa wa thalathun",
+    "type": "number"
+  },
+  {
+    "id": "number_38",
+    "word": "ثمانية وثلاثون",
+    "transcription": "thamaniya wa thalathun",
+    "type": "number"
+  },
+  {
+    "id": "number_39",
+    "word": "تسعة وثلاثون",
+    "transcription": "tisaa wa thalathun",
+    "type": "number"
+  },
+  {
+    "id": "number_40",
+    "word": "أربعون",
+    "transcription": "arbaun",
+    "type": "number"
+  },
+  {
+    "id": "number_41",
+    "word": "واحد وأربعون",
+    "transcription": "wahid wa arbaun",
+    "type": "number"
+  },
+  {
+    "id": "number_42",
+    "word": "اثنان وأربعون",
+    "transcription": "ithnan wa arbaun",
+    "type": "number"
+  },
+  {
+    "id": "number_43",
+    "word": "ثلاثة وأربعون",
+    "transcription": "thalatha wa arbaun",
+    "type": "number"
+  },
+  {
+    "id": "number_44",
+    "word": "أربعة وأربعون",
+    "transcription": "arbaa wa arbaun",
+    "type": "number"
+  },
+  {
+    "id": "number_45",
+    "word": "خمسة وأربعون",
+    "transcription": "khamsa wa arbaun",
+    "type": "number"
+  },
+  {
+    "id": "number_46",
+    "word": "ستة وأربعون",
+    "transcription": "sitta wa arbaun",
+    "type": "number"
+  },
+  {
+    "id": "number_47",
+    "word": "سبعة وأربعون",
+    "transcription": "sabaa wa arbaun",
+    "type": "number"
+  },
+  {
+    "id": "number_48",
+    "word": "ثمانية وأربعون",
+    "transcription": "thamaniya wa arbaun",
+    "type": "number"
+  },
+  {
+    "id": "number_49",
+    "word": "تسعة وأربعون",
+    "transcription": "tisaa wa arbaun",
+    "type": "number"
+  },
+  {
+    "id": "number_50",
+    "word": "خمسون",
+    "transcription": "khamsun",
+    "type": "number"
+  },
+  {
+    "id": "number_51",
+    "word": "واحد وخمسون",
+    "transcription": "wahid wa khamsun",
+    "type": "number"
+  },
+  {
+    "id": "number_52",
+    "word": "اثنان وخمسون",
+    "transcription": "ithnan wa khamsun",
+    "type": "number"
+  },
+  {
+    "id": "number_53",
+    "word": "ثلاثة وخمسون",
+    "transcription": "thalatha wa khamsun",
+    "type": "number"
+  },
+  {
+    "id": "number_54",
+    "word": "أربعة وخمسون",
+    "transcription": "arbaa wa khamsun",
+    "type": "number"
+  },
+  {
+    "id": "number_55",
+    "word": "خمسة وخمسون",
+    "transcription": "khamsa wa khamsun",
+    "type": "number"
+  },
+  {
+    "id": "number_56",
+    "word": "ستة وخمسون",
+    "transcription": "sitta wa khamsun",
+    "type": "number"
+  },
+  {
+    "id": "number_57",
+    "word": "سبعة وخمسون",
+    "transcription": "sabaa wa khamsun",
+    "type": "number"
+  },
+  {
+    "id": "number_58",
+    "word": "ثمانية وخمسون",
+    "transcription": "thamaniya wa khamsun",
+    "type": "number"
+  },
+  {
+    "id": "number_59",
+    "word": "تسعة وخمسون",
+    "transcription": "tisaa wa khamsun",
+    "type": "number"
+  },
+  {
+    "id": "number_60",
+    "word": "ستون",
+    "transcription": "sittun",
+    "type": "number"
+  },
+  {
+    "id": "number_61",
+    "word": "واحد وستون",
+    "transcription": "wahid wa sittun",
+    "type": "number"
+  },
+  {
+    "id": "number_62",
+    "word": "اثنان وستون",
+    "transcription": "ithnan wa sittun",
+    "type": "number"
+  },
+  {
+    "id": "number_63",
+    "word": "ثلاثة وستون",
+    "transcription": "thalatha wa sittun",
+    "type": "number"
+  },
+  {
+    "id": "number_64",
+    "word": "أربعة وستون",
+    "transcription": "arbaa wa sittun",
+    "type": "number"
+  },
+  {
+    "id": "number_65",
+    "word": "خمسة وستون",
+    "transcription": "khamsa wa sittun",
+    "type": "number"
+  },
+  {
+    "id": "number_66",
+    "word": "ستة وستون",
+    "transcription": "sitta wa sittun",
+    "type": "number"
+  },
+  {
+    "id": "number_67",
+    "word": "سبعة وستون",
+    "transcription": "sabaa wa sittun",
+    "type": "number"
+  },
+  {
+    "id": "number_68",
+    "word": "ثمانية وستون",
+    "transcription": "thamaniya wa sittun",
+    "type": "number"
+  },
+  {
+    "id": "number_69",
+    "word": "تسعة وستون",
+    "transcription": "tisaa wa sittun",
+    "type": "number"
+  },
+  {
+    "id": "number_70",
+    "word": "سبعون",
+    "transcription": "sabun",
+    "type": "number"
+  },
+  {
+    "id": "number_71",
+    "word": "واحد وسبعون",
+    "transcription": "wahid wa sabun",
+    "type": "number"
+  },
+  {
+    "id": "number_72",
+    "word": "اثنان وسبعون",
+    "transcription": "ithnan wa sabun",
+    "type": "number"
+  },
+  {
+    "id": "number_73",
+    "word": "ثلاثة وسبعون",
+    "transcription": "thalatha wa sabun",
+    "type": "number"
+  },
+  {
+    "id": "number_74",
+    "word": "أربعة وسبعون",
+    "transcription": "arbaa wa sabun",
+    "type": "number"
+  },
+  {
+    "id": "number_75",
+    "word": "خمسة وسبعون",
+    "transcription": "khamsa wa sabun",
+    "type": "number"
+  },
+  {
+    "id": "number_76",
+    "word": "ستة وسبعون",
+    "transcription": "sitta wa sabun",
+    "type": "number"
+  },
+  {
+    "id": "number_77",
+    "word": "سبعة وسبعون",
+    "transcription": "sabaa wa sabun",
+    "type": "number"
+  },
+  {
+    "id": "number_78",
+    "word": "ثمانية وسبعون",
+    "transcription": "thamaniya wa sabun",
+    "type": "number"
+  },
+  {
+    "id": "number_79",
+    "word": "تسعة وسبعون",
+    "transcription": "tisaa wa sabun",
+    "type": "number"
+  },
+  {
+    "id": "number_80",
+    "word": "ثمانون",
+    "transcription": "thamanun",
+    "type": "number"
+  },
+  {
+    "id": "number_81",
+    "word": "واحد وثمانون",
+    "transcription": "wahid wa thamanun",
+    "type": "number"
+  },
+  {
+    "id": "number_82",
+    "word": "اثنان وثمانون",
+    "transcription": "ithnan wa thamanun",
+    "type": "number"
+  },
+  {
+    "id": "number_83",
+    "word": "ثلاثة وثمانون",
+    "transcription": "thalatha wa thamanun",
+    "type": "number"
+  },
+  {
+    "id": "number_84",
+    "word": "أربعة وثمانون",
+    "transcription": "arbaa wa thamanun",
+    "type": "number"
+  },
+  {
+    "id": "number_85",
+    "word": "خمسة وثمانون",
+    "transcription": "khamsa wa thamanun",
+    "type": "number"
+  },
+  {
+    "id": "number_86",
+    "word": "ستة وثمانون",
+    "transcription": "sitta wa thamanun",
+    "type": "number"
+  },
+  {
+    "id": "number_87",
+    "word": "سبعة وثمانون",
+    "transcription": "sabaa wa thamanun",
+    "type": "number"
+  },
+  {
+    "id": "number_88",
+    "word": "ثمانية وثمانون",
+    "transcription": "thamaniya wa thamanun",
+    "type": "number"
+  },
+  {
+    "id": "number_89",
+    "word": "تسعة وثمانون",
+    "transcription": "tisaa wa thamanun",
+    "type": "number"
+  },
+  {
+    "id": "number_90",
+    "word": "تسعون",
+    "transcription": "tisun",
+    "type": "number"
+  },
+  {
+    "id": "number_91",
+    "word": "واحد وتسعون",
+    "transcription": "wahid wa tisun",
+    "type": "number"
+  },
+  {
+    "id": "number_92",
+    "word": "اثنان وتسعون",
+    "transcription": "ithnan wa tisun",
+    "type": "number"
+  },
+  {
+    "id": "number_93",
+    "word": "ثلاثة وتسعون",
+    "transcription": "thalatha wa tisun",
+    "type": "number"
+  },
+  {
+    "id": "number_94",
+    "word": "أربعة وتسعون",
+    "transcription": "arbaa wa tisun",
+    "type": "number"
+  },
+  {
+    "id": "number_95",
+    "word": "خمسة وتسعون",
+    "transcription": "khamsa wa tisun",
+    "type": "number"
+  },
+  {
+    "id": "number_96",
+    "word": "ستة وتسعون",
+    "transcription": "sitta wa tisun",
+    "type": "number"
+  },
+  {
+    "id": "number_97",
+    "word": "سبعة وتسعون",
+    "transcription": "sabaa wa tisun",
+    "type": "number"
+  },
+  {
+    "id": "number_98",
+    "word": "ثمانية وتسعون",
+    "transcription": "thamaniya wa tisun",
+    "type": "number"
+  },
+  {
+    "id": "number_99",
+    "word": "تسعة وتسعون",
+    "transcription": "tisaa wa tisun",
+    "type": "number"
+  },
+  {
+    "id": "number_100",
+    "word": "مئة",
+    "transcription": "mia",
+    "type": "number"
+  }
+]

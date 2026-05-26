@@ -1,0 +1,302 @@
+[
+  {
+    "id": "money",
+    "word": "مال",
+    "transcription": "mal",
+    "type": "word"
+  },
+  {
+    "id": "cash",
+    "word": "نقدي",
+    "transcription": "naqdi",
+    "type": "word"
+  },
+  {
+    "id": "wallet",
+    "word": "محفظة",
+    "transcription": "mahfaza",
+    "type": "word"
+  },
+  {
+    "id": "bank",
+    "word": "بنك",
+    "transcription": "bink",
+    "type": "word"
+  },
+  {
+    "id": "bank_account",
+    "word": "حساب مصرفي",
+    "transcription": "hisab masrifiun",
+    "type": "phrase"
+  },
+  {
+    "id": "credit_card",
+    "word": "بطاقة إئتمان",
+    "transcription": "bitaqat 'iitiman",
+    "type": "phrase"
+  },
+  {
+    "id": "debit_card",
+    "word": "بطاقة الخصم",
+    "transcription": "bitaqat alkhasm",
+    "type": "phrase"
+  },
+  {
+    "id": "atm",
+    "word": "صراف آلي",
+    "transcription": "sarraf ali",
+    "type": "word"
+  },
+  {
+    "id": "loan",
+    "word": "يُقرض",
+    "transcription": "yuqrd",
+    "type": "word"
+  },
+  {
+    "id": "mortgage",
+    "word": "القرض العقاري",
+    "transcription": "alqard aleaqariu",
+    "type": "word"
+  },
+  {
+    "id": "debt",
+    "word": "دَين",
+    "transcription": "dayn",
+    "type": "word"
+  },
+  {
+    "id": "salary",
+    "word": "مرتب",
+    "transcription": "muratab",
+    "type": "word"
+  },
+  {
+    "id": "income",
+    "word": "دخل",
+    "transcription": "dakhal",
+    "type": "word"
+  },
+  {
+    "id": "expense",
+    "word": "حساب",
+    "transcription": "hisab",
+    "type": "word"
+  },
+  {
+    "id": "budget",
+    "word": "ميزانية",
+    "transcription": "mizania",
+    "type": "word"
+  },
+  {
+    "id": "save_money",
+    "word": "توفير المال",
+    "transcription": "tawfir almal",
+    "type": "phrase"
+  },
+  {
+    "id": "spend_money",
+    "word": "انفاق المال",
+    "transcription": "ainfaq almal",
+    "type": "phrase"
+  },
+  {
+    "id": "invest",
+    "word": "يستثمر",
+    "transcription": "yastathmir",
+    "type": "verb"
+  },
+  {
+    "id": "investment",
+    "word": "استثمار",
+    "transcription": "aistithmar",
+    "type": "word"
+  },
+  {
+    "id": "stock",
+    "word": "سهم",
+    "transcription": "sahm",
+    "type": "word"
+  },
+  {
+    "id": "shares",
+    "word": "أسهم",
+    "transcription": "ashum",
+    "type": "word"
+  },
+  {
+    "id": "bond",
+    "word": "سند",
+    "transcription": "sanad",
+    "type": "word"
+  },
+  {
+    "id": "cryptocurrency",
+    "word": "عملة مشفرة",
+    "transcription": "eumlat mushafara",
+    "type": "word"
+  },
+  {
+    "id": "bitcoin",
+    "word": "بيتكوين",
+    "transcription": "bitkoin",
+    "type": "word"
+  },
+  {
+    "id": "interest",
+    "word": "فائدة",
+    "transcription": "faida",
+    "type": "word"
+  },
+  {
+    "id": "profit",
+    "word": "ربح",
+    "transcription": "rabih",
+    "type": "word"
+  },
+  {
+    "id": "loss",
+    "word": "خسارة",
+    "transcription": "khasara",
+    "type": "word"
+  },
+  {
+    "id": "tax",
+    "word": "ضريبة",
+    "transcription": "dariba",
+    "type": "word"
+  },
+  {
+    "id": "insurance",
+    "word": "تأمين",
+    "transcription": "tamin",
+    "type": "word"
+  },
+  {
+    "id": "payment",
+    "word": "قسط",
+    "transcription": "qist",
+    "type": "word"
+  },
+  {
+    "id": "transfer",
+    "word": "تحويل",
+    "transcription": "tahwil",
+    "type": "word"
+  },
+  {
+    "id": "exchange_rate",
+    "word": "سعر الصرف",
+    "transcription": "sier alsarf",
+    "type": "phrase"
+  },
+  {
+    "id": "currency",
+    "word": "عملة",
+    "transcription": "eumla",
+    "type": "word"
+  },
+  {
+    "id": "dollar",
+    "word": "دولار",
+    "transcription": "dular",
+    "type": "word"
+  },
+  {
+    "id": "euro",
+    "word": "اليورو",
+    "transcription": "alywru",
+    "type": "word"
+  },
+  {
+    "id": "shekel",
+    "word": "شيكل",
+    "transcription": "shikil",
+    "type": "word"
+  },
+  {
+    "id": "price",
+    "word": "سعر",
+    "transcription": "sier",
+    "type": "word"
+  },
+  {
+    "id": "cheap",
+    "word": "رخيص",
+    "transcription": "rakhis",
+    "type": "word"
+  },
+  {
+    "id": "expensive",
+    "word": "غالي",
+    "transcription": "ghali",
+    "type": "word"
+  },
+  {
+    "id": "receipt",
+    "word": "إيصال",
+    "transcription": "'iisal",
+    "type": "word"
+  },
+  {
+    "id": "bill",
+    "word": "فاتورة",
+    "transcription": "fatura",
+    "type": "word"
+  },
+  {
+    "id": "buy",
+    "word": "يشتري",
+    "transcription": "yashtari",
+    "type": "verb"
+  },
+  {
+    "id": "sell",
+    "word": "يبيع",
+    "transcription": "yabie",
+    "type": "verb"
+  },
+  {
+    "id": "market",
+    "word": "سوق",
+    "transcription": "suq",
+    "type": "word"
+  },
+  {
+    "id": "financial_freedom",
+    "word": "الحرية المالية",
+    "transcription": "alhuriyat almalia",
+    "type": "phrase"
+  },
+  {
+    "id": "retirement",
+    "word": "التقاعد",
+    "transcription": "altaqaeud",
+    "type": "word"
+  },
+  {
+    "id": "business",
+    "word": "عمل",
+    "transcription": "eamil",
+    "type": "word"
+  },
+  {
+    "id": "side_income",
+    "word": "الدخل الجانبي",
+    "transcription": "aldakhl aljanibiu",
+    "type": "phrase"
+  },
+  {
+    "id": "financial_risk",
+    "word": "المخاطر المالية",
+    "transcription": "almakhatir almalia",
+    "type": "phrase"
+  },
+  {
+    "id": "wealth",
+    "word": "ثروة",
+    "transcription": "tharwa",
+    "type": "word"
+  }
+]

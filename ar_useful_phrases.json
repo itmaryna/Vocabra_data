@@ -1,0 +1,182 @@
+[
+  {
+    "id": "good_morning",
+    "word": "صباح الخير",
+    "transcription": "sabah alkhayr",
+    "type": "phrase"
+  },
+  {
+    "id": "good_evening",
+    "word": "مساء الخير",
+    "transcription": "masa' alkhayr",
+    "type": "phrase"
+  },
+  {
+    "id": "good_night",
+    "word": "طاب مساؤك",
+    "transcription": "tab masawuk",
+    "type": "phrase"
+  },
+  {
+    "id": "see_you_later",
+    "word": "أراك لاحقًا",
+    "transcription": "'arak lahqan",
+    "type": "phrase"
+  },
+  {
+    "id": "how_are_you",
+    "word": "كيف حالك",
+    "transcription": "kayf haluk",
+    "type": "phrase"
+  },
+  {
+    "id": "im_fine",
+    "word": "أنا بخير",
+    "transcription": "'ana bikhayr",
+    "type": "phrase"
+  },
+  {
+    "id": "whats_your_name",
+    "word": "ما اسمك",
+    "transcription": "ma asmuk",
+    "type": "phrase"
+  },
+  {
+    "id": "my_name_is",
+    "word": "اسمي هو",
+    "transcription": "asmi hu",
+    "type": "phrase"
+  },
+  {
+    "id": "nice_to_meet_you",
+    "word": "سعيد بلقائك",
+    "transcription": "saeid biliqayik",
+    "type": "phrase"
+  },
+  {
+    "id": "where_are_you_from",
+    "word": "من أين أنت",
+    "transcription": "min 'ayn 'ant",
+    "type": "phrase"
+  },
+  {
+    "id": "im_from",
+    "word": "أنا من",
+    "transcription": "'ana min",
+    "type": "phrase"
+  },
+  {
+    "id": "do_you_speak_english",
+    "word": "هل تتكلم بالإنجليزية",
+    "transcription": "hal tatakalam bial'iinjilizia",
+    "type": "phrase"
+  },
+  {
+    "id": "i_dont_speak",
+    "word": "أنا لا أتكلم",
+    "transcription": "'ana la 'atakalam",
+    "type": "phrase"
+  },
+  {
+    "id": "speak_slower",
+    "word": "من فضلك تحدث بشكل أبطأ",
+    "transcription": "min fadlik tahadath bishakl 'abta",
+    "type": "phrase"
+  },
+  {
+    "id": "repeat_please",
+    "word": "كرر من فضلك",
+    "transcription": "karir min fadlik",
+    "type": "phrase"
+  },
+  {
+    "id": "how_much_is_this",
+    "word": "كم ثمن هذا؟",
+    "transcription": "kam thaman hadha?",
+    "type": "phrase"
+  },
+  {
+    "id": "too_expensive",
+    "word": "مكلفة للغاية",
+    "transcription": "mukalifat lilghaya",
+    "type": "phrase"
+  },
+  {
+    "id": "thats_cheap",
+    "word": "هذا رخيص",
+    "transcription": "hadha rakhis",
+    "type": "phrase"
+  },
+  {
+    "id": "i_agree",
+    "word": "أنا موافق",
+    "transcription": "'ana muafiq",
+    "type": "phrase"
+  },
+  {
+    "id": "i_disagree",
+    "word": "أنا أعترض",
+    "transcription": "'ana 'aetarid",
+    "type": "phrase"
+  },
+  {
+    "id": "wait_a_moment",
+    "word": "انتظر لحظة",
+    "transcription": "aintazar lahzatan",
+    "type": "phrase"
+  },
+  {
+    "id": "just_a_second",
+    "word": "مجرد ثانية",
+    "transcription": "mujarad thania",
+    "type": "phrase"
+  },
+  {
+    "id": "what_time_is_it",
+    "word": "أي ساعة",
+    "transcription": "'ayu saea",
+    "type": "phrase"
+  },
+  {
+    "id": "im_late",
+    "word": "أنا متأخر",
+    "transcription": "'ana muta'akhir",
+    "type": "phrase"
+  },
+  {
+    "id": "im_early",
+    "word": "أنا مبكر",
+    "transcription": "'ana mubakir",
+    "type": "phrase"
+  },
+  {
+    "id": "lets_go",
+    "word": "دعنا نذهب",
+    "transcription": "daena nadhhab",
+    "type": "phrase"
+  },
+  {
+    "id": "come_here",
+    "word": "تعال الى هنا",
+    "transcription": "taeal alaa huna",
+    "type": "phrase"
+  },
+  {
+    "id": "go_away",
+    "word": "يبتعد",
+    "transcription": "yabtaeid",
+    "type": "phrase"
+  },
+  {
+    "id": "be_careful",
+    "word": "احرص",
+    "transcription": "ahris",
+    "type": "phrase"
+  },
+  {
+    "id": "no_problem",
+    "word": "لا مشكلة",
+    "transcription": "la mushkila",
+    "type": "phrase"
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "id": "personal_care",
+    "word": "العناية الشخصية",
+    "transcription": "aleinayat alshakhsia",
+    "type": "phrase"
+  },
+  {
+    "id": "shower",
+    "word": "استحم",
+    "transcription": "aistahama",
+    "type": "phrase"
+  },
+  {
+    "id": "bath",
+    "word": "استحم",
+    "transcription": "aistahama",
+    "type": "phrase"
+  },
+  {
+    "id": "wash_face",
+    "word": "غسل الوجه",
+    "transcription": "ghasl alwajh",
+    "type": "phrase"
+  },
+  {
+    "id": "brush_teeth",
+    "word": "فرشاة الأسنان",
+    "transcription": "firshat al'asnan",
+    "type": "phrase"
+  },
+  {
+    "id": "floss",
+    "word": "خيط الأسنان",
+    "transcription": "khayt al'asnan",
+    "type": "phrase"
+  },
+  {
+    "id": "comb_hair",
+    "word": "مشط الشعر",
+    "transcription": "mushat alshier",
+    "type": "phrase"
+  },
+  {
+    "id": "brush_hair",
+    "word": "فرشاة الشعر",
+    "transcription": "furshat alshier",
+    "type": "phrase"
+  },
+  {
+    "id": "shave",
+    "word": "حلاقة",
+    "transcription": "hilaqatan",
+    "type": "verb"
+  },
+  {
+    "id": "makeup",
+    "word": "ماكياج",
+    "transcription": "makyaj",
+    "type": "word"
+  },
+  {
+    "id": "moisturize",
+    "word": "رطب",
+    "transcription": "ratib",
+    "type": "verb"
+  },
+  {
+    "id": "wash_hands",
+    "word": "اغسل يديك",
+    "transcription": "aghsil yadayk",
+    "type": "phrase"
+  },
+  {
+    "id": "soap",
+    "word": "صابون",
+    "transcription": "sabun",
+    "type": "word"
+  },
+  {
+    "id": "shampoo",
+    "word": "شامبو",
+    "transcription": "shambu",
+    "type": "word"
+  },
+  {
+    "id": "conditioner",
+    "word": "مكيف",
+    "transcription": "mukayaf",
+    "type": "word"
+  },
+  {
+    "id": "toothpaste",
+    "word": "معجون أسنان",
+    "transcription": "maejun 'asnan",
+    "type": "word"
+  },
+  {
+    "id": "toothbrush",
+    "word": "فرشاة الأسنان",
+    "transcription": "firshat al'asnan",
+    "type": "word"
+  },
+  {
+    "id": "deodorant",
+    "word": "مزيل العرق",
+    "transcription": "muzil alearaq",
+    "type": "word"
+  },
+  {
+    "id": "perfume",
+    "word": "عطر",
+    "transcription": "eitr",
+    "type": "word"
+  },
+  {
+    "id": "lotion",
+    "word": "غسول",
+    "transcription": "ghasul",
+    "type": "word"
+  },
+  {
+    "id": "towel",
+    "word": "منشفة",
+    "transcription": "munshafa",
+    "type": "word"
+  },
+  {
+    "id": "nail_clipper",
+    "word": "قلامة الأظافر",
+    "transcription": "qilamat al'azafir",
+    "type": "phrase"
+  },
+  {
+    "id": "clip_nails",
+    "word": "قطع الأظافر",
+    "transcription": "qate al'azafir",
+    "type": "phrase"
+  },
+  {
+    "id": "clean_ears",
+    "word": "آذان نظيفة",
+    "transcription": "adhan nazifa",
+    "type": "phrase"
+  },
+  {
+    "id": "face_cream",
+    "word": "كريم الوجه",
+    "transcription": "karim alwajh",
+    "type": "phrase"
+  },
+  {
+    "id": "suncream",
+    "word": "كريم الشمس",
+    "transcription": "karim alshams",
+    "type": "word"
+  },
+  {
+    "id": "mirror",
+    "word": "مرآة",
+    "transcription": "mura",
+    "type": "word"
+  },
+  {
+    "id": "razor",
+    "word": "ماكينة حلاقة",
+    "transcription": "makinat hilaqa",
+    "type": "word"
+  },
+  {
+    "id": "beauty_salon",
+    "word": "صالون تجميل",
+    "transcription": "salun tajmil",
+    "type": "phrase"
+  },
+  {
+    "id": "haircut",
+    "word": "قصة شعر",
+    "transcription": "qisat shaer",
+    "type": "word"
+  },
+  {
+    "id": "barber",
+    "word": "حلاق",
+    "transcription": "halaaq",
+    "type": "word"
+  },
+  {
+    "id": "clean_body",
+    "word": "جسم نظيف",
+    "transcription": "jism nazif",
+    "type": "phrase"
+  },
+  {
+    "id": "fresh",
+    "word": "طازج",
+    "transcription": "tazij",
+    "type": "word"
+  },
+  {
+    "id": "hygiene",
+    "word": "صحة",
+    "transcription": "siha",
+    "type": "word"
+  },
+  {
+    "id": "care_skin",
+    "word": "العناية بالبشرة",
+    "transcription": "aleinayat bialbashara",
+    "type": "phrase"
+  },
+  {
+    "id": "care_hair",
+    "word": "العناية بالشعر",
+    "transcription": "aleinayat bialshier",
+    "type": "phrase"
+  },
+  {
+    "id": "care_teeth",
+    "word": "العناية بالأسنان",
+    "transcription": "aleinayat bial'asnan",
+    "type": "phrase"
+  },
+  {
+    "id": "bathroom",
+    "word": "حمام",
+    "transcription": "hamaam",
+    "type": "word"
+  },
+  {
+    "id": "mirror_check",
+    "word": "تحقق من المرآة",
+    "transcription": "tahaqaq min almura",
+    "type": "phrase"
+  },
+  {
+    "id": "get_ready",
+    "word": "استعد",
+    "transcription": "aistaeida",
+    "type": "phrase"
+  },
+  {
+    "id": "look_good",
+    "word": "تبدو جيدة",
+    "transcription": "tabdu jayida",
+    "type": "phrase"
+  }
+]

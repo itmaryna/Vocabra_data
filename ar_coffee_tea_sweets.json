@@ -1,0 +1,296 @@
+[
+  {
+    "id": "coffee",
+    "word": "قهوة",
+    "transcription": "qahwa",
+    "type": "word"
+  },
+  {
+    "id": "tea",
+    "word": "شاي",
+    "transcription": "shay",
+    "type": "word"
+  },
+  {
+    "id": "sweets",
+    "word": "حلويات",
+    "transcription": "halwayat",
+    "type": "word"
+  },
+  {
+    "id": "hot_coffee",
+    "word": "قهوة ساخنة",
+    "transcription": "qahwat sakhina",
+    "type": "phrase"
+  },
+  {
+    "id": "iced_coffee",
+    "word": "القهوة المثلجة",
+    "transcription": "alqahwat almuthalaja",
+    "type": "phrase"
+  },
+  {
+    "id": "black_coffee",
+    "word": "قهوة سوداء",
+    "transcription": "qahwat sawda'",
+    "type": "phrase"
+  },
+  {
+    "id": "coffee_with_milk",
+    "word": "القهوة مع الحليب",
+    "transcription": "alqahwat mae alhalib",
+    "type": "phrase"
+  },
+  {
+    "id": "espresso",
+    "word": "إسبرسو",
+    "transcription": "'iisbirsu",
+    "type": "word"
+  },
+  {
+    "id": "latte",
+    "word": "لاتيه",
+    "transcription": "latih",
+    "type": "word"
+  },
+  {
+    "id": "cappuccino",
+    "word": "كابتشينو",
+    "transcription": "kabtshinu",
+    "type": "word"
+  },
+  {
+    "id": "americano",
+    "word": "أمريكانو",
+    "transcription": "'amrikanu",
+    "type": "word"
+  },
+  {
+    "id": "hot_tea",
+    "word": "الشاي الساخن",
+    "transcription": "alshaay alsaakhin",
+    "type": "phrase"
+  },
+  {
+    "id": "green_tea",
+    "word": "الشاي الأخضر",
+    "transcription": "alshaay al'akhdar",
+    "type": "phrase"
+  },
+  {
+    "id": "black_tea",
+    "word": "الشاي الأسود",
+    "transcription": "alshaay al'aswad",
+    "type": "phrase"
+  },
+  {
+    "id": "herbal_tea",
+    "word": "شاي الأعشاب",
+    "transcription": "shay al'aeshab",
+    "type": "phrase"
+  },
+  {
+    "id": "milk_tea",
+    "word": "شاي الحليب",
+    "transcription": "shay alhalib",
+    "type": "phrase"
+  },
+  {
+    "id": "sweet_tea",
+    "word": "الشاي الحلو",
+    "transcription": "alshaay alhulw",
+    "type": "phrase"
+  },
+  {
+    "id": "no_sugar",
+    "word": "لا السكر",
+    "transcription": "la alsukar",
+    "type": "phrase"
+  },
+  {
+    "id": "with_sugar",
+    "word": "مع السكر",
+    "transcription": "mae alsukar",
+    "type": "phrase"
+  },
+  {
+    "id": "no_milk",
+    "word": "لا حليب",
+    "transcription": "la halib",
+    "type": "phrase"
+  },
+  {
+    "id": "with_milk",
+    "word": "مع الحليب",
+    "transcription": "mae alhalib",
+    "type": "phrase"
+  },
+  {
+    "id": "extra_sugar",
+    "word": "سكر إضافي",
+    "transcription": "sukar 'iidafiun",
+    "type": "phrase"
+  },
+  {
+    "id": "hot_drink",
+    "word": "مشروب ساخن",
+    "transcription": "mashrub sakhin",
+    "type": "phrase"
+  },
+  {
+    "id": "cold_drink",
+    "word": "مشروب بارد",
+    "transcription": "mashrub barid",
+    "type": "phrase"
+  },
+  {
+    "id": "cup",
+    "word": "كوب",
+    "transcription": "kub",
+    "type": "word"
+  },
+  {
+    "id": "mug",
+    "word": "قدح",
+    "transcription": "qadh",
+    "type": "word"
+  },
+  {
+    "id": "glass",
+    "word": "زجاج",
+    "transcription": "zujaj",
+    "type": "word"
+  },
+  {
+    "id": "menu",
+    "word": "قائمة طعام",
+    "transcription": "qayimat taeam",
+    "type": "word"
+  },
+  {
+    "id": "order",
+    "word": "طلب",
+    "transcription": "talab",
+    "type": "word"
+  },
+  {
+    "id": "i_want_coffee",
+    "word": "أريد القهوة",
+    "transcription": "'urid alqahwa",
+    "type": "phrase"
+  },
+  {
+    "id": "i_want_tea",
+    "word": "أريد الشاي",
+    "transcription": "'urid alshaay",
+    "type": "phrase"
+  },
+  {
+    "id": "please_coffee",
+    "word": "القهوة من فضلك",
+    "transcription": "alqahwat min fadlik",
+    "type": "phrase"
+  },
+  {
+    "id": "please_tea",
+    "word": "الشاي من فضلك",
+    "transcription": "aalshaay min fadlik",
+    "type": "phrase"
+  },
+  {
+    "id": "i_want_something_sweet",
+    "word": "أريد شيئًا حلوًا",
+    "transcription": "'urid shyyan hlwan",
+    "type": "phrase"
+  },
+  {
+    "id": "cake",
+    "word": "كعكة",
+    "transcription": "kaeka",
+    "type": "word"
+  },
+  {
+    "id": "chocolate",
+    "word": "شوكولاتة",
+    "transcription": "shwkulata",
+    "type": "word"
+  },
+  {
+    "id": "cookie",
+    "word": "ملف تعريف الارتباط",
+    "transcription": "milafu taerif aliartibat",
+    "type": "word"
+  },
+  {
+    "id": "ice_cream",
+    "word": "بوظة",
+    "transcription": "buaza",
+    "type": "phrase"
+  },
+  {
+    "id": "donut",
+    "word": "كعكة محلاة",
+    "transcription": "kaekat mahalaa",
+    "type": "word"
+  },
+  {
+    "id": "croissant",
+    "word": "كرواسون",
+    "transcription": "krwasun",
+    "type": "word"
+  },
+  {
+    "id": "sweet",
+    "word": "حلو",
+    "transcription": "hulw",
+    "type": "word"
+  },
+  {
+    "id": "sugar",
+    "word": "سكر",
+    "transcription": "sukar",
+    "type": "word"
+  },
+  {
+    "id": "milk",
+    "word": "لبن",
+    "transcription": "laban",
+    "type": "word"
+  },
+  {
+    "id": "tasty",
+    "word": "حلو المذاق",
+    "transcription": "hulw almadhaq",
+    "type": "word"
+  },
+  {
+    "id": "delicious",
+    "word": "لذيذ",
+    "transcription": "ladhidh",
+    "type": "word"
+  },
+  {
+    "id": "bill_please",
+    "word": "الفاتورة من فضلك",
+    "transcription": "alfaturat min fadlik",
+    "type": "phrase"
+  },
+  {
+    "id": "takeaway",
+    "word": "طلب خارجي",
+    "transcription": "talab khariji",
+    "type": "word"
+  },
+  {
+    "id": "sit_here",
+    "word": "اجلس هنا",
+    "transcription": "ajlis huna",
+    "type": "phrase"
+  },
+  {
+    "id": "to_go",
+    "word": "للطلب الخارجي",
+    "transcription": "lil-talab al-khariji",
+    "type": "phrase"
+  }
+]

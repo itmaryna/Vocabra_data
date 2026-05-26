@@ -1,0 +1,644 @@
+[
+  {
+    "id": "relationship",
+    "word": "علاقة",
+    "transcription": "ealaqa",
+    "type": "word"
+  },
+  {
+    "id": "love",
+    "word": "حب",
+    "transcription": "habun",
+    "type": "word"
+  },
+  {
+    "id": "romance",
+    "word": "الرومانسية",
+    "transcription": "alruwmansia",
+    "type": "word"
+  },
+  {
+    "id": "partner",
+    "word": "شريك",
+    "transcription": "sharik",
+    "type": "word"
+  },
+  {
+    "id": "boyfriend",
+    "word": "حبيب",
+    "transcription": "habib",
+    "type": "word"
+  },
+  {
+    "id": "girlfriend",
+    "word": "حبيبة",
+    "transcription": "habiba",
+    "type": "word"
+  },
+  {
+    "id": "husband",
+    "word": "زوج",
+    "transcription": "zawj",
+    "type": "word"
+  },
+  {
+    "id": "wife",
+    "word": "زوجة",
+    "transcription": "zawja",
+    "type": "word"
+  },
+  {
+    "id": "fiance",
+    "word": "خطيب",
+    "transcription": "khatib",
+    "type": "word"
+  },
+  {
+    "id": "fiancee",
+    "word": "خطيبة",
+    "transcription": "khatiba",
+    "type": "word"
+  },
+  {
+    "id": "crush",
+    "word": "إعجاب",
+    "transcription": "ijab",
+    "type": "word"
+  },
+  {
+    "id": "date",
+    "word": "موعد",
+    "transcription": "mawid",
+    "type": "word"
+  },
+  {
+    "id": "dating",
+    "word": "مواعدة",
+    "transcription": "muaeida",
+    "type": "word"
+  },
+  {
+    "id": "marriage",
+    "word": "زواج",
+    "transcription": "zawaj",
+    "type": "word"
+  },
+  {
+    "id": "engagement",
+    "word": "ارتباط",
+    "transcription": "artibat",
+    "type": "word"
+  },
+  {
+    "id": "wedding",
+    "word": "قِرَان",
+    "transcription": "qiran",
+    "type": "word"
+  },
+  {
+    "id": "kiss",
+    "word": "قبلة",
+    "transcription": "qubla",
+    "type": "word"
+  },
+  {
+    "id": "hug",
+    "word": "حضن",
+    "transcription": "hadan",
+    "type": "word"
+  },
+  {
+    "id": "trust",
+    "word": "يثق",
+    "transcription": "yathiq",
+    "type": "word"
+  },
+  {
+    "id": "respect",
+    "word": "احترام",
+    "transcription": "ahtiram",
+    "type": "word"
+  },
+  {
+    "id": "loyalty",
+    "word": "وفاء",
+    "transcription": "wafa'",
+    "type": "word"
+  },
+  {
+    "id": "honesty",
+    "word": "الصدق",
+    "transcription": "alsidq",
+    "type": "word"
+  },
+  {
+    "id": "communication",
+    "word": "تواصل",
+    "transcription": "tuasil",
+    "type": "word"
+  },
+  {
+    "id": "support",
+    "word": "يدعم",
+    "transcription": "yadeam",
+    "type": "word"
+  },
+  {
+    "id": "care",
+    "word": "رعاية",
+    "transcription": "rieaya",
+    "type": "word"
+  },
+  {
+    "id": "affection",
+    "word": "عاطِفَة",
+    "transcription": "eatifa",
+    "type": "word"
+  },
+  {
+    "id": "emotion",
+    "word": "العاطفة",
+    "transcription": "aleatifa",
+    "type": "word"
+  },
+  {
+    "id": "feeling",
+    "word": "إحساس",
+    "transcription": "'iihsas",
+    "type": "word"
+  },
+  {
+    "id": "heart",
+    "word": "قلب",
+    "transcription": "qalb",
+    "type": "word"
+  },
+  {
+    "id": "soulmate",
+    "word": "رفيق الروح",
+    "transcription": "rafiq alruwh",
+    "type": "word"
+  },
+  {
+    "id": "friend",
+    "word": "صديق",
+    "transcription": "sadiq",
+    "type": "word"
+  },
+  {
+    "id": "best_friend",
+    "word": "أفضل صديق",
+    "transcription": "'afdal sadiq",
+    "type": "word"
+  },
+  {
+    "id": "friendship",
+    "word": "الصداقة",
+    "transcription": "alsadaqa",
+    "type": "word"
+  },
+  {
+    "id": "family",
+    "word": "عائلة",
+    "transcription": "eayila",
+    "type": "word"
+  },
+  {
+    "id": "mother",
+    "word": "الأم",
+    "transcription": "al'umu",
+    "type": "word"
+  },
+  {
+    "id": "father",
+    "word": "أب",
+    "transcription": "'ab",
+    "type": "word"
+  },
+  {
+    "id": "sister",
+    "word": "أخت",
+    "transcription": "'ukht",
+    "type": "word"
+  },
+  {
+    "id": "brother",
+    "word": "أخ",
+    "transcription": "'akh",
+    "type": "word"
+  },
+  {
+    "id": "daughter",
+    "word": "بنت",
+    "transcription": "bint",
+    "type": "word"
+  },
+  {
+    "id": "son",
+    "word": "ابن",
+    "transcription": "abn",
+    "type": "word"
+  },
+  {
+    "id": "parent",
+    "word": "الوالدين",
+    "transcription": "alwalidayn",
+    "type": "word"
+  },
+  {
+    "id": "child",
+    "word": "طفل",
+    "transcription": "tifl",
+    "type": "word"
+  },
+  {
+    "id": "grandmother",
+    "word": "جدة",
+    "transcription": "jida",
+    "type": "word"
+  },
+  {
+    "id": "grandfather",
+    "word": "جد",
+    "transcription": "jd",
+    "type": "word"
+  },
+  {
+    "id": "cousin",
+    "word": "ابن عم",
+    "transcription": "abn eamin",
+    "type": "word"
+  },
+  {
+    "id": "uncle",
+    "word": "عم",
+    "transcription": "eamm",
+    "type": "word"
+  },
+  {
+    "id": "aunt",
+    "word": "عمة",
+    "transcription": "eama",
+    "type": "word"
+  },
+  {
+    "id": "nephew",
+    "word": "ابن الأخ",
+    "transcription": "aibn al'akh",
+    "type": "word"
+  },
+  {
+    "id": "niece",
+    "word": "ابنة الأخت",
+    "transcription": "aibnat al'ukht",
+    "type": "word"
+  },
+  {
+    "id": "in_laws",
+    "word": "الأصهار",
+    "transcription": "al'ashar",
+    "type": "word"
+  },
+  {
+    "id": "stepfather",
+    "word": "زوج الأم",
+    "transcription": "zawj al'umi",
+    "type": "word"
+  },
+  {
+    "id": "stepmother",
+    "word": "زوجة الأب",
+    "transcription": "zawjat al'ab",
+    "type": "word"
+  },
+  {
+    "id": "stepsister",
+    "word": "أخت غير شقيقة",
+    "transcription": "'ukht ghayr shaqiqa",
+    "type": "word"
+  },
+  {
+    "id": "stepbrother",
+    "word": "أخ غير شقيق",
+    "transcription": "'akh ghayr shaqiq",
+    "type": "word"
+  },
+  {
+    "id": "ex_boyfriend",
+    "word": "صديقها السابق",
+    "transcription": "sadiquha alsaabiq",
+    "type": "word"
+  },
+  {
+    "id": "ex_girlfriend",
+    "word": "صديقته السابقة",
+    "transcription": "sadiqatuh alsaabiqa",
+    "type": "word"
+  },
+  {
+    "id": "breakup",
+    "word": "انفصل",
+    "transcription": "anfasal",
+    "type": "word"
+  },
+  {
+    "id": "divorce",
+    "word": "الطلاق",
+    "transcription": "altalaq",
+    "type": "word"
+  },
+  {
+    "id": "argument",
+    "word": "دعوى",
+    "transcription": "daewaa",
+    "type": "word"
+  },
+  {
+    "id": "fight",
+    "word": "يعارك",
+    "transcription": "yuearik",
+    "type": "word"
+  },
+  {
+    "id": "jealousy",
+    "word": "الغيرة",
+    "transcription": "alghayra",
+    "type": "word"
+  },
+  {
+    "id": "forgive",
+    "word": "يغفر",
+    "transcription": "yaghfir",
+    "type": "word"
+  },
+  {
+    "id": "apology",
+    "word": "اعتذار",
+    "transcription": "aietidhar",
+    "type": "word"
+  },
+  {
+    "id": "promise",
+    "word": "يعد",
+    "transcription": "yueadu",
+    "type": "word"
+  },
+  {
+    "id": "secret",
+    "word": "سر",
+    "transcription": "sirun",
+    "type": "word"
+  },
+  {
+    "id": "memory",
+    "word": "ذاكرة",
+    "transcription": "dhakira",
+    "type": "word"
+  },
+  {
+    "id": "anniversary",
+    "word": "عيد",
+    "transcription": "eid",
+    "type": "word"
+  },
+  {
+    "id": "proposal",
+    "word": "عرض",
+    "transcription": "eird",
+    "type": "word"
+  },
+  {
+    "id": "ring",
+    "word": "خاتم",
+    "transcription": "khatam",
+    "type": "word"
+  },
+  {
+    "id": "flowers",
+    "word": "زهور",
+    "transcription": "zuhur",
+    "type": "word"
+  },
+  {
+    "id": "gift",
+    "word": "هدية",
+    "transcription": "hadia",
+    "type": "word"
+  },
+  {
+    "id": "compliment",
+    "word": "إطراء",
+    "transcription": "'iitra'",
+    "type": "word"
+  },
+  {
+    "id": "flirting",
+    "word": "مغازلة",
+    "transcription": "mughazala",
+    "type": "word"
+  },
+  {
+    "id": "romantic",
+    "word": "رومانسي",
+    "transcription": "rumansiun",
+    "type": "word"
+  },
+  {
+    "id": "cute",
+    "word": "لطيف",
+    "transcription": "latif",
+    "type": "word"
+  },
+  {
+    "id": "beautiful",
+    "word": "جميل",
+    "transcription": "jamil",
+    "type": "word"
+  },
+  {
+    "id": "handsome",
+    "word": "وسيم",
+    "transcription": "wasim",
+    "type": "word"
+  },
+  {
+    "id": "kind",
+    "word": "عطوف",
+    "transcription": "eutuf",
+    "type": "word"
+  },
+  {
+    "id": "sweet",
+    "word": "حلو",
+    "transcription": "hulw",
+    "type": "word"
+  },
+  {
+    "id": "gentle",
+    "word": "لطيف",
+    "transcription": "latif",
+    "type": "word"
+  },
+  {
+    "id": "caring",
+    "word": "رعاية",
+    "transcription": "rieaya",
+    "type": "word"
+  },
+  {
+    "id": "loving",
+    "word": "المحبة",
+    "transcription": "almahaba",
+    "type": "word"
+  },
+  {
+    "id": "faithful",
+    "word": "مخلص",
+    "transcription": "mukhlis",
+    "type": "word"
+  },
+  {
+    "id": "close",
+    "word": "يغلق",
+    "transcription": "yughlaq",
+    "type": "word"
+  },
+  {
+    "id": "lonely",
+    "word": "وحيد",
+    "transcription": "wahid",
+    "type": "word"
+  },
+  {
+    "id": "single",
+    "word": "أعزب",
+    "transcription": "azab",
+    "type": "word"
+  },
+  {
+    "id": "taken",
+    "word": "مرتبط",
+    "transcription": "murtabit",
+    "type": "word"
+  },
+  {
+    "id": "engaged",
+    "word": "مرتبط",
+    "transcription": "murtabit",
+    "type": "word"
+  },
+  {
+    "id": "married",
+    "word": "متزوج",
+    "transcription": "mutazawij",
+    "type": "word"
+  },
+  {
+    "id": "separated",
+    "word": "منفصل",
+    "transcription": "munfasil",
+    "type": "word"
+  },
+  {
+    "id": "widow",
+    "word": "أرملة",
+    "transcription": "armala",
+    "type": "word"
+  },
+  {
+    "id": "widower",
+    "word": "أرمل",
+    "transcription": "armal",
+    "type": "word"
+  },
+  {
+    "id": "i_love_you",
+    "word": "أحبك",
+    "transcription": "'uhibuk",
+    "type": "phrase"
+  },
+  {
+    "id": "i_miss_you",
+    "word": "أفتقدك",
+    "transcription": "'aftaqiduk",
+    "type": "phrase"
+  },
+  {
+    "id": "i_need_you",
+    "word": "أنا بحاجة إليك",
+    "transcription": "'ana bihajat 'iilayk",
+    "type": "phrase"
+  },
+  {
+    "id": "i_trust_you",
+    "word": "أنا أثق بك",
+    "transcription": "'ana 'athiq bik",
+    "type": "phrase"
+  },
+  {
+    "id": "i_like_you",
+    "word": "أنا معجب بك",
+    "transcription": "'ana muejab bik",
+    "type": "phrase"
+  },
+  {
+    "id": "you_are_beautiful",
+    "word": "أنت جميل",
+    "transcription": "'ant jamil",
+    "type": "phrase"
+  },
+  {
+    "id": "you_are_cute",
+    "word": "أنت لطيف",
+    "transcription": "'ant latif",
+    "type": "phrase"
+  },
+  {
+    "id": "will_you_marry_me",
+    "word": "هل ستتزوجني؟",
+    "transcription": "hal satatazawajuni?",
+    "type": "phrase"
+  },
+  {
+    "id": "im_sorry",
+    "word": "أنا آسف",
+    "transcription": "'ana asf",
+    "type": "phrase"
+  },
+  {
+    "id": "forgive_me",
+    "word": "اغفر لي",
+    "transcription": "aghfir li",
+    "type": "phrase"
+  },
+  {
+    "id": "i_support_you",
+    "word": "أنا أدعمك",
+    "transcription": "'ana 'adeamuk",
+    "type": "phrase"
+  },
+  {
+    "id": "im_here_for_you",
+    "word": "أنا هنا من أجلك",
+    "transcription": "'ana huna min 'ajlik",
+    "type": "phrase"
+  },
+  {
+    "id": "lets_go_on_a_date",
+    "word": "دعونا نذهب في موعد",
+    "transcription": "daeuna nadhhab fi maweid",
+    "type": "phrase"
+  },
+  {
+    "id": "i_want_to_break_up",
+    "word": "أريد أن تفكك",
+    "transcription": "'urid 'an tufakik",
+    "type": "phrase"
+  },
+  {
+    "id": "we_need_to_talk",
+    "word": "نحن بحاجة للحديث",
+    "transcription": "nahn bihajat lilhadith",
+    "type": "phrase"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "clean",
+    "word": "ينظف",
+    "transcription": "yunazaf",
+    "type": "verb"
+  },
+  {
+    "id": "wash_dishes",
+    "word": "اغسل الأطباق",
+    "transcription": "aghsil al'atbaq",
+    "type": "phrase"
+  },
+  {
+    "id": "do_laundry",
+    "word": "قم بالغسيل",
+    "transcription": "qum bialghasil",
+    "type": "phrase"
+  },
+  {
+    "id": "vacuum",
+    "word": "مكنسة",
+    "transcription": "maknasa",
+    "type": "verb"
+  },
+  {
+    "id": "sweep_floor",
+    "word": "اكتساح الارض",
+    "transcription": "aiktisah alard",
+    "type": "phrase"
+  },
+  {
+    "id": "mop_floor",
+    "word": "امسح الأرضية",
+    "transcription": "amsah al'ardia",
+    "type": "phrase"
+  },
+  {
+    "id": "take_out_trash",
+    "word": "اخراج القمامة",
+    "transcription": "akhiraj alqumama",
+    "type": "phrase"
+  },
+  {
+    "id": "make_bed",
+    "word": "اصنع السرير",
+    "transcription": "asnae alsarir",
+    "type": "phrase"
+  },
+  {
+    "id": "dust",
+    "word": "تراب",
+    "transcription": "turab",
+    "type": "verb"
+  },
+  {
+    "id": "cook",
+    "word": "يطبخ",
+    "transcription": "yatbakh",
+    "type": "verb"
+  },
+  {
+    "id": "wash_clothes",
+    "word": "غسل الملابس",
+    "transcription": "ghasl almalabis",
+    "type": "phrase"
+  },
+  {
+    "id": "iron_clothes",
+    "word": "ملابس حديدية",
+    "transcription": "malabis hadidia",
+    "type": "phrase"
+  },
+  {
+    "id": "fold_clothes",
+    "word": "أضعاف الملابس",
+    "transcription": "'adeaf almalabis",
+    "type": "phrase"
+  },
+  {
+    "id": "hang_clothes",
+    "word": "شنق الملابس",
+    "transcription": "shanq almalabis",
+    "type": "phrase"
+  },
+  {
+    "id": "clean_window",
+    "word": "تنظيف النافذة",
+    "transcription": "tanzif alnaafidha",
+    "type": "phrase"
+  },
+  {
+    "id": "wash_car",
+    "word": "اغسل السيارة",
+    "transcription": "aghsil alsayaara",
+    "type": "phrase"
+  },
+  {
+    "id": "water_plants",
+    "word": "سقي النباتات",
+    "transcription": "suqi alnabatat",
+    "type": "phrase"
+  },
+  {
+    "id": "feed_pet",
+    "word": "إطعام الحيوان الأليف",
+    "transcription": "'iiteam alhayawan al'alif",
+    "type": "phrase"
+  },
+  {
+    "id": "walk_dog",
+    "word": "المشي الكلب",
+    "transcription": "almashy alkalb",
+    "type": "phrase"
+  },
+  {
+    "id": "set_table",
+    "word": ".أعد المائدة",
+    "transcription": ".'aeadi almayida",
+    "type": "phrase"
+  },
+  {
+    "id": "clear_table",
+    "word": "مسح الجدول",
+    "transcription": "mash aljadwal",
+    "type": "phrase"
+  },
+  {
+    "id": "take_shower",
+    "word": "استحم",
+    "transcription": "aistahama",
+    "type": "phrase"
+  },
+  {
+    "id": "brush_teeth",
+    "word": "فرشاة الأسنان",
+    "transcription": "firshat al'asnan",
+    "type": "phrase"
+  },
+  {
+    "id": "clean_bathroom",
+    "word": "تنظيف الحمام",
+    "transcription": "tanzif alhamam",
+    "type": "phrase"
+  },
+  {
+    "id": "organize_room",
+    "word": "تنظيم الغرفة",
+    "transcription": "tanzim alghurfa",
+    "type": "phrase"
+  },
+  {
+    "id": "tidy_up",
+    "word": "مرتب",
+    "transcription": "muratab",
+    "type": "phrase"
+  },
+  {
+    "id": "shop_groceries",
+    "word": "متجر للبقالة",
+    "transcription": "matjar lilbiqala",
+    "type": "phrase"
+  },
+  {
+    "id": "carry_bags",
+    "word": "حمل الحقائب",
+    "transcription": "hamal alhaqayib",
+    "type": "phrase"
+  },
+  {
+    "id": "fix",
+    "word": "يصلح",
+    "transcription": "yuslih",
+    "type": "verb"
+  },
+  {
+    "id": "repair",
+    "word": "بصلح",
+    "transcription": "bisalh",
+    "type": "verb"
+  },
+  {
+    "id": "paint",
+    "word": "طلاء",
+    "transcription": "tila'",
+    "type": "verb"
+  },
+  {
+    "id": "change_lightbulb",
+    "word": "تغيير المصباح الكهربائي",
+    "transcription": "taghyir almisbah alkahrabayiyi",
+    "type": "phrase"
+  },
+  {
+    "id": "clean_kitchen",
+    "word": "تنظيف المطبخ",
+    "transcription": "tanzif almatbakh",
+    "type": "phrase"
+  },
+  {
+    "id": "wash_hands",
+    "word": "اغسل يديك",
+    "transcription": "aghsil yadayk",
+    "type": "phrase"
+  },
+  {
+    "id": "dry_dishes",
+    "word": "تجفيف الأطباق",
+    "transcription": "tajfif al'atbaq",
+    "type": "phrase"
+  },
+  {
+    "id": "put_away",
+    "word": "وضع بعيدا",
+    "transcription": "wade baeidan",
+    "type": "phrase"
+  },
+  {
+    "id": "open_curtains",
+    "word": "افتح الستائر",
+    "transcription": "aftah alsatayir",
+    "type": "phrase"
+  },
+  {
+    "id": "close_curtains",
+    "word": "أغلق الستائر",
+    "transcription": "'aghliq alsatayir",
+    "type": "phrase"
+  },
+  {
+    "id": "clean_fridge",
+    "word": "تنظيف الثلاجة",
+    "transcription": "tanzif althalaaja",
+    "type": "phrase"
+  },
+  {
+    "id": "throw_away",
+    "word": "رمى",
+    "transcription": "rumaa",
+    "type": "phrase"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "house",
+    "word": "منزل",
+    "transcription": "manzil",
+    "type": "word"
+  },
+  {
+    "id": "apartment",
+    "word": "شقة",
+    "transcription": "shaqa",
+    "type": "word"
+  },
+  {
+    "id": "room",
+    "word": "غرفة",
+    "transcription": "ghurfa",
+    "type": "word"
+  },
+  {
+    "id": "kitchen",
+    "word": "مطبخ",
+    "transcription": "matbakh",
+    "type": "word"
+  },
+  {
+    "id": "bathroom",
+    "word": "حمام",
+    "transcription": "hamaam",
+    "type": "word"
+  },
+  {
+    "id": "bedroom",
+    "word": "غرفة نوم",
+    "transcription": "ghurfat nawm",
+    "type": "word"
+  },
+  {
+    "id": "living_room",
+    "word": "غرفة الجلوس",
+    "transcription": "ghurfat aljulus",
+    "type": "phrase"
+  },
+  {
+    "id": "hallway",
+    "word": "المدخل",
+    "transcription": "almadkhal",
+    "type": "word"
+  },
+  {
+    "id": "balcony",
+    "word": "شرفة",
+    "transcription": "shurfa",
+    "type": "word"
+  },
+  {
+    "id": "garage",
+    "word": "المرآب",
+    "transcription": "almarab",
+    "type": "word"
+  },
+  {
+    "id": "garden",
+    "word": "حديقة",
+    "transcription": "hadiqa",
+    "type": "word"
+  },
+  {
+    "id": "door",
+    "word": "باب",
+    "transcription": "bab",
+    "type": "word"
+  },
+  {
+    "id": "window",
+    "word": "نافذة",
+    "transcription": "nafidha",
+    "type": "word"
+  },
+  {
+    "id": "wall",
+    "word": "حائط",
+    "transcription": "hayit",
+    "type": "word"
+  },
+  {
+    "id": "floor",
+    "word": "أرضية",
+    "transcription": "'ardia",
+    "type": "word"
+  },
+  {
+    "id": "ceiling",
+    "word": "سقف",
+    "transcription": "saqf",
+    "type": "word"
+  },
+  {
+    "id": "stairs",
+    "word": "سلالم",
+    "transcription": "salalim",
+    "type": "word"
+  },
+  {
+    "id": "elevator",
+    "word": "مصعد",
+    "transcription": "musead",
+    "type": "word"
+  },
+  {
+    "id": "table",
+    "word": "طاولة",
+    "transcription": "tawila",
+    "type": "word"
+  },
+  {
+    "id": "chair",
+    "word": "كرسي",
+    "transcription": "kursiun",
+    "type": "word"
+  },
+  {
+    "id": "sofa",
+    "word": "أريكة",
+    "transcription": "arika",
+    "type": "word"
+  },
+  {
+    "id": "bed",
+    "word": "سرير",
+    "transcription": "sarir",
+    "type": "word"
+  },
+  {
+    "id": "desk",
+    "word": "مكتب",
+    "transcription": "maktab",
+    "type": "word"
+  },
+  {
+    "id": "lamp",
+    "word": "خروف",
+    "transcription": "kharuf",
+    "type": "word"
+  },
+  {
+    "id": "mirror",
+    "word": "مرآة",
+    "transcription": "mura",
+    "type": "word"
+  },
+  {
+    "id": "carpet",
+    "word": "سجادة",
+    "transcription": "sajada",
+    "type": "word"
+  },
+  {
+    "id": "curtains",
+    "word": "ستائر",
+    "transcription": "satayir",
+    "type": "word"
+  },
+  {
+    "id": "closet",
+    "word": "خزانة",
+    "transcription": "khizana",
+    "type": "word"
+  },
+  {
+    "id": "shelf",
+    "word": "الرف",
+    "transcription": "alrafu",
+    "type": "word"
+  },
+  {
+    "id": "drawer",
+    "word": "درج",
+    "transcription": "daraj",
+    "type": "word"
+  },
+  {
+    "id": "pillow",
+    "word": "وسادة",
+    "transcription": "wisadatan",
+    "type": "word"
+  },
+  {
+    "id": "blanket",
+    "word": "بطانية",
+    "transcription": "bataania",
+    "type": "word"
+  },
+  {
+    "id": "mattress",
+    "word": "فراش",
+    "transcription": "firash",
+    "type": "word"
+  },
+  {
+    "id": "couch",
+    "word": "أريكة",
+    "transcription": "arika",
+    "type": "word"
+  },
+  {
+    "id": "tv",
+    "word": "تلفزيون",
+    "transcription": "tilfizyun",
+    "type": "word"
+  },
+  {
+    "id": "remote_control",
+    "word": "التحكم عن بعد",
+    "transcription": "altahakum ean bued",
+    "type": "phrase"
+  },
+  {
+    "id": "refrigerator",
+    "word": "ثلاجة",
+    "transcription": "thalaaja",
+    "type": "word"
+  },
+  {
+    "id": "oven",
+    "word": "فرن",
+    "transcription": "furan",
+    "type": "word"
+  },
+  {
+    "id": "microwave",
+    "word": "ميكروويف",
+    "transcription": "mikruwif",
+    "type": "word"
+  },
+  {
+    "id": "sink",
+    "word": "حوض",
+    "transcription": "hawd",
+    "type": "word"
+  },
+  {
+    "id": "toilet",
+    "word": "مرحاض",
+    "transcription": "mirhad",
+    "type": "word"
+  },
+  {
+    "id": "shower",
+    "word": "دش",
+    "transcription": "dush",
+    "type": "word"
+  },
+  {
+    "id": "bathtub",
+    "word": "حوض الاستحمام",
+    "transcription": "hawd aliastihmam",
+    "type": "word"
+  },
+  {
+    "id": "washing_machine",
+    "word": "غسالة",
+    "transcription": "ghasala",
+    "type": "phrase"
+  },
+  {
+    "id": "dishwasher",
+    "word": "غسالة الأواني",
+    "transcription": "ghasalat al'awani",
+    "type": "word"
+  },
+  {
+    "id": "fan",
+    "word": "معجب",
+    "transcription": "muejab",
+    "type": "word"
+  },
+  {
+    "id": "air_conditioner",
+    "word": "مكيف الهواء",
+    "transcription": "mukayif alhawa'",
+    "type": "phrase"
+  },
+  {
+    "id": "heater",
+    "word": "سخان",
+    "transcription": "sakhan",
+    "type": "word"
+  },
+  {
+    "id": "light",
+    "word": "ضوء",
+    "transcription": "daw'",
+    "type": "word"
+  },
+  {
+    "id": "socket",
+    "word": "المقبس",
+    "transcription": "almaqbas",
+    "type": "word"
+  }
+]

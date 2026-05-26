@@ -1,0 +1,272 @@
+[
+  {
+    "id": "artificial_intelligence",
+    "word": "الذكاء الاصطناعي",
+    "transcription": "aldhaka' aliastinaeiu",
+    "type": "phrase"
+  },
+  {
+    "id": "ai",
+    "word": "الذكاء الاصطناعي",
+    "transcription": "al-dhaka al-istinaei",
+    "type": "word"
+  },
+  {
+    "id": "machine_learning",
+    "word": "التعلم الآلي",
+    "transcription": "altaealum alali",
+    "type": "phrase"
+  },
+  {
+    "id": "deep_learning",
+    "word": "التعلم العميق",
+    "transcription": "altaealum aleamiq",
+    "type": "phrase"
+  },
+  {
+    "id": "neural_network",
+    "word": "الشبكة العصبية",
+    "transcription": "alshabakat aleasabia",
+    "type": "phrase"
+  },
+  {
+    "id": "algorithm",
+    "word": "خوارزمية",
+    "transcription": "khawarizmia",
+    "type": "word"
+  },
+  {
+    "id": "data",
+    "word": "بيانات",
+    "transcription": "bayanat",
+    "type": "word"
+  },
+  {
+    "id": "dataset",
+    "word": "مجموعة بيانات",
+    "transcription": "majmuat bayanat",
+    "type": "word"
+  },
+  {
+    "id": "model",
+    "word": "نموذج",
+    "transcription": "namudhaj",
+    "type": "word"
+  },
+  {
+    "id": "training",
+    "word": "تدريب",
+    "transcription": "tadrib",
+    "type": "word"
+  },
+  {
+    "id": "inference",
+    "word": "الاستدلال",
+    "transcription": "aliastidlal",
+    "type": "word"
+  },
+  {
+    "id": "prompt",
+    "word": "موجّه",
+    "transcription": "muwajjih",
+    "type": "word"
+  },
+  {
+    "id": "chatbot",
+    "word": "روبوت دردشة",
+    "transcription": "robot dardasha",
+    "type": "word"
+  },
+  {
+    "id": "automation",
+    "word": "الأتمتة",
+    "transcription": "al'atmita",
+    "type": "word"
+  },
+  {
+    "id": "robot",
+    "word": "روبوت",
+    "transcription": "robot",
+    "type": "word"
+  },
+  {
+    "id": "computer_vision",
+    "word": "رؤية حاسوبية",
+    "transcription": "ruya hasubiya",
+    "type": "phrase"
+  },
+  {
+    "id": "natural_language_processing",
+    "word": "معالجة اللغة الطبيعية",
+    "transcription": "muealajat allughat altabieia",
+    "type": "phrase"
+  },
+  {
+    "id": "nlp",
+    "word": "معالجة اللغة الطبيعية",
+    "transcription": "mualajat al-lugha al-tabiiya",
+    "type": "word"
+  },
+  {
+    "id": "large_language_model",
+    "word": "نموذج لغة كبير",
+    "transcription": "namudhaj lughat kabir",
+    "type": "phrase"
+  },
+  {
+    "id": "llm",
+    "word": "نموذج لغوي كبير",
+    "transcription": "namudhaj lughawi kabir",
+    "type": "word"
+  },
+  {
+    "id": "token",
+    "word": "رمز مميز",
+    "transcription": "ramz mumayaz",
+    "type": "word"
+  },
+  {
+    "id": "embedding",
+    "word": "التضمين",
+    "transcription": "altadmin",
+    "type": "word"
+  },
+  {
+    "id": "vector",
+    "word": "متجه",
+    "transcription": "mutajah",
+    "type": "word"
+  },
+  {
+    "id": "feature",
+    "word": "ميزة",
+    "transcription": "miza",
+    "type": "word"
+  },
+  {
+    "id": "pattern",
+    "word": "نمط",
+    "transcription": "namat",
+    "type": "word"
+  },
+  {
+    "id": "prediction",
+    "word": "تنبؤ",
+    "transcription": "tanabaw",
+    "type": "word"
+  },
+  {
+    "id": "classification",
+    "word": "تصنيف",
+    "transcription": "tasnif",
+    "type": "word"
+  },
+  {
+    "id": "regression",
+    "word": "الانحدار",
+    "transcription": "alanhidar",
+    "type": "word"
+  },
+  {
+    "id": "bias",
+    "word": "تحيز",
+    "transcription": "tahayaz",
+    "type": "word"
+  },
+  {
+    "id": "accuracy",
+    "word": "دقة",
+    "transcription": "diqa",
+    "type": "word"
+  },
+  {
+    "id": "optimization",
+    "word": "تحسين",
+    "transcription": "tahsin",
+    "type": "word"
+  },
+  {
+    "id": "feedback",
+    "word": "تغذية راجعة",
+    "transcription": "taghdhiya rajia",
+    "type": "word"
+  },
+  {
+    "id": "automation_system",
+    "word": "نظام أتمتة",
+    "transcription": "nizam atmata",
+    "type": "phrase"
+  },
+  {
+    "id": "data_science",
+    "word": "علم البيانات",
+    "transcription": "eilm albayanat",
+    "type": "phrase"
+  },
+  {
+    "id": "ethics_ai",
+    "word": "أخلاقيات الذكاء الاصطناعي",
+    "transcription": "'akhlaqiaat aldhaka' aliastinaeii",
+    "type": "phrase"
+  },
+  {
+    "id": "supervised_learning",
+    "word": "التعلم تحت الإشراف",
+    "transcription": "altaealum taht al'iishraf",
+    "type": "phrase"
+  },
+  {
+    "id": "unsupervised_learning",
+    "word": "التعلم غير الخاضع للرقابة",
+    "transcription": "altaealum ghayr alkhadie lilraqaba",
+    "type": "phrase"
+  },
+  {
+    "id": "reinforcement_learning",
+    "word": "التعلم المعزز",
+    "transcription": "altaealum almueazaz",
+    "type": "phrase"
+  },
+  {
+    "id": "gpu",
+    "word": "وحدة معالجة الرسوميات",
+    "transcription": "wahdat mualajat al-rusumiyat",
+    "type": "word"
+  },
+  {
+    "id": "cpu",
+    "word": "وحدة المعالجة المركزية",
+    "transcription": "wahdat al-mualaja al-markaziya",
+    "type": "word"
+  },
+  {
+    "id": "cloud",
+    "word": "السحابة",
+    "transcription": "al-sahaba",
+    "type": "word"
+  },
+  {
+    "id": "api",
+    "word": "واجهة برمجة التطبيقات",
+    "transcription": "wajihat barmajat al-tatbiqat",
+    "type": "word"
+  },
+  {
+    "id": "api_key",
+    "word": "مفتاح واجهة برمجة التطبيقات",
+    "transcription": "miftah wajihat barmajat al-tatbiqat",
+    "type": "phrase"
+  },
+  {
+    "id": "server",
+    "word": "الخادم",
+    "transcription": "alkhadim",
+    "type": "word"
+  },
+  {
+    "id": "database",
+    "word": "قاعدة البيانات",
+    "transcription": "qaeidat albayanat",
+    "type": "word"
+  }
+]

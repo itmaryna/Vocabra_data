@@ -1,0 +1,296 @@
+[
+  {
+    "id": "transport",
+    "word": "ينقل",
+    "transcription": "yanqul",
+    "type": "word"
+  },
+  {
+    "id": "car",
+    "word": "سيارة",
+    "transcription": "sayaara",
+    "type": "word"
+  },
+  {
+    "id": "bus",
+    "word": "حافلة",
+    "transcription": "hafila",
+    "type": "word"
+  },
+  {
+    "id": "train",
+    "word": "يدرب",
+    "transcription": "yudarab",
+    "type": "word"
+  },
+  {
+    "id": "tram",
+    "word": "ترام",
+    "transcription": "tram",
+    "type": "word"
+  },
+  {
+    "id": "metro",
+    "word": "مترو",
+    "transcription": "mitru",
+    "type": "word"
+  },
+  {
+    "id": "subway",
+    "word": "مترو",
+    "transcription": "mitru",
+    "type": "word"
+  },
+  {
+    "id": "taxi",
+    "word": "تاكسي",
+    "transcription": "taksi",
+    "type": "word"
+  },
+  {
+    "id": "bike",
+    "word": "دراجة",
+    "transcription": "daraaja",
+    "type": "word"
+  },
+  {
+    "id": "bicycle",
+    "word": "دراجة",
+    "transcription": "daraaja",
+    "type": "word"
+  },
+  {
+    "id": "motorcycle",
+    "word": "دراجة نارية",
+    "transcription": "daraajat naria",
+    "type": "word"
+  },
+  {
+    "id": "scooter",
+    "word": "سكوتر",
+    "transcription": "skutar",
+    "type": "word"
+  },
+  {
+    "id": "plane",
+    "word": "طائرة",
+    "transcription": "tayira",
+    "type": "word"
+  },
+  {
+    "id": "airport",
+    "word": "مطار",
+    "transcription": "matar",
+    "type": "word"
+  },
+  {
+    "id": "flight",
+    "word": "رحلة جوية",
+    "transcription": "rihlat jawiya",
+    "type": "word"
+  },
+  {
+    "id": "ticket",
+    "word": "تذكرة",
+    "transcription": "tadhkura",
+    "type": "word"
+  },
+  {
+    "id": "station",
+    "word": "محطة",
+    "transcription": "mahata",
+    "type": "word"
+  },
+  {
+    "id": "stop",
+    "word": "قف",
+    "transcription": "qf",
+    "type": "word"
+  },
+  {
+    "id": "driver",
+    "word": "سائق",
+    "transcription": "saiq",
+    "type": "word"
+  },
+  {
+    "id": "passenger",
+    "word": "راكب",
+    "transcription": "rakib",
+    "type": "word"
+  },
+  {
+    "id": "road",
+    "word": "طريق",
+    "transcription": "tariq",
+    "type": "word"
+  },
+  {
+    "id": "street",
+    "word": "شارع",
+    "transcription": "sharie",
+    "type": "word"
+  },
+  {
+    "id": "highway",
+    "word": "الطريق السريع",
+    "transcription": "altariq alsarie",
+    "type": "word"
+  },
+  {
+    "id": "traffic",
+    "word": "مرور",
+    "transcription": "murur",
+    "type": "word"
+  },
+  {
+    "id": "traffic_jam",
+    "word": "ازدحام المرور",
+    "transcription": "aizdiham almurur",
+    "type": "phrase"
+  },
+  {
+    "id": "map",
+    "word": "رسم خريطة",
+    "transcription": "rasm kharita",
+    "type": "word"
+  },
+  {
+    "id": "route",
+    "word": "طريق",
+    "transcription": "tariq",
+    "type": "word"
+  },
+  {
+    "id": "destination",
+    "word": "وجهة",
+    "transcription": "wijhatan",
+    "type": "word"
+  },
+  {
+    "id": "departure",
+    "word": "رحيل",
+    "transcription": "rahil",
+    "type": "word"
+  },
+  {
+    "id": "arrival",
+    "word": "وصول",
+    "transcription": "wusul",
+    "type": "word"
+  },
+  {
+    "id": "platform",
+    "word": "منصة",
+    "transcription": "minasa",
+    "type": "word"
+  },
+  {
+    "id": "seat",
+    "word": "مقعد",
+    "transcription": "maqead",
+    "type": "word"
+  },
+  {
+    "id": "window",
+    "word": "نافذة",
+    "transcription": "nafidha",
+    "type": "word"
+  },
+  {
+    "id": "ticket_machine",
+    "word": "آلة التذاكر",
+    "transcription": "alt altadhakir",
+    "type": "phrase"
+  },
+  {
+    "id": "luggage",
+    "word": "أمتعة السفر",
+    "transcription": "'amtieat alsafar",
+    "type": "word"
+  },
+  {
+    "id": "bag",
+    "word": "شنطة",
+    "transcription": "shanta",
+    "type": "word"
+  },
+  {
+    "id": "passport",
+    "word": "جواز سفر",
+    "transcription": "jawaz safar",
+    "type": "word"
+  },
+  {
+    "id": "border",
+    "word": "حدود",
+    "transcription": "hudud",
+    "type": "word"
+  },
+  {
+    "id": "customs",
+    "word": "جمارك",
+    "transcription": "jamaruk",
+    "type": "word"
+  },
+  {
+    "id": "delay",
+    "word": "تأخير",
+    "transcription": "takhir",
+    "type": "word"
+  },
+  {
+    "id": "fast",
+    "word": "سريع",
+    "transcription": "sarie",
+    "type": "word"
+  },
+  {
+    "id": "slow",
+    "word": "بطيء",
+    "transcription": "bati'",
+    "type": "word"
+  },
+  {
+    "id": "safe",
+    "word": "آمن",
+    "transcription": "amin",
+    "type": "word"
+  },
+  {
+    "id": "travel",
+    "word": "يسافر",
+    "transcription": "yusafir",
+    "type": "word"
+  },
+  {
+    "id": "journey",
+    "word": "رحلة",
+    "transcription": "rihla",
+    "type": "word"
+  },
+  {
+    "id": "trip",
+    "word": "رحلة",
+    "transcription": "rihla",
+    "type": "word"
+  },
+  {
+    "id": "drive",
+    "word": "يقود",
+    "transcription": "yaqud",
+    "type": "word"
+  },
+  {
+    "id": "ride",
+    "word": "يركب",
+    "transcription": "yarkab",
+    "type": "word"
+  },
+  {
+    "id": "parking",
+    "word": "وقوف السيارات",
+    "transcription": "wuquf alsayaarat",
+    "type": "word"
+  }
+]

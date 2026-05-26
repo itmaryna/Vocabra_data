@@ -1,0 +1,182 @@
+[
+  {
+    "id": "dog",
+    "word": "كلب",
+    "transcription": "kalb",
+    "type": "word"
+  },
+  {
+    "id": "cat",
+    "word": "قطة",
+    "transcription": "qita",
+    "type": "word"
+  },
+  {
+    "id": "bird",
+    "word": "طائر",
+    "transcription": "tayir",
+    "type": "word"
+  },
+  {
+    "id": "fish",
+    "word": "سمكة",
+    "transcription": "samaka",
+    "type": "word"
+  },
+  {
+    "id": "cow",
+    "word": "بقرة",
+    "transcription": "baqara",
+    "type": "word"
+  },
+  {
+    "id": "horse",
+    "word": "حصان",
+    "transcription": "hisan",
+    "type": "word"
+  },
+  {
+    "id": "sheep",
+    "word": "غنم",
+    "transcription": "ghanam",
+    "type": "word"
+  },
+  {
+    "id": "goat",
+    "word": "معزة",
+    "transcription": "maeaza",
+    "type": "word"
+  },
+  {
+    "id": "pig",
+    "word": "خنزير",
+    "transcription": "khinzir",
+    "type": "word"
+  },
+  {
+    "id": "chicken",
+    "word": "فرخة",
+    "transcription": "farkha",
+    "type": "word"
+  },
+  {
+    "id": "duck",
+    "word": "بطة",
+    "transcription": "bata",
+    "type": "word"
+  },
+  {
+    "id": "lion",
+    "word": "الأسد",
+    "transcription": "al'asad",
+    "type": "word"
+  },
+  {
+    "id": "tiger",
+    "word": "نمر",
+    "transcription": "namir",
+    "type": "word"
+  },
+  {
+    "id": "elephant",
+    "word": "فيل",
+    "transcription": "fil",
+    "type": "word"
+  },
+  {
+    "id": "monkey",
+    "word": "قرد",
+    "transcription": "qird",
+    "type": "word"
+  },
+  {
+    "id": "bear",
+    "word": "دُبٌّ",
+    "transcription": "dubb",
+    "type": "word"
+  },
+  {
+    "id": "wolf",
+    "word": "ذئب",
+    "transcription": "dhib",
+    "type": "word"
+  },
+  {
+    "id": "fox",
+    "word": "ثعلب",
+    "transcription": "thaelab",
+    "type": "word"
+  },
+  {
+    "id": "deer",
+    "word": "عزيزي",
+    "transcription": "eazizi",
+    "type": "word"
+  },
+  {
+    "id": "rabbit",
+    "word": "أرنب",
+    "transcription": "'arnab",
+    "type": "word"
+  },
+  {
+    "id": "mouse",
+    "word": "الماوس",
+    "transcription": "almawis",
+    "type": "word"
+  },
+  {
+    "id": "snake",
+    "word": "ثعبان",
+    "transcription": "thueban",
+    "type": "word"
+  },
+  {
+    "id": "frog",
+    "word": "ضفدع",
+    "transcription": "dafdae",
+    "type": "word"
+  },
+  {
+    "id": "turtle",
+    "word": "سلحفاة",
+    "transcription": "sulhufa",
+    "type": "word"
+  },
+  {
+    "id": "shark",
+    "word": "سمك القرش",
+    "transcription": "samak alqirsh",
+    "type": "word"
+  },
+  {
+    "id": "whale",
+    "word": "حوت",
+    "transcription": "hut",
+    "type": "word"
+  },
+  {
+    "id": "dolphin",
+    "word": "دولفين",
+    "transcription": "dulfin",
+    "type": "word"
+  },
+  {
+    "id": "octopus",
+    "word": "الأخطبوط",
+    "transcription": "al'akhtabut",
+    "type": "word"
+  },
+  {
+    "id": "ant",
+    "word": "نملة",
+    "transcription": "namla",
+    "type": "word"
+  },
+  {
+    "id": "bee",
+    "word": "نحلة",
+    "transcription": "nahla",
+    "type": "word"
+  }
+]

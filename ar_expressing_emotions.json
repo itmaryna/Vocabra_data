@@ -1,0 +1,230 @@
+[
+  {
+    "id": "express_emotions",
+    "word": "التعبير عن العواطف",
+    "transcription": "altaebir ean aleawatif",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_happy",
+    "word": "أنا سعيد",
+    "transcription": "'ana saeid",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_sad",
+    "word": "أنا حزينة",
+    "transcription": "'ana hazina",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_angry",
+    "word": "أنا غاضب",
+    "transcription": "'ana ghadib",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_excited",
+    "word": "أنا متحمس",
+    "transcription": "'ana mutahamis",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_scared",
+    "word": "أنا خائف",
+    "transcription": "'ana khayif",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_tired",
+    "word": "أنا متعب",
+    "transcription": "'ana muteab",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_good",
+    "word": "أشعر أنني بحالة جيدة",
+    "transcription": "'asheur 'anani bihalat jayida",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_bad",
+    "word": "أشعر بشعور سيء",
+    "transcription": "'asheur bishueur sayi'",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_great",
+    "word": "أشعر بالارتياح",
+    "transcription": "'asheur bialiartiah",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_terrible",
+    "word": "أشعر بالفزع",
+    "transcription": "'asheur bialfazae",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_nervous",
+    "word": "أشعر بالتوتر",
+    "transcription": "'asheur bialtawatur",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_confused",
+    "word": "أنا في حيرة",
+    "transcription": "'ana fi hayra",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_surprised",
+    "word": "أنا مندهش",
+    "transcription": "'ana mundahish",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_confident",
+    "word": "أنا واثق",
+    "transcription": "'ana wathiq",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_proud",
+    "word": "أنا فخور",
+    "transcription": "'ana fakhur",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_jealous",
+    "word": "أنا غيور",
+    "transcription": "'ana ghiwr",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_worried",
+    "word": "أنا قلقة",
+    "transcription": "'ana qaliqa",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_stressed",
+    "word": "أنا متوتر",
+    "transcription": "'ana mutawatir",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_calm",
+    "word": "أنا هادئ",
+    "transcription": "'ana hadi",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_relaxed",
+    "word": "أنا مرتاح",
+    "transcription": "'ana murtah",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_lonely",
+    "word": "أنا وحيد",
+    "transcription": "'ana wahid",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_bored",
+    "word": "أنا أشعر بالملل",
+    "transcription": "'ana 'asheur bialmalal",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_happy_for_you",
+    "word": "أنا سعيد من أجلك",
+    "transcription": "'ana saeid min 'ajlik",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_sad_for_you",
+    "word": "أنا حزين لأجلك",
+    "transcription": "'ana hazin li'ajlik",
+    "type": "phrase"
+  },
+  {
+    "id": "it_makes_me_happy",
+    "word": "يجعلني سعيدا",
+    "transcription": "yajealuni saeidan",
+    "type": "phrase"
+  },
+  {
+    "id": "it_makes_me_sad",
+    "word": "يجعلني حزينا",
+    "transcription": "yajealuni hazinan",
+    "type": "phrase"
+  },
+  {
+    "id": "i_dont_know",
+    "word": "لا أعرف كيف أشعر",
+    "transcription": "la 'aerif kayf 'asheur",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_lost",
+    "word": "أشعر بالضياع",
+    "transcription": "'asheur bialdayae",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_overwhelmed",
+    "word": "أشعر بالإرهاق",
+    "transcription": "'asheur bial'iirhaq",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_hopeful",
+    "word": "أشعر بالأمل",
+    "transcription": "'asheur bial'amal",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_ashamed",
+    "word": "أشعر بالخجل",
+    "transcription": "'asheur bialkhajal",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_embarrassed",
+    "word": "أشعر بالحرج",
+    "transcription": "'asheur bialharaj",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_crying",
+    "word": "أنا أبكي",
+    "transcription": "'ana 'abki",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_laughing",
+    "word": "أنا أضحك",
+    "transcription": "'ana 'adhak",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_smiling",
+    "word": "أنا أبتسم",
+    "transcription": "'ana 'abtasim",
+    "type": "phrase"
+  },
+  {
+    "id": "i_cant_explain",
+    "word": "لا أستطيع أن أشرح مشاعري",
+    "transcription": "la 'astatie 'an 'ashrah mashaeiri",
+    "type": "phrase"
+  },
+  {
+    "id": "i_need_help",
+    "word": "انا بحاجة الى مساعدة",
+    "transcription": "ana bihajat alaa musaeida",
+    "type": "phrase"
+  }
+]

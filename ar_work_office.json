@@ -1,0 +1,344 @@
+[
+  {
+    "id": "work",
+    "word": "عمل",
+    "transcription": "eamil",
+    "type": "word"
+  },
+  {
+    "id": "office",
+    "word": "مكتب",
+    "transcription": "maktab",
+    "type": "word"
+  },
+  {
+    "id": "job",
+    "word": "وظيفة",
+    "transcription": "wazifa",
+    "type": "word"
+  },
+  {
+    "id": "boss",
+    "word": "رئيس",
+    "transcription": "rayiys",
+    "type": "word"
+  },
+  {
+    "id": "manager",
+    "word": "مدير",
+    "transcription": "mudir",
+    "type": "word"
+  },
+  {
+    "id": "colleague",
+    "word": "زميل",
+    "transcription": "zamil",
+    "type": "word"
+  },
+  {
+    "id": "coworker",
+    "word": "زميل العمل",
+    "transcription": "zamil aleamal",
+    "type": "word"
+  },
+  {
+    "id": "team",
+    "word": "فريق",
+    "transcription": "fariq",
+    "type": "word"
+  },
+  {
+    "id": "meeting",
+    "word": "مقابلة",
+    "transcription": "muqabala",
+    "type": "word"
+  },
+  {
+    "id": "email",
+    "word": "بريد إلكتروني",
+    "transcription": "barid 'iiliktiruniun",
+    "type": "word"
+  },
+  {
+    "id": "computer",
+    "word": "حاسوب",
+    "transcription": "hasub",
+    "type": "word"
+  },
+  {
+    "id": "laptop",
+    "word": "كمبيوتر محمول",
+    "transcription": "kumbuyutar mahmul",
+    "type": "word"
+  },
+  {
+    "id": "desk",
+    "word": "مكتب",
+    "transcription": "maktab",
+    "type": "word"
+  },
+  {
+    "id": "chair",
+    "word": "كرسي",
+    "transcription": "kursiun",
+    "type": "word"
+  },
+  {
+    "id": "workplace",
+    "word": "مكان العمل",
+    "transcription": "makan aleamal",
+    "type": "word"
+  },
+  {
+    "id": "environment",
+    "word": "بيئة",
+    "transcription": "biya",
+    "type": "word"
+  },
+  {
+    "id": "toxic",
+    "word": "سامة",
+    "transcription": "sama",
+    "type": "word"
+  },
+  {
+    "id": "healthy",
+    "word": "صحيح",
+    "transcription": "sahih",
+    "type": "word"
+  },
+  {
+    "id": "stress",
+    "word": "ضغط",
+    "transcription": "daght",
+    "type": "word"
+  },
+  {
+    "id": "deadline",
+    "word": "موعد التسليم",
+    "transcription": "maweid altaslim",
+    "type": "word"
+  },
+  {
+    "id": "project",
+    "word": "مشروع",
+    "transcription": "mashrue",
+    "type": "word"
+  },
+  {
+    "id": "task",
+    "word": "مهمة",
+    "transcription": "muhima",
+    "type": "word"
+  },
+  {
+    "id": "report",
+    "word": "تقرير",
+    "transcription": "taqrir",
+    "type": "word"
+  },
+  {
+    "id": "salary",
+    "word": "مرتب",
+    "transcription": "muratab",
+    "type": "word"
+  },
+  {
+    "id": "money",
+    "word": "مال",
+    "transcription": "mal",
+    "type": "word"
+  },
+  {
+    "id": "promotion",
+    "word": "ترقية",
+    "transcription": "tarqia",
+    "type": "word"
+  },
+  {
+    "id": "career",
+    "word": "حياة مهنية",
+    "transcription": "hayat mihnia",
+    "type": "word"
+  },
+  {
+    "id": "interview",
+    "word": "مقابلة",
+    "transcription": "muqabala",
+    "type": "word"
+  },
+  {
+    "id": "hire",
+    "word": "يوظف",
+    "transcription": "yuwazzif",
+    "type": "word"
+  },
+  {
+    "id": "fire",
+    "word": "يطرد",
+    "transcription": "yatrud",
+    "type": "word"
+  },
+  {
+    "id": "resign",
+    "word": "يستقيل",
+    "transcription": "yastaqil",
+    "type": "word"
+  },
+  {
+    "id": "break",
+    "word": "استراحة",
+    "transcription": "aistiraha",
+    "type": "word"
+  },
+  {
+    "id": "lunch",
+    "word": "غداء",
+    "transcription": "ghada'",
+    "type": "word"
+  },
+  {
+    "id": "after_work",
+    "word": "بعد العمل",
+    "transcription": "baed aleamal",
+    "type": "phrase"
+  },
+  {
+    "id": "overtime",
+    "word": "متأخر , بعد فوات الوقت",
+    "transcription": "muta'akhir , baed fawat alwaqt",
+    "type": "word"
+  },
+  {
+    "id": "work_late",
+    "word": "العمل في وقت متأخر",
+    "transcription": "aleamal fi waqt muta'akhir",
+    "type": "phrase"
+  },
+  {
+    "id": "work_from_home",
+    "word": "العمل من المنزل",
+    "transcription": "aleamal min almanzil",
+    "type": "phrase"
+  },
+  {
+    "id": "remote_work",
+    "word": "العمل عن بعد",
+    "transcription": "aleamal ean bued",
+    "type": "phrase"
+  },
+  {
+    "id": "office_job",
+    "word": "وظيفة مكتبية",
+    "transcription": "wazifat maktabia",
+    "type": "phrase"
+  },
+  {
+    "id": "love_my_boss",
+    "word": "أحب رئيسي",
+    "transcription": "'uhibu rayiysiun",
+    "type": "phrase"
+  },
+  {
+    "id": "hate_my_boss",
+    "word": "أكره رئيسي",
+    "transcription": "'akrah rayiysiun",
+    "type": "phrase"
+  },
+  {
+    "id": "good_colleagues",
+    "word": "زملاء جيدون",
+    "transcription": "zumala' jayidun",
+    "type": "phrase"
+  },
+  {
+    "id": "bad_colleagues",
+    "word": "زملاء السوء",
+    "transcription": "zumala' alsuw'",
+    "type": "phrase"
+  },
+  {
+    "id": "colleagues_help",
+    "word": "مساعدة الزملاء",
+    "transcription": "musaeadat alzumala'",
+    "type": "phrase"
+  },
+  {
+    "id": "colleagues_rumors",
+    "word": "شائعات الزملاء",
+    "transcription": "shayieat alzumala'",
+    "type": "phrase"
+  },
+  {
+    "id": "work_friends",
+    "word": "أصدقاء العمل",
+    "transcription": "'asdiqa' aleamal",
+    "type": "phrase"
+  },
+  {
+    "id": "work_conflict",
+    "word": "صراع العمل",
+    "transcription": "sirae aleamal",
+    "type": "phrase"
+  },
+  {
+    "id": "stressful_job",
+    "word": "وظيفة مرهقة",
+    "transcription": "wazifat murhiqa",
+    "type": "phrase"
+  },
+  {
+    "id": "relaxed_job",
+    "word": "وظيفة مريحة",
+    "transcription": "wazifat muriha",
+    "type": "phrase"
+  },
+  {
+    "id": "work_romance",
+    "word": "رومانسية العمل",
+    "transcription": "rumansiat aleamal",
+    "type": "phrase"
+  },
+  {
+    "id": "office_romance",
+    "word": "رومانسية المكتب",
+    "transcription": "rumansiat almaktab",
+    "type": "phrase"
+  },
+  {
+    "id": "teamwork",
+    "word": "العمل الجماعي",
+    "transcription": "aleamal aljamaeiu",
+    "type": "word"
+  },
+  {
+    "id": "leadership",
+    "word": "قيادة",
+    "transcription": "qiada",
+    "type": "word"
+  },
+  {
+    "id": "responsibility",
+    "word": "مسؤولية",
+    "transcription": "maswuwlia",
+    "type": "word"
+  },
+  {
+    "id": "focus",
+    "word": "ركز",
+    "transcription": "rakaz",
+    "type": "word"
+  },
+  {
+    "id": "productivity",
+    "word": "إنتاجية",
+    "transcription": "'iintajiatan",
+    "type": "word"
+  },
+  {
+    "id": "success",
+    "word": "نجاح",
+    "transcription": "najah",
+    "type": "word"
+  }
+]

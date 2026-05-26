@@ -1,0 +1,290 @@
+[
+  {
+    "id": "sport",
+    "word": "رياضة",
+    "transcription": "riada",
+    "type": "word"
+  },
+  {
+    "id": "fitness",
+    "word": "لياقة بدنية",
+    "transcription": "liaqat badania",
+    "type": "word"
+  },
+  {
+    "id": "gym",
+    "word": "نادي رياضي",
+    "transcription": "nadi riadiun",
+    "type": "word"
+  },
+  {
+    "id": "training",
+    "word": "تمرين",
+    "transcription": "tamrin",
+    "type": "word"
+  },
+  {
+    "id": "exercise",
+    "word": "يمارس",
+    "transcription": "yumaris",
+    "type": "word"
+  },
+  {
+    "id": "workout",
+    "word": "اكتشف - حل",
+    "transcription": "aktashif - hala",
+    "type": "word"
+  },
+  {
+    "id": "run",
+    "word": "يجري",
+    "transcription": "yajri",
+    "type": "word"
+  },
+  {
+    "id": "walk",
+    "word": "يمشي",
+    "transcription": "yamshi",
+    "type": "word"
+  },
+  {
+    "id": "jump",
+    "word": "القفز",
+    "transcription": "alqafz",
+    "type": "word"
+  },
+  {
+    "id": "stretch",
+    "word": "تمتد",
+    "transcription": "tamtadu",
+    "type": "word"
+  },
+  {
+    "id": "yoga",
+    "word": "اليوغا",
+    "transcription": "alywgha",
+    "type": "word"
+  },
+  {
+    "id": "meditation",
+    "word": "تأمل",
+    "transcription": "tamal",
+    "type": "word"
+  },
+  {
+    "id": "breathing",
+    "word": "التنفس",
+    "transcription": "altanafus",
+    "type": "word"
+  },
+  {
+    "id": "relax",
+    "word": "يستريح",
+    "transcription": "yastarih",
+    "type": "word"
+  },
+  {
+    "id": "body",
+    "word": "جسم",
+    "transcription": "jism",
+    "type": "word"
+  },
+  {
+    "id": "health",
+    "word": "صحة",
+    "transcription": "siha",
+    "type": "word"
+  },
+  {
+    "id": "strength",
+    "word": "قوة",
+    "transcription": "qua",
+    "type": "word"
+  },
+  {
+    "id": "muscle",
+    "word": "عضلة",
+    "transcription": "eadala",
+    "type": "word"
+  },
+  {
+    "id": "energy",
+    "word": "طاقة",
+    "transcription": "taqa",
+    "type": "word"
+  },
+  {
+    "id": "balance",
+    "word": "توازن",
+    "transcription": "tawazun",
+    "type": "word"
+  },
+  {
+    "id": "pose",
+    "word": "أَثَار",
+    "transcription": "'athar",
+    "type": "word"
+  },
+  {
+    "id": "plank",
+    "word": "لوح",
+    "transcription": "lawh",
+    "type": "exercise"
+  },
+  {
+    "id": "squat",
+    "word": "القرفصاء",
+    "transcription": "alqurfusa'",
+    "type": "exercise"
+  },
+  {
+    "id": "push_up",
+    "word": "رفع",
+    "transcription": "rafe",
+    "type": "exercise"
+  },
+  {
+    "id": "sit_up",
+    "word": "اجلس",
+    "transcription": "ajlis",
+    "type": "exercise"
+  },
+  {
+    "id": "run_fast",
+    "word": "تشغيل سريع",
+    "transcription": "tashghil sarie",
+    "type": "phrase"
+  },
+  {
+    "id": "team",
+    "word": "فريق",
+    "transcription": "fariq",
+    "type": "word"
+  },
+  {
+    "id": "game",
+    "word": "لعبة",
+    "transcription": "lueba",
+    "type": "word"
+  },
+  {
+    "id": "match",
+    "word": "مباراة",
+    "transcription": "mubaraa",
+    "type": "word"
+  },
+  {
+    "id": "win",
+    "word": "يفوز",
+    "transcription": "yafuz",
+    "type": "word"
+  },
+  {
+    "id": "lose",
+    "word": "يخسر",
+    "transcription": "yakhsar",
+    "type": "word"
+  },
+  {
+    "id": "coach",
+    "word": "مدرب",
+    "transcription": "mudarib",
+    "type": "word"
+  },
+  {
+    "id": "player",
+    "word": "لاعب",
+    "transcription": "laeib",
+    "type": "word"
+  },
+  {
+    "id": "stadium",
+    "word": "الملعب",
+    "transcription": "almaleab",
+    "type": "word"
+  },
+  {
+    "id": "ball",
+    "word": "كرة",
+    "transcription": "kura",
+    "type": "word"
+  },
+  {
+    "id": "football",
+    "word": "كرة القدم",
+    "transcription": "kurat alqadam",
+    "type": "word"
+  },
+  {
+    "id": "basketball",
+    "word": "كرة السلة",
+    "transcription": "kurat alsala",
+    "type": "word"
+  },
+  {
+    "id": "tennis",
+    "word": "تنس",
+    "transcription": "tins",
+    "type": "word"
+  },
+  {
+    "id": "swimming",
+    "word": "سباحة",
+    "transcription": "sibaha",
+    "type": "word"
+  },
+  {
+    "id": "cycling",
+    "word": "ركوب الدراجات",
+    "transcription": "rukub aldaraajat",
+    "type": "word"
+  },
+  {
+    "id": "bike",
+    "word": "دراجة",
+    "transcription": "daraaja",
+    "type": "word"
+  },
+  {
+    "id": "water",
+    "word": "ماء",
+    "transcription": "ma'",
+    "type": "word"
+  },
+  {
+    "id": "sweat",
+    "word": "يعرق",
+    "transcription": "yueraq",
+    "type": "word"
+  },
+  {
+    "id": "tired",
+    "word": "مرهق",
+    "transcription": "marhiq",
+    "type": "word"
+  },
+  {
+    "id": "strong",
+    "word": "قوي",
+    "transcription": "qawiun",
+    "type": "word"
+  },
+  {
+    "id": "healthy_lifestyle",
+    "word": "نمط حياة صحي",
+    "transcription": "namat hayaat sihiyin",
+    "type": "phrase"
+  },
+  {
+    "id": "morning_run",
+    "word": "تشغيل الصباح",
+    "transcription": "tashghil alsabah",
+    "type": "phrase"
+  },
+  {
+    "id": "fitness_club",
+    "word": "نادي اللياقة البدنية",
+    "transcription": "nadi alliyaqat albadania",
+    "type": "phrase"
+  }
+]

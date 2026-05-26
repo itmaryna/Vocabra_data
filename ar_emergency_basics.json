@@ -1,0 +1,122 @@
+[
+  {
+    "id": "help",
+    "word": "يساعد",
+    "transcription": "yusaeid",
+    "type": "phrase"
+  },
+  {
+    "id": "call_police",
+    "word": "اتصل بالشرطة",
+    "transcription": "aitasil bialshurta",
+    "type": "phrase"
+  },
+  {
+    "id": "call_ambulance",
+    "word": "اتصل بالإسعاف",
+    "transcription": "aitasil bial'iiseaf",
+    "type": "phrase"
+  },
+  {
+    "id": "fire",
+    "word": "حريق",
+    "transcription": "hariq",
+    "type": "word"
+  },
+  {
+    "id": "emergency",
+    "word": "طارئ",
+    "transcription": "tari",
+    "type": "word"
+  },
+  {
+    "id": "i_need_help",
+    "word": "انا بحاجة الى مساعدة",
+    "transcription": "ana bihajat alaa musaeida",
+    "type": "phrase"
+  },
+  {
+    "id": "are_you_ok",
+    "word": "هل أنت بخير؟",
+    "transcription": "hal 'ant bikhayrin?",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_injured",
+    "word": "أنا مجروح",
+    "transcription": "'ana majruh",
+    "type": "phrase"
+  },
+  {
+    "id": "bleeding",
+    "word": "نزيف",
+    "transcription": "nazif",
+    "type": "word"
+  },
+  {
+    "id": "pain",
+    "word": "ألم",
+    "transcription": "'alam",
+    "type": "word"
+  },
+  {
+    "id": "hospital",
+    "word": "مستشفى",
+    "transcription": "mustashfaa",
+    "type": "word"
+  },
+  {
+    "id": "doctor",
+    "word": "طبيب",
+    "transcription": "tabib",
+    "type": "word"
+  },
+  {
+    "id": "police",
+    "word": "شرطة",
+    "transcription": "shurta",
+    "type": "word"
+  },
+  {
+    "id": "ambulance",
+    "word": "سيارة إسعاف",
+    "transcription": "sayaarat 'iiseaf",
+    "type": "word"
+  },
+  {
+    "id": "safe",
+    "word": "آمن",
+    "transcription": "amin",
+    "type": "word"
+  },
+  {
+    "id": "danger",
+    "word": "خطر",
+    "transcription": "khatar",
+    "type": "word"
+  },
+  {
+    "id": "hurt",
+    "word": "يؤذي",
+    "transcription": "yudhi",
+    "type": "word"
+  },
+  {
+    "id": "unconscious",
+    "word": "غير واعي",
+    "transcription": "ghayr waei",
+    "type": "word"
+  },
+  {
+    "id": "chest_pain",
+    "word": "ألم صدر",
+    "transcription": "'alam sadar",
+    "type": "phrase"
+  },
+  {
+    "id": "allergic_reaction",
+    "word": "رد فعل تحسسي",
+    "transcription": "radu fiel tahasusiin",
+    "type": "phrase"
+  }
+]

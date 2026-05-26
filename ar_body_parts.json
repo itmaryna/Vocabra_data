@@ -1,0 +1,182 @@
+[
+  {
+    "id": "head",
+    "word": "رأس",
+    "transcription": "ras",
+    "type": "word"
+  },
+  {
+    "id": "face",
+    "word": "وجه",
+    "transcription": "wajah",
+    "type": "word"
+  },
+  {
+    "id": "eye",
+    "word": "عين",
+    "transcription": "euyin",
+    "type": "word"
+  },
+  {
+    "id": "ear",
+    "word": "أذن",
+    "transcription": "'udhin",
+    "type": "word"
+  },
+  {
+    "id": "nose",
+    "word": "أنف",
+    "transcription": "'anf",
+    "type": "word"
+  },
+  {
+    "id": "mouth",
+    "word": "فم",
+    "transcription": "fam",
+    "type": "word"
+  },
+  {
+    "id": "tooth",
+    "word": "سن",
+    "transcription": "sinun",
+    "type": "word"
+  },
+  {
+    "id": "tongue",
+    "word": "لسان",
+    "transcription": "lisan",
+    "type": "word"
+  },
+  {
+    "id": "neck",
+    "word": "رقبة",
+    "transcription": "raqaba",
+    "type": "word"
+  },
+  {
+    "id": "shoulder",
+    "word": "كتف",
+    "transcription": "kataf",
+    "type": "word"
+  },
+  {
+    "id": "arm",
+    "word": "ذراع",
+    "transcription": "dhirae",
+    "type": "word"
+  },
+  {
+    "id": "elbow",
+    "word": "مِرفَق",
+    "transcription": "mirfaq",
+    "type": "word"
+  },
+  {
+    "id": "hand",
+    "word": "يُسلِّم",
+    "transcription": "yusllim",
+    "type": "word"
+  },
+  {
+    "id": "finger",
+    "word": "إصبع",
+    "transcription": "'iisbae",
+    "type": "word"
+  },
+  {
+    "id": "chest",
+    "word": "صدر",
+    "transcription": "sadar",
+    "type": "word"
+  },
+  {
+    "id": "back",
+    "word": "خلف",
+    "transcription": "khalf",
+    "type": "word"
+  },
+  {
+    "id": "stomach",
+    "word": "معدة",
+    "transcription": "mueida",
+    "type": "word"
+  },
+  {
+    "id": "hip",
+    "word": "خاصرة",
+    "transcription": "khasira",
+    "type": "word"
+  },
+  {
+    "id": "leg",
+    "word": "رجل",
+    "transcription": "rajul",
+    "type": "word"
+  },
+  {
+    "id": "knee",
+    "word": "ركبة",
+    "transcription": "rukba",
+    "type": "word"
+  },
+  {
+    "id": "foot",
+    "word": "قدم",
+    "transcription": "qudim",
+    "type": "word"
+  },
+  {
+    "id": "toe",
+    "word": "اصبع القدم",
+    "transcription": "asbie alqadam",
+    "type": "word"
+  },
+  {
+    "id": "skin",
+    "word": "جلد",
+    "transcription": "jild",
+    "type": "word"
+  },
+  {
+    "id": "hair",
+    "word": "شعر",
+    "transcription": "shaer",
+    "type": "word"
+  },
+  {
+    "id": "heart",
+    "word": "قلب",
+    "transcription": "qalb",
+    "type": "word"
+  },
+  {
+    "id": "brain",
+    "word": "مخ",
+    "transcription": "mukhkh",
+    "type": "word"
+  },
+  {
+    "id": "blood",
+    "word": "دم",
+    "transcription": "dum",
+    "type": "word"
+  },
+  {
+    "id": "bone",
+    "word": "عظم",
+    "transcription": "eazam",
+    "type": "word"
+  },
+  {
+    "id": "muscle",
+    "word": "عضلة",
+    "transcription": "eadala",
+    "type": "word"
+  },
+  {
+    "id": "throat",
+    "word": "حُلقُوم",
+    "transcription": "hulqum",
+    "type": "word"
+  }
+]

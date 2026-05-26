@@ -1,0 +1,170 @@
+[
+  {
+    "id": "أ",
+    "word": "أ",
+    "transcription": "alif",
+    "type": "letter"
+  },
+  {
+    "id": "ب",
+    "word": "ب",
+    "transcription": "ba",
+    "type": "letter"
+  },
+  {
+    "id": "ت",
+    "word": "ت",
+    "transcription": "ta",
+    "type": "letter"
+  },
+  {
+    "id": "ث",
+    "word": "ث",
+    "transcription": "tha",
+    "type": "letter"
+  },
+  {
+    "id": "ج",
+    "word": "ج",
+    "transcription": "jim",
+    "type": "letter"
+  },
+  {
+    "id": "ح",
+    "word": "ح",
+    "transcription": "ha",
+    "type": "letter"
+  },
+  {
+    "id": "خ",
+    "word": "خ",
+    "transcription": "kha",
+    "type": "letter"
+  },
+  {
+    "id": "د",
+    "word": "د",
+    "transcription": "dal",
+    "type": "letter"
+  },
+  {
+    "id": "ذ",
+    "word": "ذ",
+    "transcription": "dhal",
+    "type": "letter"
+  },
+  {
+    "id": "ر",
+    "word": "ر",
+    "transcription": "ra",
+    "type": "letter"
+  },
+  {
+    "id": "ز",
+    "word": "ز",
+    "transcription": "zay",
+    "type": "letter"
+  },
+  {
+    "id": "س",
+    "word": "س",
+    "transcription": "sin",
+    "type": "letter"
+  },
+  {
+    "id": "ش",
+    "word": "ش",
+    "transcription": "shin",
+    "type": "letter"
+  },
+  {
+    "id": "ص",
+    "word": "ص",
+    "transcription": "sad",
+    "type": "letter"
+  },
+  {
+    "id": "ض",
+    "word": "ض",
+    "transcription": "dad",
+    "type": "letter"
+  },
+  {
+    "id": "ط",
+    "word": "ط",
+    "transcription": "ta",
+    "type": "letter"
+  },
+  {
+    "id": "ظ",
+    "word": "ظ",
+    "transcription": "za",
+    "type": "letter"
+  },
+  {
+    "id": "ع",
+    "word": "ع",
+    "transcription": "ayn",
+    "type": "letter"
+  },
+  {
+    "id": "غ",
+    "word": "غ",
+    "transcription": "ghayn",
+    "type": "letter"
+  },
+  {
+    "id": "ف",
+    "word": "ف",
+    "transcription": "fa",
+    "type": "letter"
+  },
+  {
+    "id": "ق",
+    "word": "ق",
+    "transcription": "qaf",
+    "type": "letter"
+  },
+  {
+    "id": "ك",
+    "word": "ك",
+    "transcription": "kaf",
+    "type": "letter"
+  },
+  {
+    "id": "ل",
+    "word": "ل",
+    "transcription": "lam",
+    "type": "letter"
+  },
+  {
+    "id": "م",
+    "word": "م",
+    "transcription": "mim",
+    "type": "letter"
+  },
+  {
+    "id": "ن",
+    "word": "ن",
+    "transcription": "nun",
+    "type": "letter"
+  },
+  {
+    "id": "ه",
+    "word": "ه",
+    "transcription": "ha",
+    "type": "letter"
+  },
+  {
+    "id": "و",
+    "word": "و",
+    "transcription": "waw",
+    "type": "letter"
+  },
+  {
+    "id": "ي",
+    "word": "ي",
+    "transcription": "ya",
+    "type": "letter"
+  }
+]

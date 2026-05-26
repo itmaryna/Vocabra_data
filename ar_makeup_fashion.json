@@ -1,0 +1,296 @@
+[
+  {
+    "id": "fashion",
+    "word": "موضة",
+    "transcription": "muda",
+    "type": "word"
+  },
+  {
+    "id": "style",
+    "word": "أسلوب",
+    "transcription": "'uslub",
+    "type": "word"
+  },
+  {
+    "id": "clothes",
+    "word": "ملابس",
+    "transcription": "malabis",
+    "type": "word"
+  },
+  {
+    "id": "outfit",
+    "word": "زيّ",
+    "transcription": "zy",
+    "type": "word"
+  },
+  {
+    "id": "dress",
+    "word": "فستان",
+    "transcription": "fustan",
+    "type": "word"
+  },
+  {
+    "id": "shirt",
+    "word": "قميص",
+    "transcription": "qamis",
+    "type": "word"
+  },
+  {
+    "id": "pants",
+    "word": "بنطال",
+    "transcription": "bintal",
+    "type": "word"
+  },
+  {
+    "id": "jeans",
+    "word": "جينز",
+    "transcription": "jinz",
+    "type": "word"
+  },
+  {
+    "id": "jacket",
+    "word": "سترة",
+    "transcription": "sutra",
+    "type": "word"
+  },
+  {
+    "id": "coat",
+    "word": "معطف",
+    "transcription": "mietaf",
+    "type": "word"
+  },
+  {
+    "id": "skirt",
+    "word": "جيبة",
+    "transcription": "jiba",
+    "type": "word"
+  },
+  {
+    "id": "shoes",
+    "word": "أحذية",
+    "transcription": "'ahdhia",
+    "type": "word"
+  },
+  {
+    "id": "boots",
+    "word": "أحذية",
+    "transcription": "'ahdhia",
+    "type": "word"
+  },
+  {
+    "id": "bag",
+    "word": "شنطة",
+    "transcription": "shanta",
+    "type": "word"
+  },
+  {
+    "id": "accessories",
+    "word": "مُكَمِّلات",
+    "transcription": "mukammilat",
+    "type": "word"
+  },
+  {
+    "id": "hat",
+    "word": "قبعة",
+    "transcription": "qubea",
+    "type": "word"
+  },
+  {
+    "id": "watch",
+    "word": "يشاهد",
+    "transcription": "yushahid",
+    "type": "word"
+  },
+  {
+    "id": "jewelry",
+    "word": "مجوهرات",
+    "transcription": "mujawharat",
+    "type": "word"
+  },
+  {
+    "id": "ring",
+    "word": "خاتم",
+    "transcription": "khatam",
+    "type": "word"
+  },
+  {
+    "id": "necklace",
+    "word": "قلادة",
+    "transcription": "qilada",
+    "type": "word"
+  },
+  {
+    "id": "earrings",
+    "word": "الأقراط",
+    "transcription": "al'aqrat",
+    "type": "word"
+  },
+  {
+    "id": "makeup",
+    "word": "ماكياج",
+    "transcription": "makyaj",
+    "type": "word"
+  },
+  {
+    "id": "lipstick",
+    "word": "أحمر الشفاه",
+    "transcription": "'ahmar alshifah",
+    "type": "word"
+  },
+  {
+    "id": "mascara",
+    "word": "المسكرة",
+    "transcription": "almaskira",
+    "type": "word"
+  },
+  {
+    "id": "foundation",
+    "word": "مؤسسة",
+    "transcription": "muasasa",
+    "type": "word"
+  },
+  {
+    "id": "blush",
+    "word": "استحى",
+    "transcription": "aistahaa",
+    "type": "word"
+  },
+  {
+    "id": "eyeshadow",
+    "word": "ظلال العيون",
+    "transcription": "zilal aleuyun",
+    "type": "word"
+  },
+  {
+    "id": "perfume",
+    "word": "عطر",
+    "transcription": "eitr",
+    "type": "word"
+  },
+  {
+    "id": "beauty",
+    "word": "جمال",
+    "transcription": "jamal",
+    "type": "word"
+  },
+  {
+    "id": "skincare",
+    "word": "العناية بالبشرة",
+    "transcription": "aleinayat bialbashara",
+    "type": "word"
+  },
+  {
+    "id": "hair",
+    "word": "شعر",
+    "transcription": "shaer",
+    "type": "word"
+  },
+  {
+    "id": "nails",
+    "word": "الأظافر",
+    "transcription": "al'azafir",
+    "type": "word"
+  },
+  {
+    "id": "salon",
+    "word": "صالون",
+    "transcription": "salun",
+    "type": "word"
+  },
+  {
+    "id": "mirror",
+    "word": "مرآة",
+    "transcription": "mura",
+    "type": "word"
+  },
+  {
+    "id": "shop",
+    "word": "محل",
+    "transcription": "mahal",
+    "type": "word"
+  },
+  {
+    "id": "shopping",
+    "word": "التسوق",
+    "transcription": "altasawuq",
+    "type": "word"
+  },
+  {
+    "id": "brand",
+    "word": "ماركة",
+    "transcription": "marka",
+    "type": "word"
+  },
+  {
+    "id": "designer",
+    "word": "مصمم",
+    "transcription": "musamim",
+    "type": "word"
+  },
+  {
+    "id": "trend",
+    "word": "اتجاه",
+    "transcription": "atijah",
+    "type": "word"
+  },
+  {
+    "id": "modern",
+    "word": "حديث",
+    "transcription": "hadith",
+    "type": "word"
+  },
+  {
+    "id": "elegant",
+    "word": "رائع",
+    "transcription": "rayie",
+    "type": "word"
+  },
+  {
+    "id": "casual",
+    "word": "غير رسمي",
+    "transcription": "ghayr rasmi",
+    "type": "word"
+  },
+  {
+    "id": "formal",
+    "word": "رسمي",
+    "transcription": "rasmi",
+    "type": "word"
+  },
+  {
+    "id": "beautiful",
+    "word": "جميل",
+    "transcription": "jamil",
+    "type": "word"
+  },
+  {
+    "id": "handsome",
+    "word": "وسيم",
+    "transcription": "wasim",
+    "type": "word"
+  },
+  {
+    "id": "cute",
+    "word": "لطيف",
+    "transcription": "latif",
+    "type": "word"
+  },
+  {
+    "id": "fashion_show",
+    "word": "عرض أزياء",
+    "transcription": "eard 'azya'",
+    "type": "phrase"
+  },
+  {
+    "id": "dress_up",
+    "word": "تلبيس",
+    "transcription": "talbis",
+    "type": "phrase"
+  },
+  {
+    "id": "get_ready",
+    "word": "استعد",
+    "transcription": "aistaeida",
+    "type": "phrase"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "airport",
+    "word": "مطار",
+    "transcription": "matar",
+    "type": "word"
+  },
+  {
+    "id": "passport",
+    "word": "جواز سفر",
+    "transcription": "jawaz safar",
+    "type": "word"
+  },
+  {
+    "id": "ticket",
+    "word": "تذكرة",
+    "transcription": "tadhkura",
+    "type": "word"
+  },
+  {
+    "id": "boarding_pass",
+    "word": "بطاقة الصعود",
+    "transcription": "bitaqat al-suud",
+    "type": "phrase"
+  },
+  {
+    "id": "flight",
+    "word": "رحلة جوية",
+    "transcription": "rihlat jawiya",
+    "type": "word"
+  },
+  {
+    "id": "gate",
+    "word": "بوابة",
+    "transcription": "bawaaba",
+    "type": "word"
+  },
+  {
+    "id": "terminal",
+    "word": "صالة",
+    "transcription": "sala",
+    "type": "word"
+  },
+  {
+    "id": "departure",
+    "word": "رحيل",
+    "transcription": "rahil",
+    "type": "word"
+  },
+  {
+    "id": "arrival",
+    "word": "وصول",
+    "transcription": "wusul",
+    "type": "word"
+  },
+  {
+    "id": "customs",
+    "word": "جمارك",
+    "transcription": "jamaruk",
+    "type": "word"
+  },
+  {
+    "id": "security_check",
+    "word": "فحص أمني",
+    "transcription": "fahs 'amniun",
+    "type": "phrase"
+  },
+  {
+    "id": "luggage",
+    "word": "أمتعة السفر",
+    "transcription": "'amtieat alsafar",
+    "type": "word"
+  },
+  {
+    "id": "suitcase",
+    "word": "حقيبة",
+    "transcription": "haqiba",
+    "type": "word"
+  },
+  {
+    "id": "backpack",
+    "word": "حقيبة ظهر",
+    "transcription": "haqibat zahar",
+    "type": "word"
+  },
+  {
+    "id": "carry_on",
+    "word": "حقيبة يد",
+    "transcription": "haqibat yad",
+    "type": "phrase"
+  },
+  {
+    "id": "check_in",
+    "word": "تسجيل الوصول",
+    "transcription": "tasjil al-wusul",
+    "type": "phrase"
+  },
+  {
+    "id": "boarding",
+    "word": "الصعود",
+    "transcription": "alsueud",
+    "type": "word"
+  },
+  {
+    "id": "delayed",
+    "word": "تأخير",
+    "transcription": "takhir",
+    "type": "word"
+  },
+  {
+    "id": "cancelled",
+    "word": "تم الإلغاء",
+    "transcription": "tama al'iilgha'",
+    "type": "word"
+  },
+  {
+    "id": "window_seat",
+    "word": "مقعد بجانب النافذة",
+    "transcription": "maqad bijanib al-nafidha",
+    "type": "phrase"
+  },
+  {
+    "id": "aisle_seat",
+    "word": "مقعد بجانب الممر",
+    "transcription": "maqad bijanib al-mamarr",
+    "type": "phrase"
+  },
+  {
+    "id": "hotel",
+    "word": "الفندق",
+    "transcription": "alfunduq",
+    "type": "word"
+  },
+  {
+    "id": "reservation",
+    "word": "حجز",
+    "transcription": "hajz",
+    "type": "word"
+  },
+  {
+    "id": "room",
+    "word": "غرفة",
+    "transcription": "ghurfa",
+    "type": "word"
+  },
+  {
+    "id": "single_room",
+    "word": "غرفة مفردة",
+    "transcription": "ghurfat mufrada",
+    "type": "phrase"
+  },
+  {
+    "id": "double_room",
+    "word": "غرفة مزدوجة",
+    "transcription": "ghurfat muzdawija",
+    "type": "phrase"
+  },
+  {
+    "id": "key_card",
+    "word": "بطاقة المفتاح",
+    "transcription": "bitaqat almiftah",
+    "type": "phrase"
+  },
+  {
+    "id": "reception",
+    "word": "استقبال",
+    "transcription": "aistiqbal",
+    "type": "word"
+  },
+  {
+    "id": "check_out",
+    "word": "تسجيل المغادرة",
+    "transcription": "tasjil al-mughadara",
+    "type": "phrase"
+  },
+  {
+    "id": "wifi",
+    "word": "واي فاي",
+    "transcription": "wai fai",
+    "type": "word"
+  },
+  {
+    "id": "password",
+    "word": "كلمة المرور",
+    "transcription": "kalimat almurur",
+    "type": "word"
+  },
+  {
+    "id": "breakfast",
+    "word": "إفطار",
+    "transcription": "'iiftar",
+    "type": "word"
+  },
+  {
+    "id": "elevator",
+    "word": "مصعد",
+    "transcription": "musead",
+    "type": "word"
+  },
+  {
+    "id": "stairs",
+    "word": "سلالم",
+    "transcription": "salalim",
+    "type": "word"
+  },
+  {
+    "id": "taxi",
+    "word": "تاكسي",
+    "transcription": "taksi",
+    "type": "word"
+  },
+  {
+    "id": "bus",
+    "word": "حافلة",
+    "transcription": "hafila",
+    "type": "word"
+  },
+  {
+    "id": "train",
+    "word": "يدرب",
+    "transcription": "yudarab",
+    "type": "word"
+  },
+  {
+    "id": "subway",
+    "word": "مترو",
+    "transcription": "mitru",
+    "type": "word"
+  },
+  {
+    "id": "station",
+    "word": "محطة",
+    "transcription": "mahata",
+    "type": "word"
+  },
+  {
+    "id": "map",
+    "word": "رسم خريطة",
+    "transcription": "rasm kharita",
+    "type": "word"
+  },
+  {
+    "id": "tourist",
+    "word": "سائح",
+    "transcription": "sayih",
+    "type": "word"
+  },
+  {
+    "id": "guide",
+    "word": "مرشد",
+    "transcription": "murshid",
+    "type": "word"
+  },
+  {
+    "id": "museum",
+    "word": "متحف",
+    "transcription": "muthaf",
+    "type": "word"
+  },
+  {
+    "id": "beach",
+    "word": "شاطئ",
+    "transcription": "shati",
+    "type": "word"
+  },
+  {
+    "id": "restaurant",
+    "word": "مطعم",
+    "transcription": "mateam",
+    "type": "word"
+  },
+  {
+    "id": "water",
+    "word": "ماء",
+    "transcription": "ma'",
+    "type": "word"
+  },
+  {
+    "id": "coffee",
+    "word": "قهوة",
+    "transcription": "qahwa",
+    "type": "word"
+  },
+  {
+    "id": "bathroom",
+    "word": "حمام",
+    "transcription": "hamaam",
+    "type": "word"
+  },
+  {
+    "id": "where_is_gate",
+    "word": "أين البوابة؟",
+    "transcription": "'ayn albawaabatu?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_is_hotel",
+    "word": "أين الفندق؟",
+    "transcription": "'ayn alfunduq?",
+    "type": "phrase"
+  }
+]

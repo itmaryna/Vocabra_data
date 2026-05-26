@@ -1,0 +1,292 @@
+[
+  {
+    "id": "food",
+    "word": "طعام",
+    "transcription": "taeam"
+  },
+  {
+    "id": "water",
+    "word": "ماء",
+    "transcription": "ma'"
+  },
+  {
+    "id": "bread",
+    "word": "خبز",
+    "transcription": "khubz"
+  },
+  {
+    "id": "milk",
+    "word": "لبن",
+    "transcription": "laban"
+  },
+  {
+    "id": "cheese",
+    "word": "جبن",
+    "transcription": "jubn"
+  },
+  {
+    "id": "egg",
+    "word": "بيضة",
+    "transcription": "bayda"
+  },
+  {
+    "id": "meat",
+    "word": "لحمة",
+    "transcription": "luhmatan"
+  },
+  {
+    "id": "chicken",
+    "word": "فرخة",
+    "transcription": "farkha"
+  },
+  {
+    "id": "beef",
+    "word": "لحم",
+    "transcription": "lahm"
+  },
+  {
+    "id": "pork",
+    "word": "لحم خنزير",
+    "transcription": "lahim khinzir"
+  },
+  {
+    "id": "fish",
+    "word": "سمكة",
+    "transcription": "samaka"
+  },
+  {
+    "id": "rice",
+    "word": "أرز",
+    "transcription": "'arz"
+  },
+  {
+    "id": "pasta",
+    "word": "معكرونة",
+    "transcription": "maekaruna"
+  },
+  {
+    "id": "soup",
+    "word": "حساء",
+    "transcription": "hisa'an"
+  },
+  {
+    "id": "salad",
+    "word": "سلطة",
+    "transcription": "sulta"
+  },
+  {
+    "id": "salt",
+    "word": "ملح",
+    "transcription": "milh"
+  },
+  {
+    "id": "sugar",
+    "word": "سكر",
+    "transcription": "sukar"
+  },
+  {
+    "id": "pepper",
+    "word": "الفلفل",
+    "transcription": "alfilfil"
+  },
+  {
+    "id": "oil",
+    "word": "زيت",
+    "transcription": "zayt"
+  },
+  {
+    "id": "butter",
+    "word": "سمنة",
+    "transcription": "simna"
+  },
+  {
+    "id": "fruit",
+    "word": "الفاكهة",
+    "transcription": "alfakiha"
+  },
+  {
+    "id": "vegetable",
+    "word": "نباتي",
+    "transcription": "nabati"
+  },
+  {
+    "id": "apple",
+    "word": "تفاحة",
+    "transcription": "tufaahatan"
+  },
+  {
+    "id": "banana",
+    "word": "موز",
+    "transcription": "mawz"
+  },
+  {
+    "id": "orange",
+    "word": "برتقال",
+    "transcription": "burtuqal"
+  },
+  {
+    "id": "lemon",
+    "word": "ليمون",
+    "transcription": "lymun"
+  },
+  {
+    "id": "tomato",
+    "word": "طماطم",
+    "transcription": "tamatim"
+  },
+  {
+    "id": "potato",
+    "word": "البطاطس",
+    "transcription": "albatatis"
+  },
+  {
+    "id": "carrot",
+    "word": "جزرة",
+    "transcription": "jazra"
+  },
+  {
+    "id": "onion",
+    "word": "بصل",
+    "transcription": "basal"
+  },
+  {
+    "id": "garlic",
+    "word": "ثوم",
+    "transcription": "thum"
+  },
+  {
+    "id": "cucumber",
+    "word": "خيار",
+    "transcription": "khiar"
+  },
+  {
+    "id": "lettuce",
+    "word": "خَسّ",
+    "transcription": "khas"
+  },
+  {
+    "id": "bread_roll",
+    "word": "لفة الخبز",
+    "transcription": "lafat alkhubz"
+  },
+  {
+    "id": "sandwich",
+    "word": "شطيرة",
+    "transcription": "shatira"
+  },
+  {
+    "id": "pizza",
+    "word": "بيتزا",
+    "transcription": "bitza"
+  },
+  {
+    "id": "burger",
+    "word": "برغر",
+    "transcription": "barghar"
+  },
+  {
+    "id": "fries",
+    "word": "بطاطا مقلية",
+    "transcription": "batatan maqliatan"
+  },
+  {
+    "id": "eggplant",
+    "word": "باذنجان",
+    "transcription": "biadhinjan"
+  },
+  {
+    "id": "corn",
+    "word": "حبوب ذرة",
+    "transcription": "hubub dharatan"
+  },
+  {
+    "id": "peas",
+    "word": "البازلاء",
+    "transcription": "albazala'"
+  },
+  {
+    "id": "beans",
+    "word": "فول",
+    "transcription": "fwl"
+  },
+  {
+    "id": "lentils",
+    "word": "العدس",
+    "transcription": "aleads"
+  },
+  {
+    "id": "nuts",
+    "word": "المكسرات",
+    "transcription": "almukasirat"
+  },
+  {
+    "id": "almonds",
+    "word": "اللوز",
+    "transcription": "allawz"
+  },
+  {
+    "id": "walnuts",
+    "word": "الجوز",
+    "transcription": "aljawz"
+  },
+  {
+    "id": "honey",
+    "word": "عسل",
+    "transcription": "easal"
+  },
+  {
+    "id": "jam",
+    "word": "مربى",
+    "transcription": "murabaa"
+  },
+  {
+    "id": "cake",
+    "word": "كعكة",
+    "transcription": "kaeka"
+  },
+  {
+    "id": "cookie",
+    "word": "ملف تعريف الارتباط",
+    "transcription": "milafu taerif aliartibat"
+  },
+  {
+    "id": "chocolate",
+    "word": "شوكولاتة",
+    "transcription": "shwkulata"
+  },
+  {
+    "id": "ice_cream",
+    "word": "بوظة",
+    "transcription": "buaza"
+  },
+  {
+    "id": "yogurt",
+    "word": "زبادي",
+    "transcription": "zibadi"
+  },
+  {
+    "id": "coffee",
+    "word": "قهوة",
+    "transcription": "qahwa"
+  },
+  {
+    "id": "tea",
+    "word": "شاي",
+    "transcription": "shay"
+  },
+  {
+    "id": "juice",
+    "word": "عصير",
+    "transcription": "easir"
+  },
+  {
+    "id": "beer",
+    "word": "جعة",
+    "transcription": "jieatan"
+  },
+  {
+    "id": "wine",
+    "word": "خمر",
+    "transcription": "khamr"
+  }
+]

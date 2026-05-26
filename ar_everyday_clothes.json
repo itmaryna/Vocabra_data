@@ -1,0 +1,770 @@
+[
+  {
+    "id": "clothes",
+    "word": "ملابس",
+    "transcription": "malabis",
+    "type": "word"
+  },
+  {
+    "id": "clothing",
+    "word": "ملابس",
+    "transcription": "malabis",
+    "type": "word"
+  },
+  {
+    "id": "outfit",
+    "word": "زيّ",
+    "transcription": "zy",
+    "type": "word"
+  },
+  {
+    "id": "fashion",
+    "word": "موضة",
+    "transcription": "muda",
+    "type": "word"
+  },
+  {
+    "id": "style",
+    "word": "أسلوب",
+    "transcription": "'uslub",
+    "type": "word"
+  },
+  {
+    "id": "shirt",
+    "word": "قميص",
+    "transcription": "qamis",
+    "type": "word"
+  },
+  {
+    "id": "t_shirt",
+    "word": "تي شيرت",
+    "transcription": "ti shirt",
+    "type": "word"
+  },
+  {
+    "id": "long_sleeve_shirt",
+    "word": "قميص طويل الأكمام",
+    "transcription": "qamis tawil al'akmam",
+    "type": "word"
+  },
+  {
+    "id": "short_sleeve_shirt",
+    "word": "قميص قصير الأكمام",
+    "transcription": "qamis qasir al'akmam",
+    "type": "word"
+  },
+  {
+    "id": "tank_top",
+    "word": "قميص بلا أكمام",
+    "transcription": "qamis bila akmam",
+    "type": "word"
+  },
+  {
+    "id": "hoodie",
+    "word": "سترة بقبعة",
+    "transcription": "sutra bi-qubaa",
+    "type": "word"
+  },
+  {
+    "id": "sweater",
+    "word": "سترة",
+    "transcription": "sutra",
+    "type": "word"
+  },
+  {
+    "id": "cardigan",
+    "word": "سترة صوفية",
+    "transcription": "sutrat sufia",
+    "type": "word"
+  },
+  {
+    "id": "jacket",
+    "word": "سترة",
+    "transcription": "sutra",
+    "type": "word"
+  },
+  {
+    "id": "coat",
+    "word": "معطف",
+    "transcription": "mietaf",
+    "type": "word"
+  },
+  {
+    "id": "raincoat",
+    "word": "معطف واق من المطر",
+    "transcription": "mietaf waq min almatar",
+    "type": "word"
+  },
+  {
+    "id": "winter_coat",
+    "word": "معطف الشتاء",
+    "transcription": "mietaf alshita'",
+    "type": "word"
+  },
+  {
+    "id": "blazer",
+    "word": "سترة",
+    "transcription": "sutra",
+    "type": "word"
+  },
+  {
+    "id": "suit",
+    "word": "بدلة",
+    "transcription": "badla",
+    "type": "word"
+  },
+  {
+    "id": "vest",
+    "word": "سترة",
+    "transcription": "sutra",
+    "type": "word"
+  },
+  {
+    "id": "pants",
+    "word": "بنطال",
+    "transcription": "bintal",
+    "type": "word"
+  },
+  {
+    "id": "trousers",
+    "word": "بنطلون",
+    "transcription": "bantalun",
+    "type": "word"
+  },
+  {
+    "id": "jeans",
+    "word": "جينز",
+    "transcription": "jinz",
+    "type": "word"
+  },
+  {
+    "id": "shorts",
+    "word": "سراويل",
+    "transcription": "sarawil",
+    "type": "word"
+  },
+  {
+    "id": "leggings",
+    "word": "طماق",
+    "transcription": "tamaq",
+    "type": "word"
+  },
+  {
+    "id": "skirt",
+    "word": "جيبة",
+    "transcription": "jiba",
+    "type": "word"
+  },
+  {
+    "id": "dress",
+    "word": "فستان",
+    "transcription": "fustan",
+    "type": "word"
+  },
+  {
+    "id": "summer_dress",
+    "word": "فستان الصيف",
+    "transcription": "fustan alsayf",
+    "type": "word"
+  },
+  {
+    "id": "evening_dress",
+    "word": "فستان سهرة",
+    "transcription": "fustan sahra",
+    "type": "word"
+  },
+  {
+    "id": "underwear",
+    "word": "الملابس الداخلية",
+    "transcription": "almalabis aldaakhilia",
+    "type": "word"
+  },
+  {
+    "id": "bra",
+    "word": "حمالة صدر",
+    "transcription": "hammalat sadr",
+    "type": "word"
+  },
+  {
+    "id": "underpants",
+    "word": "ملابس داخلية سفلية",
+    "transcription": "malabis dakhiliya sufliya",
+    "type": "word"
+  },
+  {
+    "id": "socks",
+    "word": "الجوارب",
+    "transcription": "aljawarib",
+    "type": "word"
+  },
+  {
+    "id": "tights",
+    "word": "جوارب طويلة",
+    "transcription": "jawarib tawila",
+    "type": "word"
+  },
+  {
+    "id": "pajamas",
+    "word": "منامة",
+    "transcription": "manama",
+    "type": "word"
+  },
+  {
+    "id": "robe",
+    "word": "رداء",
+    "transcription": "rida'",
+    "type": "word"
+  },
+  {
+    "id": "swimsuit",
+    "word": "ملابس السباحة",
+    "transcription": "malabis alsibaha",
+    "type": "word"
+  },
+  {
+    "id": "bikini",
+    "word": "بيكيني",
+    "transcription": "bikini",
+    "type": "word"
+  },
+  {
+    "id": "swimming_trunks",
+    "word": "سروال سباحة",
+    "transcription": "sirwal sibaha",
+    "type": "word"
+  },
+  {
+    "id": "shoes",
+    "word": "أحذية",
+    "transcription": "'ahdhia",
+    "type": "word"
+  },
+  {
+    "id": "sneakers",
+    "word": "حذاء رياضي",
+    "transcription": "hidha riyadi",
+    "type": "word"
+  },
+  {
+    "id": "boots",
+    "word": "أحذية",
+    "transcription": "'ahdhia",
+    "type": "word"
+  },
+  {
+    "id": "sandals",
+    "word": "صنادل",
+    "transcription": "sanadil",
+    "type": "word"
+  },
+  {
+    "id": "slippers",
+    "word": "خف منزلي",
+    "transcription": "khuff manzili",
+    "type": "word"
+  },
+  {
+    "id": "heels",
+    "word": "كعب عال",
+    "transcription": "kab al",
+    "type": "word"
+  },
+  {
+    "id": "flip_flops",
+    "word": "شبشب",
+    "transcription": "shibshib",
+    "type": "word"
+  },
+  {
+    "id": "hat",
+    "word": "قبعة",
+    "transcription": "qubea",
+    "type": "word"
+  },
+  {
+    "id": "cap",
+    "word": "كاب",
+    "transcription": "kab",
+    "type": "word"
+  },
+  {
+    "id": "beanie",
+    "word": "قبعة صوفية",
+    "transcription": "qubaa sufiya",
+    "type": "word"
+  },
+  {
+    "id": "scarf",
+    "word": "وشاح",
+    "transcription": "washah",
+    "type": "word"
+  },
+  {
+    "id": "gloves",
+    "word": "قفازات",
+    "transcription": "qufaazat",
+    "type": "word"
+  },
+  {
+    "id": "belt",
+    "word": "حزام",
+    "transcription": "hizam",
+    "type": "word"
+  },
+  {
+    "id": "tie",
+    "word": "رَابِطَة",
+    "transcription": "rabita",
+    "type": "word"
+  },
+  {
+    "id": "bow_tie",
+    "word": "ربطة عنق فراشة",
+    "transcription": "rabtat unuqu farasha",
+    "type": "word"
+  },
+  {
+    "id": "bag",
+    "word": "شنطة",
+    "transcription": "shanta",
+    "type": "word"
+  },
+  {
+    "id": "backpack",
+    "word": "حقيبة ظهر",
+    "transcription": "haqibat zahar",
+    "type": "word"
+  },
+  {
+    "id": "handbag",
+    "word": "حقيبة يد",
+    "transcription": "haqibat yad",
+    "type": "word"
+  },
+  {
+    "id": "wallet",
+    "word": "محفظة",
+    "transcription": "mahfaza",
+    "type": "word"
+  },
+  {
+    "id": "watch",
+    "word": "يشاهد",
+    "transcription": "yushahid",
+    "type": "word"
+  },
+  {
+    "id": "sunglasses",
+    "word": "نظارات شمسية",
+    "transcription": "nazaarat shamsia",
+    "type": "word"
+  },
+  {
+    "id": "umbrella",
+    "word": "مظلة",
+    "transcription": "mizala",
+    "type": "word"
+  },
+  {
+    "id": "zipper",
+    "word": "سستة",
+    "transcription": "sista",
+    "type": "word"
+  },
+  {
+    "id": "button",
+    "word": "زر",
+    "transcription": "zurun",
+    "type": "word"
+  },
+  {
+    "id": "pocket",
+    "word": "جيب",
+    "transcription": "jyb",
+    "type": "word"
+  },
+  {
+    "id": "sleeve",
+    "word": "كم",
+    "transcription": "kam",
+    "type": "word"
+  },
+  {
+    "id": "collar",
+    "word": "طوق",
+    "transcription": "tuq",
+    "type": "word"
+  },
+  {
+    "id": "hood",
+    "word": "كَبُّوت",
+    "transcription": "kabbut",
+    "type": "word"
+  },
+  {
+    "id": "fabric",
+    "word": "قماش",
+    "transcription": "qumash",
+    "type": "word"
+  },
+  {
+    "id": "cotton",
+    "word": "قطن",
+    "transcription": "qatan",
+    "type": "word"
+  },
+  {
+    "id": "wool",
+    "word": "صوف",
+    "transcription": "suf",
+    "type": "word"
+  },
+  {
+    "id": "leather",
+    "word": "جلد",
+    "transcription": "jild",
+    "type": "word"
+  },
+  {
+    "id": "silk",
+    "word": "حرير",
+    "transcription": "harir",
+    "type": "word"
+  },
+  {
+    "id": "linen",
+    "word": "الكتان",
+    "transcription": "alkitaan",
+    "type": "word"
+  },
+  {
+    "id": "denim",
+    "word": "الدنيم",
+    "transcription": "aldunayam",
+    "type": "word"
+  },
+  {
+    "id": "black",
+    "word": "أسود",
+    "transcription": "'aswad",
+    "type": "word"
+  },
+  {
+    "id": "white",
+    "word": "أبيض",
+    "transcription": "'abyad",
+    "type": "word"
+  },
+  {
+    "id": "gray",
+    "word": "رمادي",
+    "transcription": "ramadi",
+    "type": "word"
+  },
+  {
+    "id": "red",
+    "word": "أحمر",
+    "transcription": "'ahmar",
+    "type": "word"
+  },
+  {
+    "id": "blue",
+    "word": "أزرق",
+    "transcription": "'azraq",
+    "type": "word"
+  },
+  {
+    "id": "green",
+    "word": "أخضر",
+    "transcription": "'akhdar",
+    "type": "word"
+  },
+  {
+    "id": "yellow",
+    "word": "أصفر",
+    "transcription": "'asfar",
+    "type": "word"
+  },
+  {
+    "id": "pink",
+    "word": "لون القرنفل",
+    "transcription": "lawn alquranful",
+    "type": "word"
+  },
+  {
+    "id": "purple",
+    "word": "أرجواني",
+    "transcription": "'arjuani",
+    "type": "word"
+  },
+  {
+    "id": "brown",
+    "word": "بني",
+    "transcription": "buni",
+    "type": "word"
+  },
+  {
+    "id": "orange",
+    "word": "برتقال",
+    "transcription": "burtuqal",
+    "type": "word"
+  },
+  {
+    "id": "small",
+    "word": "صغير",
+    "transcription": "saghir",
+    "type": "word"
+  },
+  {
+    "id": "medium",
+    "word": "واسطة",
+    "transcription": "wasita",
+    "type": "word"
+  },
+  {
+    "id": "large",
+    "word": "كبير",
+    "transcription": "kabir",
+    "type": "word"
+  },
+  {
+    "id": "extra_large",
+    "word": "كبير جدًا",
+    "transcription": "kabir jiddan",
+    "type": "word"
+  },
+  {
+    "id": "size",
+    "word": "مقاس",
+    "transcription": "maqas",
+    "type": "word"
+  },
+  {
+    "id": "comfortable",
+    "word": "مريح",
+    "transcription": "murih",
+    "type": "word"
+  },
+  {
+    "id": "tight",
+    "word": "ضيق",
+    "transcription": "diq",
+    "type": "word"
+  },
+  {
+    "id": "loose",
+    "word": "مرتخي",
+    "transcription": "murtakhi",
+    "type": "word"
+  },
+  {
+    "id": "casual",
+    "word": "غير رسمي",
+    "transcription": "ghayr rasmi",
+    "type": "word"
+  },
+  {
+    "id": "formal",
+    "word": "رسمي",
+    "transcription": "rasmi",
+    "type": "word"
+  },
+  {
+    "id": "elegant",
+    "word": "رائع",
+    "transcription": "rayie",
+    "type": "word"
+  },
+  {
+    "id": "modern",
+    "word": "حديث",
+    "transcription": "hadith",
+    "type": "word"
+  },
+  {
+    "id": "clean",
+    "word": "ينظف",
+    "transcription": "yunazaf",
+    "type": "word"
+  },
+  {
+    "id": "dirty",
+    "word": "متسخ",
+    "transcription": "mutasakh",
+    "type": "word"
+  },
+  {
+    "id": "new",
+    "word": "جديد",
+    "transcription": "jadid",
+    "type": "word"
+  },
+  {
+    "id": "old",
+    "word": "قديم",
+    "transcription": "qadim",
+    "type": "word"
+  },
+  {
+    "id": "wear",
+    "word": "يرتدي",
+    "transcription": "yartadi",
+    "type": "word"
+  },
+  {
+    "id": "put_on",
+    "word": "وضعت على",
+    "transcription": "wudieat ealaa",
+    "type": "phrase"
+  },
+  {
+    "id": "take_off",
+    "word": "اخلع",
+    "transcription": "aikhlae",
+    "type": "phrase"
+  },
+  {
+    "id": "try_on",
+    "word": "حاول",
+    "transcription": "hawil",
+    "type": "phrase"
+  },
+  {
+    "id": "get_dressed",
+    "word": "أرتدي ملابسي",
+    "transcription": "'artadi malabisi",
+    "type": "phrase"
+  },
+  {
+    "id": "change_clothes",
+    "word": "تغيير الملابس",
+    "transcription": "taghyir almalabis",
+    "type": "phrase"
+  },
+  {
+    "id": "fold_clothes",
+    "word": "أضعاف الملابس",
+    "transcription": "'adeaf almalabis",
+    "type": "phrase"
+  },
+  {
+    "id": "wash_clothes",
+    "word": "غسل الملابس",
+    "transcription": "ghasl almalabis",
+    "type": "phrase"
+  },
+  {
+    "id": "dry_clothes",
+    "word": "ملابس جافة",
+    "transcription": "malabis jafa",
+    "type": "phrase"
+  },
+  {
+    "id": "iron_clothes",
+    "word": "ملابس حديدية",
+    "transcription": "malabis hadidia",
+    "type": "phrase"
+  },
+  {
+    "id": "laundry",
+    "word": "مغسلة",
+    "transcription": "maghsala",
+    "type": "word"
+  },
+  {
+    "id": "washing_machine",
+    "word": "غسالة",
+    "transcription": "ghasala",
+    "type": "word"
+  },
+  {
+    "id": "dryer",
+    "word": "مجفف",
+    "transcription": "mujafaf",
+    "type": "word"
+  },
+  {
+    "id": "hanger",
+    "word": "شماعات",
+    "transcription": "shamaaeat",
+    "type": "word"
+  },
+  {
+    "id": "closet",
+    "word": "خزانة",
+    "transcription": "khizana",
+    "type": "word"
+  },
+  {
+    "id": "mirror",
+    "word": "مرآة",
+    "transcription": "mura",
+    "type": "word"
+  },
+  {
+    "id": "changing_room",
+    "word": "غرفة تغيير الملابس",
+    "transcription": "ghurfat taghyir almalabis",
+    "type": "word"
+  },
+  {
+    "id": "what_size_are_you",
+    "word": "ما هو حجمك؟",
+    "transcription": "ma hu hajmuku?",
+    "type": "phrase"
+  },
+  {
+    "id": "do_you_have_this_in_black",
+    "word": "هل لديك هذا باللون الأسود؟",
+    "transcription": "hal ladayk hadha biallawn al'aswadu?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_i_try_it_on",
+    "word": "هل يمكنني تجربتها؟",
+    "transcription": "hal yumkinuni tajribatiha?",
+    "type": "phrase"
+  },
+  {
+    "id": "it_fits_well",
+    "word": "المقاس مضبوط",
+    "transcription": "almaqas madbut",
+    "type": "phrase"
+  },
+  {
+    "id": "its_too_small",
+    "word": "انها صغيرة جدا",
+    "transcription": "anuha saghirat jidana",
+    "type": "phrase"
+  },
+  {
+    "id": "its_too_big",
+    "word": "انها كبيرة جدا",
+    "transcription": "anaha kabirat jidana",
+    "type": "phrase"
+  },
+  {
+    "id": "i_like_this_style",
+    "word": "أنا أحب هذا النمط",
+    "transcription": "'ana 'uhibu hadha alnamat",
+    "type": "phrase"
+  },
+  {
+    "id": "this_is_comfortable",
+    "word": "هذا مريح",
+    "transcription": "hadha murih",
+    "type": "phrase"
+  },
+  {
+    "id": "where_is_the_fitting_room",
+    "word": "أين غرفة القياس؟",
+    "transcription": "'ayn ghurfat alqiasi?",
+    "type": "phrase"
+  },
+  {
+    "id": "i_need_new_shoes",
+    "word": "أحتاج إلى أحذية جديدة",
+    "transcription": "'ahtaj 'iilaa 'ahdhiat jadida",
+    "type": "phrase"
+  }
+]

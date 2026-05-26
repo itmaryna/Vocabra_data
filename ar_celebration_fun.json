@@ -1,0 +1,278 @@
+[
+  {
+    "id": "celebration",
+    "word": "احتفال",
+    "transcription": "aihtifal",
+    "type": "word"
+  },
+  {
+    "id": "party",
+    "word": "حزب",
+    "transcription": "hizb",
+    "type": "word"
+  },
+  {
+    "id": "fun",
+    "word": "هزار",
+    "transcription": "hazar",
+    "type": "word"
+  },
+  {
+    "id": "happy",
+    "word": "سعيد",
+    "transcription": "saeid",
+    "type": "word"
+  },
+  {
+    "id": "birthday",
+    "word": "عيد ميلاد",
+    "transcription": "eid milad",
+    "type": "word"
+  },
+  {
+    "id": "wedding",
+    "word": "قِرَان",
+    "transcription": "qiran",
+    "type": "word"
+  },
+  {
+    "id": "holiday",
+    "word": "عطلة",
+    "transcription": "eutla",
+    "type": "word"
+  },
+  {
+    "id": "festival",
+    "word": "مهرجان",
+    "transcription": "mahrajan",
+    "type": "word"
+  },
+  {
+    "id": "music",
+    "word": "موسيقى",
+    "transcription": "musiqaa",
+    "type": "word"
+  },
+  {
+    "id": "dance",
+    "word": "رقص",
+    "transcription": "raqs",
+    "type": "word"
+  },
+  {
+    "id": "sing",
+    "word": "يغني",
+    "transcription": "yughani",
+    "type": "word"
+  },
+  {
+    "id": "song",
+    "word": "أغنية",
+    "transcription": "'ughnia",
+    "type": "word"
+  },
+  {
+    "id": "gift",
+    "word": "هدية",
+    "transcription": "hadia",
+    "type": "word"
+  },
+  {
+    "id": "present",
+    "word": "هدية",
+    "transcription": "hadiya",
+    "type": "word"
+  },
+  {
+    "id": "cake",
+    "word": "كعكة",
+    "transcription": "kaeka",
+    "type": "word"
+  },
+  {
+    "id": "balloon",
+    "word": "بالون",
+    "transcription": "balun",
+    "type": "word"
+  },
+  {
+    "id": "fireworks",
+    "word": "ألعاب نارية",
+    "transcription": "'aleab naria",
+    "type": "word"
+  },
+  {
+    "id": "laughter",
+    "word": "ضحك",
+    "transcription": "dahik",
+    "type": "word"
+  },
+  {
+    "id": "smile",
+    "word": "يبتسم",
+    "transcription": "yabtasim",
+    "type": "word"
+  },
+  {
+    "id": "friends",
+    "word": "أصدقاء",
+    "transcription": "'asdiqa'",
+    "type": "word"
+  },
+  {
+    "id": "family",
+    "word": "عائلة",
+    "transcription": "eayila",
+    "type": "word"
+  },
+  {
+    "id": "enjoy",
+    "word": "يتمتع",
+    "transcription": "yatamatae",
+    "type": "word"
+  },
+  {
+    "id": "have_fun",
+    "word": "استمتع",
+    "transcription": "aistamtie",
+    "type": "phrase"
+  },
+  {
+    "id": "good_time",
+    "word": "وقتا طيبا",
+    "transcription": "waqta tayiban",
+    "type": "phrase"
+  },
+  {
+    "id": "great_time",
+    "word": "وقتا رائعا",
+    "transcription": "waqta rayiean",
+    "type": "phrase"
+  },
+  {
+    "id": "dance_party",
+    "word": "حفلة رقص",
+    "transcription": "haflat raqs",
+    "type": "phrase"
+  },
+  {
+    "id": "music_party",
+    "word": "حفلة موسيقية",
+    "transcription": "haflat musiqia",
+    "type": "phrase"
+  },
+  {
+    "id": "birthday_party",
+    "word": "حفلة عيد ميلاد",
+    "transcription": "haflat eid milad",
+    "type": "phrase"
+  },
+  {
+    "id": "surprise_party",
+    "word": "حفلة مفاجئة",
+    "transcription": "haflat mufajia",
+    "type": "phrase"
+  },
+  {
+    "id": "celebrate",
+    "word": "احتفل",
+    "transcription": "aihtafil",
+    "type": "word"
+  },
+  {
+    "id": "cheers",
+    "word": "هتافات",
+    "transcription": "hutafat",
+    "type": "word"
+  },
+  {
+    "id": "toast",
+    "word": "نخب",
+    "transcription": "nukhab",
+    "type": "word"
+  },
+  {
+    "id": "drink",
+    "word": "شرب",
+    "transcription": "shurib",
+    "type": "word"
+  },
+  {
+    "id": "eat",
+    "word": "يأكل",
+    "transcription": "yakul",
+    "type": "word"
+  },
+  {
+    "id": "food",
+    "word": "طعام",
+    "transcription": "taeam",
+    "type": "word"
+  },
+  {
+    "id": "sweet",
+    "word": "حلو",
+    "transcription": "hulw",
+    "type": "word"
+  },
+  {
+    "id": "cake_sweet",
+    "word": "كعكة",
+    "transcription": "kaeka",
+    "type": "word"
+  },
+  {
+    "id": "ice_cream",
+    "word": "بوظة",
+    "transcription": "buaza",
+    "type": "phrase"
+  },
+  {
+    "id": "cookies",
+    "word": "ملفات تعريف الارتباط",
+    "transcription": "milafaat taerif aliartibat",
+    "type": "word"
+  },
+  {
+    "id": "chocolate",
+    "word": "شوكولاتة",
+    "transcription": "shwkulata",
+    "type": "word"
+  },
+  {
+    "id": "games",
+    "word": "ألعاب",
+    "transcription": "'aleab",
+    "type": "word"
+  },
+  {
+    "id": "play",
+    "word": "يلعب",
+    "transcription": "yaleab",
+    "type": "word"
+  },
+  {
+    "id": "happy_people",
+    "word": "الناس سعداء",
+    "transcription": "alnaas sueada'",
+    "type": "phrase"
+  },
+  {
+    "id": "smiling_people",
+    "word": "الناس المبتسمون",
+    "transcription": "alnaas almubtasimun",
+    "type": "phrase"
+  },
+  {
+    "id": "night_party",
+    "word": "حفلة ليلية",
+    "transcription": "haflat laylia",
+    "type": "phrase"
+  },
+  {
+    "id": "dance_music",
+    "word": "موسيقى الرقص",
+    "transcription": "musiqaa alraqs",
+    "type": "phrase"
+  }
+]

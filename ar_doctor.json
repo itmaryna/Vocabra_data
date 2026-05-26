@@ -1,0 +1,302 @@
+[
+  {
+    "id": "doctor",
+    "word": "طبيب",
+    "transcription": "tabib",
+    "type": "word"
+  },
+  {
+    "id": "hospital",
+    "word": "مستشفى",
+    "transcription": "mustashfaa",
+    "type": "word"
+  },
+  {
+    "id": "clinic",
+    "word": "عيادة",
+    "transcription": "eiada",
+    "type": "word"
+  },
+  {
+    "id": "appointment",
+    "word": "ميعاد",
+    "transcription": "miead",
+    "type": "word"
+  },
+  {
+    "id": "patient",
+    "word": "مريض",
+    "transcription": "marid",
+    "type": "word"
+  },
+  {
+    "id": "nurse",
+    "word": "ممرضة",
+    "transcription": "mumarida",
+    "type": "word"
+  },
+  {
+    "id": "medicine",
+    "word": "الدواء",
+    "transcription": "aldawa'",
+    "type": "word"
+  },
+  {
+    "id": "prescription",
+    "word": "روشتة",
+    "transcription": "rushta",
+    "type": "word"
+  },
+  {
+    "id": "pharmacy",
+    "word": "صيدلية",
+    "transcription": "saydalia",
+    "type": "word"
+  },
+  {
+    "id": "pain",
+    "word": "ألم",
+    "transcription": "'alam",
+    "type": "word"
+  },
+  {
+    "id": "headache",
+    "word": "صداع",
+    "transcription": "sudae",
+    "type": "word"
+  },
+  {
+    "id": "fever",
+    "word": "حمى",
+    "transcription": "hamaa",
+    "type": "word"
+  },
+  {
+    "id": "cough",
+    "word": "سعال",
+    "transcription": "sieal",
+    "type": "word"
+  },
+  {
+    "id": "cold",
+    "word": "بارد",
+    "transcription": "barid",
+    "type": "word"
+  },
+  {
+    "id": "flu",
+    "word": "الإنفلونزا",
+    "transcription": "al'iinfilwanza",
+    "type": "word"
+  },
+  {
+    "id": "allergy",
+    "word": "حساسية",
+    "transcription": "hasasia",
+    "type": "word"
+  },
+  {
+    "id": "injury",
+    "word": "إصابة",
+    "transcription": "'iisabatan",
+    "type": "word"
+  },
+  {
+    "id": "blood",
+    "word": "دم",
+    "transcription": "dum",
+    "type": "word"
+  },
+  {
+    "id": "heart",
+    "word": "قلب",
+    "transcription": "qalb",
+    "type": "word"
+  },
+  {
+    "id": "stomach",
+    "word": "معدة",
+    "transcription": "mueida",
+    "type": "word"
+  },
+  {
+    "id": "back_pain",
+    "word": "آلام الظهر",
+    "transcription": "alam alzuhr",
+    "type": "phrase"
+  },
+  {
+    "id": "sore_throat",
+    "word": "التهاب الحلق",
+    "transcription": "altihab alhalq",
+    "type": "phrase"
+  },
+  {
+    "id": "runny_nose",
+    "word": "سيلان الأنف",
+    "transcription": "saylan al'anf",
+    "type": "phrase"
+  },
+  {
+    "id": "toothache",
+    "word": "وجع الاسنان",
+    "transcription": "wajae alasinan",
+    "type": "word"
+  },
+  {
+    "id": "dizzy",
+    "word": "دائِخ",
+    "transcription": "dayikh",
+    "type": "word"
+  },
+  {
+    "id": "vomit",
+    "word": "القيء",
+    "transcription": "alqay'",
+    "type": "word"
+  },
+  {
+    "id": "diarrhea",
+    "word": "إسهال",
+    "transcription": "'iishal",
+    "type": "word"
+  },
+  {
+    "id": "ambulance",
+    "word": "سيارة إسعاف",
+    "transcription": "sayaarat 'iiseaf",
+    "type": "word"
+  },
+  {
+    "id": "emergency",
+    "word": "طارئ",
+    "transcription": "tari",
+    "type": "word"
+  },
+  {
+    "id": "operation",
+    "word": "عملية",
+    "transcription": "eamalia",
+    "type": "word"
+  },
+  {
+    "id": "xray",
+    "word": "أشعة سينية",
+    "transcription": "ashi a siniya",
+    "type": "word"
+  },
+  {
+    "id": "checkup",
+    "word": "فحص طبي",
+    "transcription": "fahs tibbi",
+    "type": "word"
+  },
+  {
+    "id": "blood_test",
+    "word": "فحص الدم",
+    "transcription": "fahs aldam",
+    "type": "phrase"
+  },
+  {
+    "id": "insurance",
+    "word": "تأمين",
+    "transcription": "tamin",
+    "type": "word"
+  },
+  {
+    "id": "i_feel_sick",
+    "word": "أشعر بالمرض",
+    "transcription": "'asheur bialmarad",
+    "type": "phrase"
+  },
+  {
+    "id": "i_have_pain",
+    "word": "لدي ألم",
+    "transcription": "ladaya 'alam",
+    "type": "phrase"
+  },
+  {
+    "id": "i_need_help",
+    "word": "انا بحاجة الى مساعدة",
+    "transcription": "ana bihajat alaa musaeida",
+    "type": "phrase"
+  },
+  {
+    "id": "call_ambulance",
+    "word": "اتصل بالإسعاف",
+    "transcription": "aitasil bial'iiseaf",
+    "type": "phrase"
+  },
+  {
+    "id": "where_does_it_hurt",
+    "word": "حيث أنها لا تؤذي",
+    "transcription": "hayth 'anaha la tudhi",
+    "type": "phrase"
+  },
+  {
+    "id": "take_medicine",
+    "word": "تناول الدواء",
+    "transcription": "tanawal aldawa'",
+    "type": "phrase"
+  },
+  {
+    "id": "twice_a_day",
+    "word": "مرتين في اليوم",
+    "transcription": "maratayn fi alyawm",
+    "type": "phrase"
+  },
+  {
+    "id": "rest",
+    "word": "استراحة",
+    "transcription": "aistiraha",
+    "type": "word"
+  },
+  {
+    "id": "healthy",
+    "word": "صحيح",
+    "transcription": "sahih",
+    "type": "word"
+  },
+  {
+    "id": "unhealthy",
+    "word": "غير صحي",
+    "transcription": "ghayr sihiyin",
+    "type": "word"
+  },
+  {
+    "id": "symptom",
+    "word": "الأعراض",
+    "transcription": "al'aerad",
+    "type": "word"
+  },
+  {
+    "id": "virus",
+    "word": "فايروس",
+    "transcription": "fayrws",
+    "type": "word"
+  },
+  {
+    "id": "bacteria",
+    "word": "البكتيريا",
+    "transcription": "albaktirya",
+    "type": "word"
+  },
+  {
+    "id": "infection",
+    "word": "عدوى",
+    "transcription": "eadwaa",
+    "type": "word"
+  },
+  {
+    "id": "bandage",
+    "word": "ضمادة",
+    "transcription": "damada",
+    "type": "word"
+  },
+  {
+    "id": "painkiller",
+    "word": "مسكن للألم",
+    "transcription": "maskan lil'alam",
+    "type": "word"
+  }
+]

@@ -1,0 +1,614 @@
+[
+  {
+    "id": "what",
+    "word": "ماذا",
+    "transcription": "madha",
+    "type": "question"
+  },
+  {
+    "id": "who",
+    "word": "من",
+    "transcription": "man",
+    "type": "question"
+  },
+  {
+    "id": "where",
+    "word": "أين",
+    "transcription": "'ayn",
+    "type": "question"
+  },
+  {
+    "id": "when",
+    "word": "متى",
+    "transcription": "mataa",
+    "type": "question"
+  },
+  {
+    "id": "why",
+    "word": "لماذا",
+    "transcription": "limadha",
+    "type": "question"
+  },
+  {
+    "id": "how",
+    "word": "كيف",
+    "transcription": "kayf",
+    "type": "question"
+  },
+  {
+    "id": "which",
+    "word": "أيّ",
+    "transcription": "ay",
+    "type": "question"
+  },
+  {
+    "id": "whose",
+    "word": "لمن",
+    "transcription": "liman",
+    "type": "question"
+  },
+  {
+    "id": "how_many",
+    "word": "كم عدد",
+    "transcription": "kam eadad",
+    "type": "question"
+  },
+  {
+    "id": "how_much",
+    "word": "كم ثمن",
+    "transcription": "kam thaman",
+    "type": "question"
+  },
+  {
+    "id": "what_is_this",
+    "word": "ما هذا؟",
+    "transcription": "ma hadha?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_is_that",
+    "word": "ما هذا؟",
+    "transcription": "ma hadha?",
+    "type": "phrase"
+  },
+  {
+    "id": "who_are_you",
+    "word": "من أنت؟",
+    "transcription": "min 'anti?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_are_you",
+    "word": "أين أنت؟",
+    "transcription": "'ayn 'anti?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_do_you_live",
+    "word": "أين تعيش؟",
+    "transcription": "'ayn taeishu?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_are_you_from",
+    "word": "من أين أنت؟",
+    "transcription": "min 'ayn 'anti?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_is_your_name",
+    "word": "ما اسمك؟",
+    "transcription": "ma asmuk?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_old_are_you",
+    "word": "كم عمرك؟",
+    "transcription": "kam eumarka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_do_you_do",
+    "word": "ماذا تفعل؟",
+    "transcription": "madha tafaeala?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_time_is_it",
+    "word": "أي ساعة؟",
+    "transcription": "'ayu saeatin?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_day_is_today",
+    "word": "ما هو اليوم؟",
+    "transcription": "ma hu alyawma?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_date_is_today",
+    "word": "ما هو تاريخ اليوم؟",
+    "transcription": "ma hu tarikh alyawmi?",
+    "type": "phrase"
+  },
+  {
+    "id": "when_is_your_birthday",
+    "word": "متى يحين عيد ميلادك؟",
+    "transcription": "mataa yahin eid miladiki?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_are_you",
+    "word": "كيف حالك؟",
+    "transcription": "kayf halika?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_do_you_feel",
+    "word": "ما هو شعورك؟",
+    "transcription": "ma hu shueuruka?",
+    "type": "phrase"
+  },
+  {
+    "id": "why_are_you_here",
+    "word": "لماذا أنت هنا؟",
+    "transcription": "limadha 'ant huna?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_you_help_me",
+    "word": "هل يمكنك مساعدتي؟",
+    "transcription": "hal yumkinuk musaeadati?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_i_help_you",
+    "word": "أيمكنني مساعدتك؟",
+    "transcription": "'ayumkinuni musaeadatuka?",
+    "type": "phrase"
+  },
+  {
+    "id": "do_you_understand",
+    "word": "هل تفهم؟",
+    "transcription": "hal tafhama?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_you_repeat",
+    "word": "هل يمكنك تكرار ذلك؟",
+    "transcription": "hal yumkinuk takrar dhalika?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_you_speak_slowly",
+    "word": "هل يمكنك التحدث ببطء؟",
+    "transcription": "hal yumkinuk altahaduth bibut'?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_does_it_mean",
+    "word": "ماذا يعني ذلك؟",
+    "transcription": "madha yaeni dhalika?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_do_you_say_this",
+    "word": "كيف تقول هذا؟",
+    "transcription": "kayf taqul hadha?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_you_write_it",
+    "word": "هل يمكنك كتابتها؟",
+    "transcription": "hal yumkinuk kitabatiha?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_is_the_bathroom",
+    "word": "أين الحمام؟",
+    "transcription": "'ayn alhamami?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_is_the_hotel",
+    "word": "أين يقع الفندق؟",
+    "transcription": "'ayn yaqae alfunduqu?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_is_the_station",
+    "word": "أين المحطة؟",
+    "transcription": "'ayn almahatatu?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_is_the_airport",
+    "word": "أين هو المطار؟",
+    "transcription": "'ayn hu almataru?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_can_i_buy_food",
+    "word": "أين يمكنني شراء الطعام؟",
+    "transcription": "'ayn yumkinuni shira' altaeami?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_far_is_it",
+    "word": "إلى أي مدى هو؟",
+    "transcription": "'iilaa 'ayi madaa hu?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_long_does_it_take",
+    "word": "كم من الوقت تستغرق؟",
+    "transcription": "kam min alwaqt tastaghriqu?",
+    "type": "phrase"
+  },
+  {
+    "id": "is_it_open",
+    "word": "هل هو مفتوح؟",
+    "transcription": "hal hu maftuhun?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_time_does_it_open",
+    "word": "في أي وقت يفتح؟",
+    "transcription": "fi 'ayi waqt yaftahi?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_time_does_it_close",
+    "word": "في أي وقت يغلق؟",
+    "transcription": "fi 'ayi waqt yughliqu?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_much_is_it",
+    "word": "كم سعره؟",
+    "transcription": "kam sierahu?",
+    "type": "phrase"
+  },
+  {
+    "id": "do_you_accept_cards",
+    "word": "هل تقبلون البطاقات؟",
+    "transcription": "hal taqbalun albitaqati?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_i_pay_by_card",
+    "word": "هل يمكنني الدفع عن طريق البطاقة؟",
+    "transcription": "hal yumkinuni aldafe ean tariq albitaqati?",
+    "type": "phrase"
+  },
+  {
+    "id": "do_you_have_wifi",
+    "word": "هل لديك واي فاي؟",
+    "transcription": "hal ladayk way fay?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_is_the_password",
+    "word": "ما هي كلمة المرور؟",
+    "transcription": "ma hi kalimat almururi?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_i_take_a_picture",
+    "word": "هل يمكنني التقاط صورة؟",
+    "transcription": "hal yumkinuni altiqat suratin?",
+    "type": "phrase"
+  },
+  {
+    "id": "are_you_busy",
+    "word": "هل أنت مشغول؟",
+    "transcription": "hal 'ant mashghulu?",
+    "type": "phrase"
+  },
+  {
+    "id": "are_you_okay",
+    "word": "هل أنت بخير؟",
+    "transcription": "hal 'ant bikhayrin?",
+    "type": "phrase"
+  },
+  {
+    "id": "are_you_sure",
+    "word": "هل أنت متأكد؟",
+    "transcription": "hal 'ant muta'akidun?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_happened",
+    "word": "ماذا حدث؟",
+    "transcription": "madha hadatha?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_are_you_doing",
+    "word": "ماذا تفعل؟",
+    "transcription": "madha tafaeala?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_are_you_thinking_about",
+    "word": "ما الذي تفكر فيه؟",
+    "transcription": "ma aladhi tafakar fihi?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_do_you_like",
+    "word": "ماذا تريد؟",
+    "transcription": "madha turidu?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_is_your_favorite_food",
+    "word": "ما هو طعامك المفضل؟",
+    "transcription": "ma hu taeamuk almufadalu?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_music_do_you_like",
+    "word": "ما هي الموسيقى التي تحبها؟",
+    "transcription": "ma hi almusiqaa alati tuhibuha?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_movies_do_you_like",
+    "word": "ما هي الأفلام التي تحبها؟",
+    "transcription": "ma hi al'aflam alati tuhibuha?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_is_your_job",
+    "word": "ما وظيفتك؟",
+    "transcription": "ma wazifatuka?",
+    "type": "phrase"
+  },
+  {
+    "id": "do_you_speak_english",
+    "word": "هل تتكلم بالإنجليزية؟",
+    "transcription": "hal tatakalam bial'iinjiliziati?",
+    "type": "phrase"
+  },
+  {
+    "id": "do_you_speak_spanish",
+    "word": "هل تتكلم الإسبانية؟",
+    "transcription": "hal tatakalam al'iisbaniatu?",
+    "type": "phrase"
+  },
+  {
+    "id": "do_you_speak_hebrew",
+    "word": "هل تتكلم العبرية؟",
+    "transcription": "hal tatakalam aleibriatu?",
+    "type": "phrase"
+  },
+  {
+    "id": "do_you_speak_ukrainian",
+    "word": "هل تتكلم الأوكرانية؟",
+    "transcription": "hal tatakalam al'uwkraniatu?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_you_show_me",
+    "word": "هل يمكنك أن تريني؟",
+    "transcription": "hal yumkinuk 'ana trini?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_you_call_me",
+    "word": "هل يمكنك الاتصال بي؟",
+    "transcription": "hal yumkinuk alatisal bi?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_you_wait",
+    "word": "أيمكنك الانتظار؟",
+    "transcription": "'ayumkinuk aliantizaru?",
+    "type": "phrase"
+  },
+  {
+    "id": "why_not",
+    "word": "ولم لا؟",
+    "transcription": "walim la?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_now",
+    "word": "ماذا الآن؟",
+    "transcription": "madha alan?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_next",
+    "word": "ماذا بعد؟",
+    "transcription": "madha biedu?",
+    "type": "phrase"
+  },
+  {
+    "id": "who_is_that",
+    "word": "من ذاك؟",
+    "transcription": "min dhaki?",
+    "type": "phrase"
+  },
+  {
+    "id": "whose_bag_is_this",
+    "word": "لمن هذه الحقيبة؟",
+    "transcription": "liman hadhih alhaqibati?",
+    "type": "phrase"
+  },
+  {
+    "id": "which_one",
+    "word": "أيها؟",
+    "transcription": "'ayha?",
+    "type": "phrase"
+  },
+  {
+    "id": "which_color_do_you_like",
+    "word": "ما هو اللون الذي يعجبك؟",
+    "transcription": "ma hu allawn aladhi yuejibuka?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_was_your_day",
+    "word": "كيف كان يومك؟",
+    "transcription": "kayf kan yawmak?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_is_work",
+    "word": "كيف هو العمل؟",
+    "transcription": "kayf hu aleamla?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_is_school",
+    "word": "كيف هي المدرسة؟",
+    "transcription": "kayf hi almadrasatu?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_is_your_family",
+    "word": "كيف حال عائلتك؟",
+    "transcription": "kayf hal eayilatika?",
+    "type": "phrase"
+  },
+  {
+    "id": "when_will_you_arrive",
+    "word": "متى ستصل؟",
+    "transcription": "mataa satasili?",
+    "type": "phrase"
+  },
+  {
+    "id": "when_do_we_leave",
+    "word": "متى نغادر؟",
+    "transcription": "mataa nughadir?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_should_we_meet",
+    "word": "أين يجب أن نلتقي؟",
+    "transcription": "'ayn yajib 'an naltaqia?",
+    "type": "phrase"
+  },
+  {
+    "id": "why_are_you_late",
+    "word": "لماذا تأخرت؟",
+    "transcription": "limadha ta'akhartu?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_can_i_get_there",
+    "word": "كيف يمكنني الوصول إلى هناك؟",
+    "transcription": "kayf yumkinuni alwusul 'iilaa hunakin?",
+    "type": "phrase"
+  },
+  {
+    "id": "is_everything_okay",
+    "word": "هل كل شيء على ما يرام؟",
+    "transcription": "hal kulu shay' ealaa ma yurami?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_i_ask_you_something",
+    "word": "هل يمكننى ان اسألك شيئا؟",
+    "transcription": "hal yumkinunaa an as'alk shayyaa?",
+    "type": "phrase"
+  },
+  {
+    "id": "do_you_need_help",
+    "word": "هل تحتاج إلى مساعدة؟",
+    "transcription": "hal tahtaj 'iilaa musaeadatin?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_should_i_do",
+    "word": "ماذا علي أن أفعل؟",
+    "transcription": "madha ealaya 'an 'ufeala?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_we_talk",
+    "word": "أيمكننا أن تحدث؟",
+    "transcription": "'ayumkinuna 'an tuhditha?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_i_join_you",
+    "word": "هل يمكنني الانضمام إليكم؟",
+    "transcription": "hal yumkinuni aliandimam 'iilaykum?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_can_i_find_a_taxi",
+    "word": "أين يمكنني العثور على سيارة أجرة؟",
+    "transcription": "'ayn yumkinuni aleuthur ealaa sayaarat 'ujratin?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_can_i_charge_my_phone",
+    "word": "أين يمكنني شحن هاتفي؟",
+    "transcription": "'ayn yumkinuni shahn hatifi?",
+    "type": "phrase"
+  },
+  {
+    "id": "is_there_a_problem",
+    "word": "هل هناك مشكلة؟",
+    "transcription": "hal hunak mushkilatun?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_you_take_a_photo",
+    "word": "هل يمكنك التقاط صورة؟",
+    "transcription": "hal yumkinuk altiqat suratin?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_do_you_mean",
+    "word": "ماذا تقصد؟",
+    "transcription": "madha taqasada?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_do_i_get_to_the_center",
+    "word": "كيف أصل إلى المركز؟",
+    "transcription": "kayf 'asil 'iilaa almarkazi?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_is_the_wifi_password",
+    "word": "ما هي كلمة مرور الواي فاي؟",
+    "transcription": "ma hi kalimat murur alway fay?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_i_sit_here",
+    "word": "هل يمكنني الجلوس هنا؟",
+    "transcription": "hal yumkinuni aljulus huna?",
+    "type": "phrase"
+  },
+  {
+    "id": "is_this_seat_taken",
+    "word": "هل تم شغل هذا المقعد؟",
+    "transcription": "hal tama shughl hadha almaqeadi?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_is_wrong",
+    "word": "ما هو الخطأ؟",
+    "transcription": "ma hu alkhata'a?",
+    "type": "phrase"
+  },
+  {
+    "id": "who_called_me",
+    "word": "من اتصل بي؟",
+    "transcription": "man atasal by?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_do_you_spell_it",
+    "word": "كيف يمكن توضيح ذلك؟",
+    "transcription": "kayf yumkin tawdih dhalika?",
+    "type": "phrase"
+  }
+]
