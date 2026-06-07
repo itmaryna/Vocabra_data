@@ -1,0 +1,644 @@
+[
+  {
+    "id": "relationship",
+    "word": "関係",
+    "transcription": "kankei",
+    "type": "word"
+  },
+  {
+    "id": "love",
+    "word": "愛",
+    "transcription": "ai",
+    "type": "word"
+  },
+  {
+    "id": "romance",
+    "word": "ロマンス",
+    "transcription": "romansu",
+    "type": "word"
+  },
+  {
+    "id": "partner",
+    "word": "パートナー",
+    "transcription": "paatonaa",
+    "type": "word"
+  },
+  {
+    "id": "boyfriend",
+    "word": "彼氏",
+    "transcription": "kareshi",
+    "type": "word"
+  },
+  {
+    "id": "girlfriend",
+    "word": "彼女",
+    "transcription": "kanojo",
+    "type": "word"
+  },
+  {
+    "id": "husband",
+    "word": "夫",
+    "transcription": "otto",
+    "type": "word"
+  },
+  {
+    "id": "wife",
+    "word": "妻",
+    "transcription": "tsuma",
+    "type": "word"
+  },
+  {
+    "id": "fiance",
+    "word": "婚約者",
+    "transcription": "konyakusha",
+    "type": "word"
+  },
+  {
+    "id": "fiancee",
+    "word": "婚約者",
+    "transcription": "konyakusha",
+    "type": "word"
+  },
+  {
+    "id": "crush",
+    "word": "片思いの相手",
+    "transcription": "kataomoi no aite",
+    "type": "word"
+  },
+  {
+    "id": "date",
+    "word": "デート",
+    "transcription": "deto",
+    "type": "word"
+  },
+  {
+    "id": "dating",
+    "word": "デート",
+    "transcription": "deeto",
+    "type": "word"
+  },
+  {
+    "id": "marriage",
+    "word": "結婚",
+    "transcription": "kekkon",
+    "type": "word"
+  },
+  {
+    "id": "engagement",
+    "word": "婚約",
+    "transcription": "kon'yaku",
+    "type": "word"
+  },
+  {
+    "id": "wedding",
+    "word": "結婚式",
+    "transcription": "kekkonshiki",
+    "type": "word"
+  },
+  {
+    "id": "kiss",
+    "word": "キス",
+    "transcription": "kisu",
+    "type": "word"
+  },
+  {
+    "id": "hug",
+    "word": "ハグ",
+    "transcription": "hagu",
+    "type": "word"
+  },
+  {
+    "id": "trust",
+    "word": "信頼",
+    "transcription": "shinrai",
+    "type": "word"
+  },
+  {
+    "id": "respect",
+    "word": "尊敬",
+    "transcription": "sonkei",
+    "type": "word"
+  },
+  {
+    "id": "loyalty",
+    "word": "忠誠心",
+    "transcription": "chuusei kokoro",
+    "type": "word"
+  },
+  {
+    "id": "honesty",
+    "word": "正直",
+    "transcription": "shoujiki",
+    "type": "word"
+  },
+  {
+    "id": "communication",
+    "word": "コミュニケーション",
+    "transcription": "komyunikeeshon",
+    "type": "word"
+  },
+  {
+    "id": "support",
+    "word": "サポート",
+    "transcription": "sapouto",
+    "type": "word"
+  },
+  {
+    "id": "care",
+    "word": "ケア",
+    "transcription": "kea",
+    "type": "word"
+  },
+  {
+    "id": "affection",
+    "word": "愛情",
+    "transcription": "aijou",
+    "type": "word"
+  },
+  {
+    "id": "emotion",
+    "word": "感情",
+    "transcription": "kanjou",
+    "type": "word"
+  },
+  {
+    "id": "feeling",
+    "word": "フィーリング",
+    "transcription": "fiiringu",
+    "type": "word"
+  },
+  {
+    "id": "heart",
+    "word": "心臓",
+    "transcription": "shinzou",
+    "type": "word"
+  },
+  {
+    "id": "soulmate",
+    "word": "ソウルメイト",
+    "transcription": "sourumeito",
+    "type": "word"
+  },
+  {
+    "id": "friend",
+    "word": "友人",
+    "transcription": "yuujin",
+    "type": "word"
+  },
+  {
+    "id": "best_friend",
+    "word": "親友",
+    "transcription": "shin'yuu",
+    "type": "word"
+  },
+  {
+    "id": "friendship",
+    "word": "友情",
+    "transcription": "yuujou",
+    "type": "word"
+  },
+  {
+    "id": "family",
+    "word": "家族",
+    "transcription": "kazoku",
+    "type": "word"
+  },
+  {
+    "id": "mother",
+    "word": "母親",
+    "transcription": "hahaoya",
+    "type": "word"
+  },
+  {
+    "id": "father",
+    "word": "父親",
+    "transcription": "chichioya",
+    "type": "word"
+  },
+  {
+    "id": "sister",
+    "word": "妹",
+    "transcription": "imouto",
+    "type": "word"
+  },
+  {
+    "id": "brother",
+    "word": "兄弟",
+    "transcription": "kyoudai",
+    "type": "word"
+  },
+  {
+    "id": "daughter",
+    "word": "娘",
+    "transcription": "musume",
+    "type": "word"
+  },
+  {
+    "id": "son",
+    "word": "息子",
+    "transcription": "musuko",
+    "type": "word"
+  },
+  {
+    "id": "parent",
+    "word": "親",
+    "transcription": "oya",
+    "type": "word"
+  },
+  {
+    "id": "child",
+    "word": "子供",
+    "transcription": "kodomo",
+    "type": "word"
+  },
+  {
+    "id": "grandmother",
+    "word": "祖母",
+    "transcription": "sobo",
+    "type": "word"
+  },
+  {
+    "id": "grandfather",
+    "word": "祖父",
+    "transcription": "sofu",
+    "type": "word"
+  },
+  {
+    "id": "cousin",
+    "word": "いとこ",
+    "transcription": "itoko",
+    "type": "word"
+  },
+  {
+    "id": "uncle",
+    "word": "叔父",
+    "transcription": "oji",
+    "type": "word"
+  },
+  {
+    "id": "aunt",
+    "word": "叔母",
+    "transcription": "oba",
+    "type": "word"
+  },
+  {
+    "id": "nephew",
+    "word": "甥",
+    "transcription": "oi",
+    "type": "word"
+  },
+  {
+    "id": "niece",
+    "word": "姪",
+    "transcription": "mei",
+    "type": "word"
+  },
+  {
+    "id": "in_laws",
+    "word": "義理の両親",
+    "transcription": "giri no ryoushin",
+    "type": "word"
+  },
+  {
+    "id": "stepfather",
+    "word": "継父",
+    "transcription": "mamachichi",
+    "type": "word"
+  },
+  {
+    "id": "stepmother",
+    "word": "継母",
+    "transcription": "mamahaha",
+    "type": "word"
+  },
+  {
+    "id": "stepsister",
+    "word": "義理の妹",
+    "transcription": "giri no imouto",
+    "type": "word"
+  },
+  {
+    "id": "stepbrother",
+    "word": "義理の兄弟",
+    "transcription": "giri no kyoudai",
+    "type": "word"
+  },
+  {
+    "id": "ex_boyfriend",
+    "word": "元ボーイフレンド",
+    "transcription": "moto bouifurendo",
+    "type": "word"
+  },
+  {
+    "id": "ex_girlfriend",
+    "word": "元ガールフレンド",
+    "transcription": "moto gaarufurendo",
+    "type": "word"
+  },
+  {
+    "id": "breakup",
+    "word": "別れる",
+    "transcription": "wakareru",
+    "type": "word"
+  },
+  {
+    "id": "divorce",
+    "word": "離婚",
+    "transcription": "rikon",
+    "type": "word"
+  },
+  {
+    "id": "argument",
+    "word": "口論",
+    "transcription": "kouron",
+    "type": "word"
+  },
+  {
+    "id": "fight",
+    "word": "戦い",
+    "transcription": "tatakai",
+    "type": "word"
+  },
+  {
+    "id": "jealousy",
+    "word": "嫉妬",
+    "transcription": "shitto",
+    "type": "word"
+  },
+  {
+    "id": "forgive",
+    "word": "許す",
+    "transcription": "yurusu",
+    "type": "word"
+  },
+  {
+    "id": "apology",
+    "word": "謝罪",
+    "transcription": "shazai",
+    "type": "word"
+  },
+  {
+    "id": "promise",
+    "word": "約束",
+    "transcription": "yakusoku",
+    "type": "word"
+  },
+  {
+    "id": "secret",
+    "word": "秘密",
+    "transcription": "himitsu",
+    "type": "word"
+  },
+  {
+    "id": "memory",
+    "word": "メモリ",
+    "transcription": "memori",
+    "type": "word"
+  },
+  {
+    "id": "anniversary",
+    "word": "周年",
+    "transcription": "shuunen",
+    "type": "word"
+  },
+  {
+    "id": "proposal",
+    "word": "提案",
+    "transcription": "teian",
+    "type": "word"
+  },
+  {
+    "id": "ring",
+    "word": "指輪",
+    "transcription": "yubiwa",
+    "type": "word"
+  },
+  {
+    "id": "flowers",
+    "word": "花",
+    "transcription": "hana",
+    "type": "word"
+  },
+  {
+    "id": "gift",
+    "word": "贈り物",
+    "transcription": "okurimono",
+    "type": "word"
+  },
+  {
+    "id": "compliment",
+    "word": "褒め言葉",
+    "transcription": "homekotoba",
+    "type": "word"
+  },
+  {
+    "id": "flirting",
+    "word": "いちゃつく",
+    "transcription": "ichatsuku",
+    "type": "word"
+  },
+  {
+    "id": "romantic",
+    "word": "ロマンチック",
+    "transcription": "romanchikku",
+    "type": "word"
+  },
+  {
+    "id": "cute",
+    "word": "かわいい",
+    "transcription": "kawaii",
+    "type": "word"
+  },
+  {
+    "id": "beautiful",
+    "word": "美しい",
+    "transcription": "utsukushii",
+    "type": "word"
+  },
+  {
+    "id": "handsome",
+    "word": "ハンサム",
+    "transcription": "hansamu",
+    "type": "word"
+  },
+  {
+    "id": "kind",
+    "word": "親切",
+    "transcription": "shinsetsu",
+    "type": "word"
+  },
+  {
+    "id": "sweet",
+    "word": "甘い",
+    "transcription": "amai",
+    "type": "word"
+  },
+  {
+    "id": "gentle",
+    "word": "優しい",
+    "transcription": "yasashii",
+    "type": "word"
+  },
+  {
+    "id": "caring",
+    "word": "思いやりのある",
+    "transcription": "omoiyari no aru",
+    "type": "word"
+  },
+  {
+    "id": "loving",
+    "word": "愛する",
+    "transcription": "aisuru",
+    "type": "word"
+  },
+  {
+    "id": "faithful",
+    "word": "忠実な",
+    "transcription": "chuujitsuna",
+    "type": "word"
+  },
+  {
+    "id": "close",
+    "word": "近い",
+    "transcription": "chikai",
+    "type": "word"
+  },
+  {
+    "id": "lonely",
+    "word": "さみしい",
+    "transcription": "samishii",
+    "type": "word"
+  },
+  {
+    "id": "single",
+    "word": "独身",
+    "transcription": "dokushin",
+    "type": "word"
+  },
+  {
+    "id": "taken",
+    "word": "恋人がいる",
+    "transcription": "koibito ga iru",
+    "type": "word"
+  },
+  {
+    "id": "engaged",
+    "word": "婚約中",
+    "transcription": "kon'yaku-chuu",
+    "type": "word"
+  },
+  {
+    "id": "married",
+    "word": "既婚",
+    "transcription": "kikon",
+    "type": "word"
+  },
+  {
+    "id": "separated",
+    "word": "別れた",
+    "transcription": "wakareta",
+    "type": "word"
+  },
+  {
+    "id": "widow",
+    "word": "未亡人",
+    "transcription": "mibojin",
+    "type": "word"
+  },
+  {
+    "id": "widower",
+    "word": "男やもめ",
+    "transcription": "otoko yamome",
+    "type": "word"
+  },
+  {
+    "id": "i_love_you",
+    "word": "愛してます",
+    "transcription": "aishitemasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_miss_you",
+    "word": "私はあなたがいなくて寂しいです",
+    "transcription": "watashi wa anata ga inakute sabishiidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_need_you",
+    "word": "私には、あなたが必要です",
+    "transcription": "watashiniha, anata ga hitsuyoudesu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_trust_you",
+    "word": "私はあなたを信頼します",
+    "transcription": "watashi wa anata o shinrai shimasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_like_you",
+    "word": "私はあなたが好きです",
+    "transcription": "watashi wa anata ga sukidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "you_are_beautiful",
+    "word": "あなたは美しいです",
+    "transcription": "anata wa utsukushiidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "you_are_cute",
+    "word": "あなたはかわいいです",
+    "transcription": "anata wa kawaiidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "will_you_marry_me",
+    "word": "結婚して下さい？",
+    "transcription": "kekkon shite kudasai?",
+    "type": "phrase"
+  },
+  {
+    "id": "im_sorry",
+    "word": "ごめんなさい",
+    "transcription": "gomen'nasai",
+    "type": "phrase"
+  },
+  {
+    "id": "forgive_me",
+    "word": "私を許して",
+    "transcription": "watashi o yurushite",
+    "type": "phrase"
+  },
+  {
+    "id": "i_support_you",
+    "word": "私はあなたをサポートします",
+    "transcription": "watashi wa anata o sapouto shimasu",
+    "type": "phrase"
+  },
+  {
+    "id": "im_here_for_you",
+    "word": "私はあなたのためにここにいます",
+    "transcription": "watashi wa anata no tame ni koko ni imasu",
+    "type": "phrase"
+  },
+  {
+    "id": "lets_go_on_a_date",
+    "word": "デートに行きましょう",
+    "transcription": "deeto ni ikimashou",
+    "type": "phrase"
+  },
+  {
+    "id": "i_want_to_break_up",
+    "word": "別れたいです",
+    "transcription": "wakaretaidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "we_need_to_talk",
+    "word": "話し合う必要があります",
+    "transcription": "hanashiau hitsuyou ga arimasu",
+    "type": "phrase"
+  }
+]

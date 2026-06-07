@@ -1,0 +1,182 @@
+[
+  {
+    "id": "head",
+    "word": "頭",
+    "transcription": "atama",
+    "type": "word"
+  },
+  {
+    "id": "face",
+    "word": "顔",
+    "transcription": "kao",
+    "type": "word"
+  },
+  {
+    "id": "eye",
+    "word": "目",
+    "transcription": "me",
+    "type": "word"
+  },
+  {
+    "id": "ear",
+    "word": "耳",
+    "transcription": "mimi",
+    "type": "word"
+  },
+  {
+    "id": "nose",
+    "word": "鼻",
+    "transcription": "hana",
+    "type": "word"
+  },
+  {
+    "id": "mouth",
+    "word": "口",
+    "transcription": "kuchi",
+    "type": "word"
+  },
+  {
+    "id": "tooth",
+    "word": "歯",
+    "transcription": "ha",
+    "type": "word"
+  },
+  {
+    "id": "tongue",
+    "word": "舌",
+    "transcription": "shita",
+    "type": "word"
+  },
+  {
+    "id": "neck",
+    "word": "ネック",
+    "transcription": "nekku",
+    "type": "word"
+  },
+  {
+    "id": "shoulder",
+    "word": "ショルダー",
+    "transcription": "shorudaa",
+    "type": "word"
+  },
+  {
+    "id": "arm",
+    "word": "アーム",
+    "transcription": "aamu",
+    "type": "word"
+  },
+  {
+    "id": "elbow",
+    "word": "肘",
+    "transcription": "hiji",
+    "type": "word"
+  },
+  {
+    "id": "hand",
+    "word": "手",
+    "transcription": "te",
+    "type": "word"
+  },
+  {
+    "id": "finger",
+    "word": "指",
+    "transcription": "yubi",
+    "type": "word"
+  },
+  {
+    "id": "chest",
+    "word": "胸",
+    "transcription": "mune",
+    "type": "word"
+  },
+  {
+    "id": "back",
+    "word": "戻る",
+    "transcription": "modoru",
+    "type": "word"
+  },
+  {
+    "id": "stomach",
+    "word": "胃",
+    "transcription": "i",
+    "type": "word"
+  },
+  {
+    "id": "hip",
+    "word": "ヒップ",
+    "transcription": "hippu",
+    "type": "word"
+  },
+  {
+    "id": "leg",
+    "word": "脚",
+    "transcription": "ashi",
+    "type": "word"
+  },
+  {
+    "id": "knee",
+    "word": "膝",
+    "transcription": "hiza",
+    "type": "word"
+  },
+  {
+    "id": "foot",
+    "word": "足",
+    "transcription": "ashi",
+    "type": "word"
+  },
+  {
+    "id": "toe",
+    "word": "つま先",
+    "transcription": "tsumasaki",
+    "type": "word"
+  },
+  {
+    "id": "skin",
+    "word": "肌",
+    "transcription": "hada",
+    "type": "word"
+  },
+  {
+    "id": "hair",
+    "word": "髪",
+    "transcription": "kami",
+    "type": "word"
+  },
+  {
+    "id": "heart",
+    "word": "心臓",
+    "transcription": "shinzou",
+    "type": "word"
+  },
+  {
+    "id": "brain",
+    "word": "脳",
+    "transcription": "nou",
+    "type": "word"
+  },
+  {
+    "id": "blood",
+    "word": "血",
+    "transcription": "chi",
+    "type": "word"
+  },
+  {
+    "id": "bone",
+    "word": "骨",
+    "transcription": "hone",
+    "type": "word"
+  },
+  {
+    "id": "muscle",
+    "word": "筋",
+    "transcription": "suji",
+    "type": "word"
+  },
+  {
+    "id": "throat",
+    "word": "喉",
+    "transcription": "nodo",
+    "type": "word"
+  }
+]

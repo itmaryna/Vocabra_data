@@ -1,0 +1,302 @@
+[
+  {
+    "id": "be",
+    "word": "なれ",
+    "transcription": "nare",
+    "type": "verb"
+  },
+  {
+    "id": "have",
+    "word": "持っている",
+    "transcription": "motte iru",
+    "type": "verb"
+  },
+  {
+    "id": "do",
+    "word": "する",
+    "transcription": "suru",
+    "type": "verb"
+  },
+  {
+    "id": "say",
+    "word": "言う",
+    "transcription": "iu",
+    "type": "verb"
+  },
+  {
+    "id": "go",
+    "word": "行く",
+    "transcription": "iku",
+    "type": "verb"
+  },
+  {
+    "id": "get",
+    "word": "得る",
+    "transcription": "eru",
+    "type": "verb"
+  },
+  {
+    "id": "make",
+    "word": "作る",
+    "transcription": "tsukuru",
+    "type": "verb"
+  },
+  {
+    "id": "know",
+    "word": "知る",
+    "transcription": "shiru",
+    "type": "verb"
+  },
+  {
+    "id": "think",
+    "word": "考える",
+    "transcription": "kangaeru",
+    "type": "verb"
+  },
+  {
+    "id": "take",
+    "word": "取る",
+    "transcription": "toru",
+    "type": "verb"
+  },
+  {
+    "id": "see",
+    "word": "見る",
+    "transcription": "miru",
+    "type": "verb"
+  },
+  {
+    "id": "come",
+    "word": "来る",
+    "transcription": "kuru",
+    "type": "verb"
+  },
+  {
+    "id": "want",
+    "word": "欲しい",
+    "transcription": "hoshii",
+    "type": "verb"
+  },
+  {
+    "id": "look",
+    "word": "見て",
+    "transcription": "mite",
+    "type": "verb"
+  },
+  {
+    "id": "use",
+    "word": "使用",
+    "transcription": "shiyou",
+    "type": "verb"
+  },
+  {
+    "id": "find",
+    "word": "探す",
+    "transcription": "sagasu",
+    "type": "verb"
+  },
+  {
+    "id": "give",
+    "word": "与える",
+    "transcription": "ataeru",
+    "type": "verb"
+  },
+  {
+    "id": "tell",
+    "word": "教えて",
+    "transcription": "oshiete",
+    "type": "verb"
+  },
+  {
+    "id": "work",
+    "word": "仕事",
+    "transcription": "shigoto",
+    "type": "verb"
+  },
+  {
+    "id": "call",
+    "word": "電話",
+    "transcription": "denwa",
+    "type": "verb"
+  },
+  {
+    "id": "try",
+    "word": "試す",
+    "transcription": "tamesu",
+    "type": "verb"
+  },
+  {
+    "id": "ask",
+    "word": "聞く",
+    "transcription": "kiku",
+    "type": "verb"
+  },
+  {
+    "id": "need",
+    "word": "必要",
+    "transcription": "hitsuyou",
+    "type": "verb"
+  },
+  {
+    "id": "feel",
+    "word": "感じる",
+    "transcription": "kanjiru",
+    "type": "verb"
+  },
+  {
+    "id": "become",
+    "word": "なる",
+    "transcription": "naru",
+    "type": "verb"
+  },
+  {
+    "id": "leave",
+    "word": "離れる",
+    "transcription": "hanareru",
+    "type": "verb"
+  },
+  {
+    "id": "put",
+    "word": "置く",
+    "transcription": "oku",
+    "type": "verb"
+  },
+  {
+    "id": "mean",
+    "word": "平均",
+    "transcription": "heikin",
+    "type": "verb"
+  },
+  {
+    "id": "keep",
+    "word": "保つ",
+    "transcription": "tamotsu",
+    "type": "verb"
+  },
+  {
+    "id": "let",
+    "word": "させて",
+    "transcription": "sa sete",
+    "type": "verb"
+  },
+  {
+    "id": "begin",
+    "word": "始める",
+    "transcription": "hajimeru",
+    "type": "verb"
+  },
+  {
+    "id": "seem",
+    "word": "思われる",
+    "transcription": "omowareru",
+    "type": "verb"
+  },
+  {
+    "id": "help",
+    "word": "ヘルプ",
+    "transcription": "herupu",
+    "type": "verb"
+  },
+  {
+    "id": "talk",
+    "word": "話す",
+    "transcription": "hanasu",
+    "type": "verb"
+  },
+  {
+    "id": "turn",
+    "word": "振り向く",
+    "transcription": "furimuku",
+    "type": "verb"
+  },
+  {
+    "id": "start",
+    "word": "始める",
+    "transcription": "hajimeru",
+    "type": "verb"
+  },
+  {
+    "id": "show",
+    "word": "見せる",
+    "transcription": "miseru",
+    "type": "verb"
+  },
+  {
+    "id": "hear",
+    "word": "聞く",
+    "transcription": "kiku",
+    "type": "verb"
+  },
+  {
+    "id": "play",
+    "word": "遊ぶ",
+    "transcription": "asobu",
+    "type": "verb"
+  },
+  {
+    "id": "run",
+    "word": "走る",
+    "transcription": "hashiru",
+    "type": "verb"
+  },
+  {
+    "id": "move",
+    "word": "動く",
+    "transcription": "ugoku",
+    "type": "verb"
+  },
+  {
+    "id": "live",
+    "word": "ライブ",
+    "transcription": "raibu",
+    "type": "verb"
+  },
+  {
+    "id": "believe",
+    "word": "信じる",
+    "transcription": "shinjiru",
+    "type": "verb"
+  },
+  {
+    "id": "bring",
+    "word": "持ってくる",
+    "transcription": "motte kuru",
+    "type": "verb"
+  },
+  {
+    "id": "happen",
+    "word": "起こる",
+    "transcription": "okoru",
+    "type": "verb"
+  },
+  {
+    "id": "write",
+    "word": "書く",
+    "transcription": "kaku",
+    "type": "verb"
+  },
+  {
+    "id": "sit",
+    "word": "座る",
+    "transcription": "suwaru",
+    "type": "verb"
+  },
+  {
+    "id": "stand",
+    "word": "立つ",
+    "transcription": "tatsu",
+    "type": "verb"
+  },
+  {
+    "id": "lose",
+    "word": "失う",
+    "transcription": "ushinau",
+    "type": "verb"
+  },
+  {
+    "id": "pay",
+    "word": "支払う",
+    "transcription": "shiharau",
+    "type": "verb"
+  }
+]

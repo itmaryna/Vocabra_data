@@ -1,0 +1,278 @@
+[
+  {
+    "id": "celebration",
+    "word": "お祝い",
+    "transcription": "oiwai",
+    "type": "word"
+  },
+  {
+    "id": "party",
+    "word": "パーティー",
+    "transcription": "paatii",
+    "type": "word"
+  },
+  {
+    "id": "fun",
+    "word": "楽しい",
+    "transcription": "tanoshii",
+    "type": "word"
+  },
+  {
+    "id": "happy",
+    "word": "ハッピー",
+    "transcription": "happii",
+    "type": "word"
+  },
+  {
+    "id": "birthday",
+    "word": "誕生日",
+    "transcription": "tanjoubi",
+    "type": "word"
+  },
+  {
+    "id": "wedding",
+    "word": "結婚式",
+    "transcription": "kekkonshiki",
+    "type": "word"
+  },
+  {
+    "id": "holiday",
+    "word": "休日",
+    "transcription": "kyuujitsu",
+    "type": "word"
+  },
+  {
+    "id": "festival",
+    "word": "祭り",
+    "transcription": "matsuri",
+    "type": "word"
+  },
+  {
+    "id": "music",
+    "word": "音楽",
+    "transcription": "ongaku",
+    "type": "word"
+  },
+  {
+    "id": "dance",
+    "word": "ダンス",
+    "transcription": "dansu",
+    "type": "word"
+  },
+  {
+    "id": "sing",
+    "word": "歌う",
+    "transcription": "utau",
+    "type": "word"
+  },
+  {
+    "id": "song",
+    "word": "歌",
+    "transcription": "uta",
+    "type": "word"
+  },
+  {
+    "id": "gift",
+    "word": "贈り物",
+    "transcription": "okurimono",
+    "type": "word"
+  },
+  {
+    "id": "present",
+    "word": "プレゼント",
+    "transcription": "purezento",
+    "type": "word"
+  },
+  {
+    "id": "cake",
+    "word": "ケーキ",
+    "transcription": "keeki",
+    "type": "word"
+  },
+  {
+    "id": "balloon",
+    "word": "バルーン",
+    "transcription": "baruun",
+    "type": "word"
+  },
+  {
+    "id": "fireworks",
+    "word": "花火",
+    "transcription": "hanabi",
+    "type": "word"
+  },
+  {
+    "id": "laughter",
+    "word": "笑い",
+    "transcription": "warai",
+    "type": "word"
+  },
+  {
+    "id": "smile",
+    "word": "笑顔",
+    "transcription": "egao",
+    "type": "word"
+  },
+  {
+    "id": "friends",
+    "word": "友達",
+    "transcription": "tomodachi",
+    "type": "word"
+  },
+  {
+    "id": "family",
+    "word": "家族",
+    "transcription": "kazoku",
+    "type": "word"
+  },
+  {
+    "id": "enjoy",
+    "word": "楽しむ",
+    "transcription": "tanoshimu",
+    "type": "word"
+  },
+  {
+    "id": "have_fun",
+    "word": "楽しむ",
+    "transcription": "tanoshimu",
+    "type": "phrase"
+  },
+  {
+    "id": "good_time",
+    "word": "良い時間です",
+    "transcription": "yoi jikandesu",
+    "type": "phrase"
+  },
+  {
+    "id": "great_time",
+    "word": "素晴らしい時間",
+    "transcription": "subarashii jikan",
+    "type": "phrase"
+  },
+  {
+    "id": "dance_party",
+    "word": "ダンスパーティー",
+    "transcription": "dansupaatii",
+    "type": "phrase"
+  },
+  {
+    "id": "music_party",
+    "word": "音楽パーティー",
+    "transcription": "ongaku paatii",
+    "type": "phrase"
+  },
+  {
+    "id": "birthday_party",
+    "word": "誕生日パーティー",
+    "transcription": "tanjoubi paatii",
+    "type": "phrase"
+  },
+  {
+    "id": "surprise_party",
+    "word": "サプライズパーティー",
+    "transcription": "sapuraizupaatii",
+    "type": "phrase"
+  },
+  {
+    "id": "celebrate",
+    "word": "祝う",
+    "transcription": "iwau",
+    "type": "word"
+  },
+  {
+    "id": "cheers",
+    "word": "乾杯",
+    "transcription": "kanpai",
+    "type": "word"
+  },
+  {
+    "id": "toast",
+    "word": "トースト",
+    "transcription": "tousuto",
+    "type": "word"
+  },
+  {
+    "id": "drink",
+    "word": "飲む",
+    "transcription": "nomu",
+    "type": "word"
+  },
+  {
+    "id": "eat",
+    "word": "食べる",
+    "transcription": "taberu",
+    "type": "word"
+  },
+  {
+    "id": "food",
+    "word": "食べ物",
+    "transcription": "tabemono",
+    "type": "word"
+  },
+  {
+    "id": "sweet",
+    "word": "甘い",
+    "transcription": "amai",
+    "type": "word"
+  },
+  {
+    "id": "cake_sweet",
+    "word": "ケーキ",
+    "transcription": "keeki",
+    "type": "word"
+  },
+  {
+    "id": "ice_cream",
+    "word": "アイスクリーム",
+    "transcription": "aisukuriimu",
+    "type": "phrase"
+  },
+  {
+    "id": "cookies",
+    "word": "クッキー",
+    "transcription": "kukkii",
+    "type": "word"
+  },
+  {
+    "id": "chocolate",
+    "word": "チョコレート",
+    "transcription": "chokoreeto",
+    "type": "word"
+  },
+  {
+    "id": "games",
+    "word": "ゲーム",
+    "transcription": "geemu",
+    "type": "word"
+  },
+  {
+    "id": "play",
+    "word": "遊ぶ",
+    "transcription": "asobu",
+    "type": "word"
+  },
+  {
+    "id": "happy_people",
+    "word": "幸せな人たち",
+    "transcription": "shiawasena hito-tachi",
+    "type": "phrase"
+  },
+  {
+    "id": "smiling_people",
+    "word": "笑顔の人々",
+    "transcription": "egao no hitobito",
+    "type": "phrase"
+  },
+  {
+    "id": "night_party",
+    "word": "夜のパーティー",
+    "transcription": "yoru no paatii",
+    "type": "phrase"
+  },
+  {
+    "id": "dance_music",
+    "word": "ダンスミュージック",
+    "transcription": "dansumyuujikku",
+    "type": "phrase"
+  }
+]

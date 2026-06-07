@@ -1,0 +1,296 @@
+[
+  {
+    "id": "coffee",
+    "word": "コーヒー",
+    "transcription": "kouhii",
+    "type": "word"
+  },
+  {
+    "id": "tea",
+    "word": "お茶",
+    "transcription": "ocha",
+    "type": "word"
+  },
+  {
+    "id": "sweets",
+    "word": "お菓子",
+    "transcription": "okashi",
+    "type": "word"
+  },
+  {
+    "id": "hot_coffee",
+    "word": "ホットコーヒー",
+    "transcription": "hottokouhii",
+    "type": "phrase"
+  },
+  {
+    "id": "iced_coffee",
+    "word": "アイスコーヒー",
+    "transcription": "aisukouhii",
+    "type": "phrase"
+  },
+  {
+    "id": "black_coffee",
+    "word": "ブラックコーヒー",
+    "transcription": "burakkukouhii",
+    "type": "phrase"
+  },
+  {
+    "id": "coffee_with_milk",
+    "word": "ミルク入りコーヒー",
+    "transcription": "miruku-iri kouhii",
+    "type": "phrase"
+  },
+  {
+    "id": "espresso",
+    "word": "エスプレッソ",
+    "transcription": "esupuresso",
+    "type": "word"
+  },
+  {
+    "id": "latte",
+    "word": "ラテ",
+    "transcription": "rate",
+    "type": "word"
+  },
+  {
+    "id": "cappuccino",
+    "word": "カプチーノ",
+    "transcription": "kapuchiino",
+    "type": "word"
+  },
+  {
+    "id": "americano",
+    "word": "アメリカーノ",
+    "transcription": "amerikaano",
+    "type": "word"
+  },
+  {
+    "id": "hot_tea",
+    "word": "熱いお茶",
+    "transcription": "atsui ocha",
+    "type": "phrase"
+  },
+  {
+    "id": "green_tea",
+    "word": "緑茶",
+    "transcription": "ryokucha",
+    "type": "phrase"
+  },
+  {
+    "id": "black_tea",
+    "word": "紅茶",
+    "transcription": "koucha",
+    "type": "phrase"
+  },
+  {
+    "id": "herbal_tea",
+    "word": "ハーブティー",
+    "transcription": "haabutii",
+    "type": "phrase"
+  },
+  {
+    "id": "milk_tea",
+    "word": "ミルクティー",
+    "transcription": "mirukutii",
+    "type": "phrase"
+  },
+  {
+    "id": "sweet_tea",
+    "word": "甘いお茶",
+    "transcription": "amai ocha",
+    "type": "phrase"
+  },
+  {
+    "id": "no_sugar",
+    "word": "砂糖なし",
+    "transcription": "satou nashi",
+    "type": "phrase"
+  },
+  {
+    "id": "with_sugar",
+    "word": "砂糖入り",
+    "transcription": "satou-iri",
+    "type": "phrase"
+  },
+  {
+    "id": "no_milk",
+    "word": "牛乳がない",
+    "transcription": "gyuunyuu ga nai",
+    "type": "phrase"
+  },
+  {
+    "id": "with_milk",
+    "word": "牛乳入り",
+    "transcription": "gyuunyuu-iri",
+    "type": "phrase"
+  },
+  {
+    "id": "extra_sugar",
+    "word": "余分な砂糖",
+    "transcription": "yobun'na satou",
+    "type": "phrase"
+  },
+  {
+    "id": "hot_drink",
+    "word": "ホットドリンク",
+    "transcription": "hottodorinku",
+    "type": "phrase"
+  },
+  {
+    "id": "cold_drink",
+    "word": "冷たい飲み物",
+    "transcription": "tsumetai nomimono",
+    "type": "phrase"
+  },
+  {
+    "id": "cup",
+    "word": "カップ",
+    "transcription": "kappu",
+    "type": "word"
+  },
+  {
+    "id": "mug",
+    "word": "マグ",
+    "transcription": "magu",
+    "type": "word"
+  },
+  {
+    "id": "glass",
+    "word": "ガラス",
+    "transcription": "garasu",
+    "type": "word"
+  },
+  {
+    "id": "menu",
+    "word": "メニュー",
+    "transcription": "menyuu",
+    "type": "word"
+  },
+  {
+    "id": "order",
+    "word": "注文",
+    "transcription": "chuumon",
+    "type": "word"
+  },
+  {
+    "id": "i_want_coffee",
+    "word": "コーヒーが欲しいです",
+    "transcription": "kouhii ga hoshiidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_want_tea",
+    "word": "お茶が欲しいです",
+    "transcription": "ocha ga hoshiidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "please_coffee",
+    "word": "コーヒーをください",
+    "transcription": "kouhii o kudasai",
+    "type": "phrase"
+  },
+  {
+    "id": "please_tea",
+    "word": "お茶をください",
+    "transcription": "ocha o kudasai",
+    "type": "phrase"
+  },
+  {
+    "id": "i_want_something_sweet",
+    "word": "甘いものが欲しいです",
+    "transcription": "amaimono ga hoshiidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "cake",
+    "word": "ケーキ",
+    "transcription": "keeki",
+    "type": "word"
+  },
+  {
+    "id": "chocolate",
+    "word": "チョコレート",
+    "transcription": "chokoreeto",
+    "type": "word"
+  },
+  {
+    "id": "cookie",
+    "word": "クッキー",
+    "transcription": "kukkii",
+    "type": "word"
+  },
+  {
+    "id": "ice_cream",
+    "word": "アイスクリーム",
+    "transcription": "aisukuriimu",
+    "type": "phrase"
+  },
+  {
+    "id": "donut",
+    "word": "ドーナツ",
+    "transcription": "dounatsu",
+    "type": "word"
+  },
+  {
+    "id": "croissant",
+    "word": "クロワッサン",
+    "transcription": "kurowassan",
+    "type": "word"
+  },
+  {
+    "id": "sweet",
+    "word": "甘い",
+    "transcription": "amai",
+    "type": "word"
+  },
+  {
+    "id": "sugar",
+    "word": "砂糖",
+    "transcription": "satou",
+    "type": "word"
+  },
+  {
+    "id": "milk",
+    "word": "牛乳",
+    "transcription": "gyuunyuu",
+    "type": "word"
+  },
+  {
+    "id": "tasty",
+    "word": "美味しい",
+    "transcription": "oishii",
+    "type": "word"
+  },
+  {
+    "id": "delicious",
+    "word": "美味しい",
+    "transcription": "oishii",
+    "type": "word"
+  },
+  {
+    "id": "bill_please",
+    "word": "お勘定お願いします",
+    "transcription": "o kanjou onegaishimasu",
+    "type": "phrase"
+  },
+  {
+    "id": "takeaway",
+    "word": "持ち帰り",
+    "transcription": "mochikaeri",
+    "type": "word"
+  },
+  {
+    "id": "sit_here",
+    "word": "ここに座ってください",
+    "transcription": "koko ni suwatte kudasai",
+    "type": "phrase"
+  },
+  {
+    "id": "to_go",
+    "word": "持ち帰り",
+    "transcription": "mochikaeri",
+    "type": "phrase"
+  }
+]

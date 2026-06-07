@@ -1,0 +1,302 @@
+[
+  {
+    "id": "money",
+    "word": "お金",
+    "transcription": "okane",
+    "type": "word"
+  },
+  {
+    "id": "cash",
+    "word": "現金",
+    "transcription": "genkin",
+    "type": "word"
+  },
+  {
+    "id": "wallet",
+    "word": "財布",
+    "transcription": "saifu",
+    "type": "word"
+  },
+  {
+    "id": "bank",
+    "word": "銀行",
+    "transcription": "ginkou",
+    "type": "word"
+  },
+  {
+    "id": "bank_account",
+    "word": "銀行口座",
+    "transcription": "ginkou kouza",
+    "type": "phrase"
+  },
+  {
+    "id": "credit_card",
+    "word": "クレジットカード",
+    "transcription": "kurejittokaado",
+    "type": "phrase"
+  },
+  {
+    "id": "debit_card",
+    "word": "デビットカード",
+    "transcription": "debittokaado",
+    "type": "phrase"
+  },
+  {
+    "id": "atm",
+    "word": "ATM",
+    "transcription": "ei ti emu",
+    "type": "word"
+  },
+  {
+    "id": "loan",
+    "word": "ローン",
+    "transcription": "roun",
+    "type": "word"
+  },
+  {
+    "id": "mortgage",
+    "word": "モーゲージ",
+    "transcription": "mougeeji",
+    "type": "word"
+  },
+  {
+    "id": "debt",
+    "word": "借金",
+    "transcription": "shakkin",
+    "type": "word"
+  },
+  {
+    "id": "salary",
+    "word": "給料",
+    "transcription": "kyuuryou",
+    "type": "word"
+  },
+  {
+    "id": "income",
+    "word": "所得",
+    "transcription": "shotoku",
+    "type": "word"
+  },
+  {
+    "id": "expense",
+    "word": "費用",
+    "transcription": "hiyou",
+    "type": "word"
+  },
+  {
+    "id": "budget",
+    "word": "予算",
+    "transcription": "yosan",
+    "type": "word"
+  },
+  {
+    "id": "save_money",
+    "word": "お金を節約する",
+    "transcription": "okane o setsuyaku suru",
+    "type": "phrase"
+  },
+  {
+    "id": "spend_money",
+    "word": "お金を使う",
+    "transcription": "okane o tsukau",
+    "type": "phrase"
+  },
+  {
+    "id": "invest",
+    "word": "投資する",
+    "transcription": "toushi suru",
+    "type": "verb"
+  },
+  {
+    "id": "investment",
+    "word": "投資",
+    "transcription": "toushi",
+    "type": "word"
+  },
+  {
+    "id": "stock",
+    "word": "株",
+    "transcription": "kabu",
+    "type": "word"
+  },
+  {
+    "id": "shares",
+    "word": "株式",
+    "transcription": "kabushiki",
+    "type": "word"
+  },
+  {
+    "id": "bond",
+    "word": "債券",
+    "transcription": "saiken",
+    "type": "word"
+  },
+  {
+    "id": "cryptocurrency",
+    "word": "暗号通貨",
+    "transcription": "angou tsuuka",
+    "type": "word"
+  },
+  {
+    "id": "bitcoin",
+    "word": "ビットコイン",
+    "transcription": "bitto koin",
+    "type": "word"
+  },
+  {
+    "id": "interest",
+    "word": "利息",
+    "transcription": "risoku",
+    "type": "word"
+  },
+  {
+    "id": "profit",
+    "word": "利益",
+    "transcription": "rieki",
+    "type": "word"
+  },
+  {
+    "id": "loss",
+    "word": "損失",
+    "transcription": "sonshitsu",
+    "type": "word"
+  },
+  {
+    "id": "tax",
+    "word": "税",
+    "transcription": "zei",
+    "type": "word"
+  },
+  {
+    "id": "insurance",
+    "word": "保険",
+    "transcription": "hoken",
+    "type": "word"
+  },
+  {
+    "id": "payment",
+    "word": "支払い",
+    "transcription": "shiharai",
+    "type": "word"
+  },
+  {
+    "id": "transfer",
+    "word": "移行",
+    "transcription": "ikou",
+    "type": "word"
+  },
+  {
+    "id": "exchange_rate",
+    "word": "為替レート",
+    "transcription": "kawase reeto",
+    "type": "phrase"
+  },
+  {
+    "id": "currency",
+    "word": "通貨",
+    "transcription": "tsuuka",
+    "type": "word"
+  },
+  {
+    "id": "dollar",
+    "word": "ドル",
+    "transcription": "doru",
+    "type": "word"
+  },
+  {
+    "id": "euro",
+    "word": "ユーロ",
+    "transcription": "yuuro",
+    "type": "word"
+  },
+  {
+    "id": "shekel",
+    "word": "シェケル",
+    "transcription": "shekeru",
+    "type": "word"
+  },
+  {
+    "id": "price",
+    "word": "価格",
+    "transcription": "kakaku",
+    "type": "word"
+  },
+  {
+    "id": "cheap",
+    "word": "安い",
+    "transcription": "yasui",
+    "type": "word"
+  },
+  {
+    "id": "expensive",
+    "word": "高い",
+    "transcription": "takai",
+    "type": "word"
+  },
+  {
+    "id": "receipt",
+    "word": "レシート",
+    "transcription": "reshiito",
+    "type": "word"
+  },
+  {
+    "id": "bill",
+    "word": "請求書",
+    "transcription": "seikyuu-sho",
+    "type": "word"
+  },
+  {
+    "id": "buy",
+    "word": "買う",
+    "transcription": "kau",
+    "type": "verb"
+  },
+  {
+    "id": "sell",
+    "word": "売る",
+    "transcription": "uru",
+    "type": "verb"
+  },
+  {
+    "id": "market",
+    "word": "市場",
+    "transcription": "ichiba",
+    "type": "word"
+  },
+  {
+    "id": "financial_freedom",
+    "word": "経済的自由",
+    "transcription": "keizai-teki jiyuu",
+    "type": "phrase"
+  },
+  {
+    "id": "retirement",
+    "word": "退職",
+    "transcription": "taishoku",
+    "type": "word"
+  },
+  {
+    "id": "business",
+    "word": "仕事",
+    "transcription": "shigoto",
+    "type": "word"
+  },
+  {
+    "id": "side_income",
+    "word": "副収入",
+    "transcription": "fuku shuunyuu",
+    "type": "phrase"
+  },
+  {
+    "id": "financial_risk",
+    "word": "財務リスク",
+    "transcription": "zaimu risuku",
+    "type": "phrase"
+  },
+  {
+    "id": "wealth",
+    "word": "富",
+    "transcription": "tomi",
+    "type": "word"
+  }
+]

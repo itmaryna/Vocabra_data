@@ -1,0 +1,614 @@
+[
+  {
+    "id": "what",
+    "word": "何",
+    "transcription": "nani",
+    "type": "question"
+  },
+  {
+    "id": "who",
+    "word": "誰が",
+    "transcription": "dare ga",
+    "type": "question"
+  },
+  {
+    "id": "where",
+    "word": "どこ",
+    "transcription": "doko",
+    "type": "question"
+  },
+  {
+    "id": "when",
+    "word": "いつ",
+    "transcription": "itsu",
+    "type": "question"
+  },
+  {
+    "id": "why",
+    "word": "なぜ",
+    "transcription": "naze",
+    "type": "question"
+  },
+  {
+    "id": "how",
+    "word": "どうやって",
+    "transcription": "dou yatte",
+    "type": "question"
+  },
+  {
+    "id": "which",
+    "word": "どれの",
+    "transcription": "dore no",
+    "type": "question"
+  },
+  {
+    "id": "whose",
+    "word": "だれの",
+    "transcription": "dare no",
+    "type": "question"
+  },
+  {
+    "id": "how_many",
+    "word": "幾つか",
+    "transcription": "ikutsu ka",
+    "type": "question"
+  },
+  {
+    "id": "how_much",
+    "word": "いくら",
+    "transcription": "ikura",
+    "type": "question"
+  },
+  {
+    "id": "what_is_this",
+    "word": "これは何ですか？",
+    "transcription": "korehanandesuka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_is_that",
+    "word": "それは何ですか？",
+    "transcription": "sorehanandesuka?",
+    "type": "phrase"
+  },
+  {
+    "id": "who_are_you",
+    "word": "あなたは誰ですか？",
+    "transcription": "anatahadaredesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_are_you",
+    "word": "どこにいるの？",
+    "transcription": "doko ni iru no?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_do_you_live",
+    "word": "どこに住んでいますか？",
+    "transcription": "doko ni sunde imasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_are_you_from",
+    "word": "どこの出身ですか？",
+    "transcription": "doko no shusshindesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_is_your_name",
+    "word": "あなたの名前は何ですか？",
+    "transcription": "anata no namae wa nanidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_old_are_you",
+    "word": "何歳ですか？",
+    "transcription": "nan-saidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_do_you_do",
+    "word": "職業はなんですか？",
+    "transcription": "shokugyou wa nandesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_time_is_it",
+    "word": "今何時ですか？",
+    "transcription": "imananjidesuka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_day_is_today",
+    "word": "今日は何曜日ですか？",
+    "transcription": "kyou wa nan'youbidesuka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_date_is_today",
+    "word": "今日は何の日ですか?",
+    "transcription": "kyouhanan'nohidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "when_is_your_birthday",
+    "word": "あなたの誕生日はいつですか？",
+    "transcription": "anata no tanjoubi wa itsudesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_are_you",
+    "word": "元気ですか？",
+    "transcription": "genkidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_do_you_feel",
+    "word": "気分はどうですか？",
+    "transcription": "kibun wa doudesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "why_are_you_here",
+    "word": "なぜここにいるのですか？",
+    "transcription": "naze koko ni iru nodesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_you_help_me",
+    "word": "手伝ってもらえますか？",
+    "transcription": "tetsudatte moraemasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_i_help_you",
+    "word": "いかがなさいましたか？",
+    "transcription": "ikaga nasaimashita ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "do_you_understand",
+    "word": "わかりますか？",
+    "transcription": "wakarimasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_you_repeat",
+    "word": "それを繰り返してもらえますか？",
+    "transcription": "sore o kurikaeshite moraemasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_you_speak_slowly",
+    "word": "ゆっくり話してもらえますか？",
+    "transcription": "yukkuri hanashite moraemasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_does_it_mean",
+    "word": "それはどういう意味ですか？",
+    "transcription": "sore wa douiu imidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_do_you_say_this",
+    "word": "これはなんと言いますか？",
+    "transcription": "kore wa nanto iimasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_you_write_it",
+    "word": "書いてもらえますか？",
+    "transcription": "kaite moraemasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_is_the_bathroom",
+    "word": "化粧室はどこですか？",
+    "transcription": "keshou-shitsu wa dokodesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_is_the_hotel",
+    "word": "ホテルはどこですか？",
+    "transcription": "hoteru wa dokodesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_is_the_station",
+    "word": "駅はどこですか？",
+    "transcription": "eki wa dokodesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_is_the_airport",
+    "word": "空港はどこですか?",
+    "transcription": "kuukou wa dokodesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_can_i_buy_food",
+    "word": "食べ物はどこで買えますか?",
+    "transcription": "tabemono wa doko de kaemasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_far_is_it",
+    "word": "どのくらいの距離ですか？",
+    "transcription": "dono kurai no kyoridesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_long_does_it_take",
+    "word": "どのくらいかかりますか？",
+    "transcription": "dono kurai kakarimasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "is_it_open",
+    "word": "開いていますか？",
+    "transcription": "aiteimasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_time_does_it_open",
+    "word": "何時に開きますか？",
+    "transcription": "nanji ni hirakimasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_time_does_it_close",
+    "word": "何時に閉まりますか？",
+    "transcription": "nanji ni shimarimasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_much_is_it",
+    "word": "いくらですか？",
+    "transcription": "ikuradesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "do_you_accept_cards",
+    "word": "カードは使えますか？",
+    "transcription": "kaado wa tsukaemasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_i_pay_by_card",
+    "word": "カードで支払うことはできますか?",
+    "transcription": "kaado de shiharau koto wa dekimasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "do_you_have_wifi",
+    "word": "Wi-Fiはありますか？",
+    "transcription": "waifai wa arimasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_is_the_password",
+    "word": "パスワードは何ですか?",
+    "transcription": "pasuwaado wa nanidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_i_take_a_picture",
+    "word": "写真を撮ってもいいですか？",
+    "transcription": "shashin o totte mo iidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "are_you_busy",
+    "word": "あなたは忙しいですか？",
+    "transcription": "anata wa isogashiidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "are_you_okay",
+    "word": "大丈夫ですか？",
+    "transcription": "daijoubudesuka?",
+    "type": "phrase"
+  },
+  {
+    "id": "are_you_sure",
+    "word": "本気ですか？",
+    "transcription": "honkidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_happened",
+    "word": "どうしたの？",
+    "transcription": "dou shita no?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_are_you_doing",
+    "word": "何してるの？",
+    "transcription": "nanishiteruno?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_are_you_thinking_about",
+    "word": "何を考えていますか?",
+    "transcription": "nani o kangaete imasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_do_you_like",
+    "word": "あなたは何が好きですか？",
+    "transcription": "anata wa nani ga sukidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_is_your_favorite_food",
+    "word": "あなたの好きな食べ物は何ですか?",
+    "transcription": "anata no sukinatabemono wa nanidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_music_do_you_like",
+    "word": "どのような音楽が好きですか?",
+    "transcription": "dono youna ongaku ga sukidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_movies_do_you_like",
+    "word": "どのような映画が好きですか?",
+    "transcription": "dono youna eiga ga sukidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_is_your_job",
+    "word": "あなたの仕事は何ですか？",
+    "transcription": "anata no shigoto wa nanidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "do_you_speak_english",
+    "word": "あなたは英語を話しますか？",
+    "transcription": "anata wa eigo o hanashimasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "do_you_speak_spanish",
+    "word": "あなたはスペイン語を話しますか？",
+    "transcription": "anata wa supeingo o hanashimasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "do_you_speak_hebrew",
+    "word": "ヘブライ語を話せますか？",
+    "transcription": "heburai-go o hanasemasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "do_you_speak_ukrainian",
+    "word": "ウクライナ語を話せますか？",
+    "transcription": "ukuraina-go o hanasemasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_you_show_me",
+    "word": "見せてもらえますか？",
+    "transcription": "misete moraemasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_you_call_me",
+    "word": "電話してもらえますか？",
+    "transcription": "denwa shite moraemasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_you_wait",
+    "word": "待って頂けますか？",
+    "transcription": "matte itadakemasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "why_not",
+    "word": "なぜだめですか？",
+    "transcription": "naze damedesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_now",
+    "word": "今は何ですか？",
+    "transcription": "ima wa nanidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_next",
+    "word": "次は何でしょうか？",
+    "transcription": "tsugi wa nanideshou ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "who_is_that",
+    "word": "それは誰ですか？",
+    "transcription": "sore wa daredesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "whose_bag_is_this",
+    "word": "これは誰のバッグですか？",
+    "transcription": "kore wa dare no baggudesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "which_one",
+    "word": "どれ？",
+    "transcription": "dore?",
+    "type": "phrase"
+  },
+  {
+    "id": "which_color_do_you_like",
+    "word": "どの色が好きですか？",
+    "transcription": "dono-iro ga sukidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_was_your_day",
+    "word": "あなたの一日はどうでした？",
+    "transcription": "anata no tsuitachi wa doudeshita?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_is_work",
+    "word": "仕事はどうですか？",
+    "transcription": "shigoto wa doudesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_is_school",
+    "word": "学校はどうですか？",
+    "transcription": "gakkou wa doudesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_is_your_family",
+    "word": "あなたの家族は元気ですか？",
+    "transcription": "anata no kazoku wa genkidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "when_will_you_arrive",
+    "word": "いつ到着しますか？",
+    "transcription": "itsu touchaku shimasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "when_do_we_leave",
+    "word": "いつ出発しますか？",
+    "transcription": "itsu shuppatsu shimasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_should_we_meet",
+    "word": "どこで会いましょう？",
+    "transcription": "doko de aimashou?",
+    "type": "phrase"
+  },
+  {
+    "id": "why_are_you_late",
+    "word": "なぜ遅れたのですか？",
+    "transcription": "naze okureta nodesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_can_i_get_there",
+    "word": "どうすればそこに着くことができますか？",
+    "transcription": "dousureba soko ni tsuku koto ga dekimasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "is_everything_okay",
+    "word": "大丈夫ですか？",
+    "transcription": "daijoubudesuka?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_i_ask_you_something",
+    "word": "ちょっとお聞きしてもいいですか？",
+    "transcription": "chotto o kiki shite mo iidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "do_you_need_help",
+    "word": "助けが必要ですか?",
+    "transcription": "tasuke ga hitsuyoudesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_should_i_do",
+    "word": "どうすればいいですか？",
+    "transcription": "dousureba iidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_we_talk",
+    "word": "話せますか？",
+    "transcription": "hanasemasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_i_join_you",
+    "word": "参加してもいいですか？",
+    "transcription": "sanka shite mo iidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_can_i_find_a_taxi",
+    "word": "タクシーはどこで見つけられますか?",
+    "transcription": "takushii wa doko de mitsuke raremasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_can_i_charge_my_phone",
+    "word": "携帯電話はどこで充電できますか?",
+    "transcription": "geitaidenwa wa doko de juuden dekimasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "is_there_a_problem",
+    "word": "問題はありますか?",
+    "transcription": "mondai wa arimasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_you_take_a_photo",
+    "word": "写真を撮ってもらえますか？",
+    "transcription": "shashin o totte moraemasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_do_you_mean",
+    "word": "どういう意味ですか？",
+    "transcription": "douiu imidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_do_i_get_to_the_center",
+    "word": "どうすれば中心部に行けますか？",
+    "transcription": "dousureba chuushin-bu ni ikemasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_is_the_wifi_password",
+    "word": "Wi-Fiのパスワードは何ですか?",
+    "transcription": "waifai no pasuwaado wa nanidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_i_sit_here",
+    "word": "ここに座ってもいいですか？",
+    "transcription": "koko ni suwatte mo iidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "is_this_seat_taken",
+    "word": "この席は空いていますか？",
+    "transcription": "kono seki wa suite imasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "what_is_wrong",
+    "word": "なにが問題ですか？",
+    "transcription": "nani ga mondaidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "who_called_me",
+    "word": "誰が私に電話したの？",
+    "transcription": "dare ga watashi ni denwa shita no?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_do_you_spell_it",
+    "word": "綴りはどうなりますか？",
+    "transcription": "tsudzuri wa dou narimasu ka?",
+    "type": "phrase"
+  }
+]

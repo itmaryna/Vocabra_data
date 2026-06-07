@@ -1,0 +1,182 @@
+[
+  {
+    "id": "good_morning",
+    "word": "おはよう",
+    "transcription": "ohayou",
+    "type": "phrase"
+  },
+  {
+    "id": "good_evening",
+    "word": "こんばんは",
+    "transcription": "konbanwa",
+    "type": "phrase"
+  },
+  {
+    "id": "good_night",
+    "word": "おやすみ",
+    "transcription": "oyasumi",
+    "type": "phrase"
+  },
+  {
+    "id": "see_you_later",
+    "word": "また後で",
+    "transcription": "mataatode",
+    "type": "phrase"
+  },
+  {
+    "id": "how_are_you",
+    "word": "元気ですか？",
+    "transcription": "genkidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "im_fine",
+    "word": "元気です",
+    "transcription": "genkidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "whats_your_name",
+    "word": "あなたの名前は何ですか",
+    "transcription": "anata no namae wa nandesuka",
+    "type": "phrase"
+  },
+  {
+    "id": "my_name_is",
+    "word": "私の名前は",
+    "transcription": "watashinonamaeha",
+    "type": "phrase"
+  },
+  {
+    "id": "nice_to_meet_you",
+    "word": "はじめまして",
+    "transcription": "hajimemashite",
+    "type": "phrase"
+  },
+  {
+    "id": "where_are_you_from",
+    "word": "どこの出身ですか？",
+    "transcription": "doko no shusshindesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "im_from",
+    "word": "私は出身です",
+    "transcription": "watashi wa shusshindesu",
+    "type": "phrase"
+  },
+  {
+    "id": "do_you_speak_english",
+    "word": "あなたは英語を話しますか",
+    "transcription": "anata wa eigo o hanashimasu ka",
+    "type": "phrase"
+  },
+  {
+    "id": "i_dont_speak",
+    "word": "話さない",
+    "transcription": "hanasanai",
+    "type": "phrase"
+  },
+  {
+    "id": "speak_slower",
+    "word": "もう少しゆっくり話してください",
+    "transcription": "mousukoshi yukkurihanashitekudasai",
+    "type": "phrase"
+  },
+  {
+    "id": "repeat_please",
+    "word": "繰り返してください",
+    "transcription": "sourihenshite kudasai",
+    "type": "phrase"
+  },
+  {
+    "id": "how_much_is_this",
+    "word": "これはいくらですか",
+    "transcription": "kore wa ikuradesu ka",
+    "type": "phrase"
+  },
+  {
+    "id": "too_expensive",
+    "word": "高すぎる",
+    "transcription": "taka sugiru",
+    "type": "phrase"
+  },
+  {
+    "id": "thats_cheap",
+    "word": "それは安いです",
+    "transcription": "sore wa yasuidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_agree",
+    "word": "同意します",
+    "transcription": "doui shimasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_disagree",
+    "word": "私は同意しません",
+    "transcription": "watashi wa doui shimasen",
+    "type": "phrase"
+  },
+  {
+    "id": "wait_a_moment",
+    "word": "ちょっと待ってください",
+    "transcription": "chottomattekudasai",
+    "type": "phrase"
+  },
+  {
+    "id": "just_a_second",
+    "word": "ちょっと待ってください",
+    "transcription": "chottomattekudasai",
+    "type": "phrase"
+  },
+  {
+    "id": "what_time_is_it",
+    "word": "今何時ですか",
+    "transcription": "imananjidesuka",
+    "type": "phrase"
+  },
+  {
+    "id": "im_late",
+    "word": "遅刻だ",
+    "transcription": "chikokuda",
+    "type": "phrase"
+  },
+  {
+    "id": "im_early",
+    "word": "早いです",
+    "transcription": "hayaidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "lets_go",
+    "word": "さあ行こう",
+    "transcription": "saaikou",
+    "type": "phrase"
+  },
+  {
+    "id": "come_here",
+    "word": "ここに来て",
+    "transcription": "koko ni kite",
+    "type": "phrase"
+  },
+  {
+    "id": "go_away",
+    "word": "どこかに行って",
+    "transcription": "doko ka ni itte",
+    "type": "phrase"
+  },
+  {
+    "id": "be_careful",
+    "word": "気をつけて",
+    "transcription": "kiwotsukete",
+    "type": "phrase"
+  },
+  {
+    "id": "no_problem",
+    "word": "問題ない",
+    "transcription": "mondainai",
+    "type": "phrase"
+  }
+]

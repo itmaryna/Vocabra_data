@@ -1,0 +1,302 @@
+[
+  {
+    "id": "house",
+    "word": "家",
+    "transcription": "ie",
+    "type": "word"
+  },
+  {
+    "id": "apartment",
+    "word": "アパート",
+    "transcription": "apaato",
+    "type": "word"
+  },
+  {
+    "id": "room",
+    "word": "部屋",
+    "transcription": "heya",
+    "type": "word"
+  },
+  {
+    "id": "kitchen",
+    "word": "台所",
+    "transcription": "daidokoro",
+    "type": "word"
+  },
+  {
+    "id": "bathroom",
+    "word": "バスルーム",
+    "transcription": "basuruumu",
+    "type": "word"
+  },
+  {
+    "id": "bedroom",
+    "word": "寝室",
+    "transcription": "shinshitsu",
+    "type": "word"
+  },
+  {
+    "id": "living_room",
+    "word": "リビングルーム",
+    "transcription": "ribinguruumu",
+    "type": "phrase"
+  },
+  {
+    "id": "hallway",
+    "word": "廊下",
+    "transcription": "rouka",
+    "type": "word"
+  },
+  {
+    "id": "balcony",
+    "word": "バルコニー",
+    "transcription": "barukonii",
+    "type": "word"
+  },
+  {
+    "id": "garage",
+    "word": "ガレージ",
+    "transcription": "gareeji",
+    "type": "word"
+  },
+  {
+    "id": "garden",
+    "word": "庭",
+    "transcription": "niwa",
+    "type": "word"
+  },
+  {
+    "id": "door",
+    "word": "ドア",
+    "transcription": "doa",
+    "type": "word"
+  },
+  {
+    "id": "window",
+    "word": "ウィンドウ",
+    "transcription": "u~indou",
+    "type": "word"
+  },
+  {
+    "id": "wall",
+    "word": "壁",
+    "transcription": "kabe",
+    "type": "word"
+  },
+  {
+    "id": "floor",
+    "word": "床",
+    "transcription": "yuka",
+    "type": "word"
+  },
+  {
+    "id": "ceiling",
+    "word": "シーリング",
+    "transcription": "shiiringu",
+    "type": "word"
+  },
+  {
+    "id": "stairs",
+    "word": "階段",
+    "transcription": "kaidan",
+    "type": "word"
+  },
+  {
+    "id": "elevator",
+    "word": "エレベーター",
+    "transcription": "erebeetaa",
+    "type": "word"
+  },
+  {
+    "id": "table",
+    "word": "テーブル",
+    "transcription": "teeburu",
+    "type": "word"
+  },
+  {
+    "id": "chair",
+    "word": "椅子",
+    "transcription": "isu",
+    "type": "word"
+  },
+  {
+    "id": "sofa",
+    "word": "ソファー",
+    "transcription": "sofaa",
+    "type": "word"
+  },
+  {
+    "id": "bed",
+    "word": "ベッド",
+    "transcription": "beddo",
+    "type": "word"
+  },
+  {
+    "id": "desk",
+    "word": "机",
+    "transcription": "tsukue",
+    "type": "word"
+  },
+  {
+    "id": "lamp",
+    "word": "ランプ",
+    "transcription": "ranpu",
+    "type": "word"
+  },
+  {
+    "id": "mirror",
+    "word": "鏡",
+    "transcription": "kagami",
+    "type": "word"
+  },
+  {
+    "id": "carpet",
+    "word": "カーペット",
+    "transcription": "kaapetto",
+    "type": "word"
+  },
+  {
+    "id": "curtains",
+    "word": "カーテン",
+    "transcription": "kaaten",
+    "type": "word"
+  },
+  {
+    "id": "closet",
+    "word": "クローゼット",
+    "transcription": "kurouzetto",
+    "type": "word"
+  },
+  {
+    "id": "shelf",
+    "word": "棚",
+    "transcription": "tana",
+    "type": "word"
+  },
+  {
+    "id": "drawer",
+    "word": "引き出し",
+    "transcription": "hikidashi",
+    "type": "word"
+  },
+  {
+    "id": "pillow",
+    "word": "枕",
+    "transcription": "makura",
+    "type": "word"
+  },
+  {
+    "id": "blanket",
+    "word": "ブランケット",
+    "transcription": "buranketto",
+    "type": "word"
+  },
+  {
+    "id": "mattress",
+    "word": "マットレス",
+    "transcription": "mattoresu",
+    "type": "word"
+  },
+  {
+    "id": "couch",
+    "word": "ソファー",
+    "transcription": "sofaa",
+    "type": "word"
+  },
+  {
+    "id": "tv",
+    "word": "テレビ",
+    "transcription": "terebi",
+    "type": "word"
+  },
+  {
+    "id": "remote_control",
+    "word": "リモコン",
+    "transcription": "rimokon",
+    "type": "phrase"
+  },
+  {
+    "id": "refrigerator",
+    "word": "冷蔵庫",
+    "transcription": "reizouko",
+    "type": "word"
+  },
+  {
+    "id": "oven",
+    "word": "オーブン",
+    "transcription": "oubun",
+    "type": "word"
+  },
+  {
+    "id": "microwave",
+    "word": "電子レンジ",
+    "transcription": "denjirenji",
+    "type": "word"
+  },
+  {
+    "id": "sink",
+    "word": "シンク",
+    "transcription": "shinku",
+    "type": "word"
+  },
+  {
+    "id": "toilet",
+    "word": "トイレ",
+    "transcription": "toire",
+    "type": "word"
+  },
+  {
+    "id": "shower",
+    "word": "シャワー",
+    "transcription": "shawaa",
+    "type": "word"
+  },
+  {
+    "id": "bathtub",
+    "word": "バスタブ",
+    "transcription": "basu tabu",
+    "type": "word"
+  },
+  {
+    "id": "washing_machine",
+    "word": "洗濯機",
+    "transcription": "sentakki",
+    "type": "phrase"
+  },
+  {
+    "id": "dishwasher",
+    "word": "食器洗い機",
+    "transcription": "shokkiarai-ki",
+    "type": "word"
+  },
+  {
+    "id": "fan",
+    "word": "ファン",
+    "transcription": "fan",
+    "type": "word"
+  },
+  {
+    "id": "air_conditioner",
+    "word": "エアコン",
+    "transcription": "eakon",
+    "type": "phrase"
+  },
+  {
+    "id": "heater",
+    "word": "ヒータ",
+    "transcription": "hiita",
+    "type": "word"
+  },
+  {
+    "id": "light",
+    "word": "ライト",
+    "transcription": "raito",
+    "type": "word"
+  },
+  {
+    "id": "socket",
+    "word": "ソケット",
+    "transcription": "soketto",
+    "type": "word"
+  }
+]

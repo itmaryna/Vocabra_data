@@ -1,0 +1,602 @@
+[
+  {
+    "id": "hello",
+    "word": "こんにちは",
+    "transcription": "kon'nichiwa",
+    "type": "phrase"
+  },
+  {
+    "id": "hi",
+    "word": "こんにちは",
+    "transcription": "kon'nichiwa",
+    "type": "phrase"
+  },
+  {
+    "id": "good_morning",
+    "word": "おはよう",
+    "transcription": "ohayou",
+    "type": "phrase"
+  },
+  {
+    "id": "good_afternoon",
+    "word": "こんにちは",
+    "transcription": "kon'nichiwa",
+    "type": "phrase"
+  },
+  {
+    "id": "good_evening",
+    "word": "こんばんは",
+    "transcription": "konbanwa",
+    "type": "phrase"
+  },
+  {
+    "id": "good_night",
+    "word": "おやすみ",
+    "transcription": "oyasumi",
+    "type": "phrase"
+  },
+  {
+    "id": "how_are_you",
+    "word": "元気ですか？",
+    "transcription": "genkidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "im_good",
+    "word": "私は大丈夫です",
+    "transcription": "watashi wa daijoubudesu",
+    "type": "phrase"
+  },
+  {
+    "id": "im_fine",
+    "word": "元気です",
+    "transcription": "genkidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "not_bad",
+    "word": "悪くない",
+    "transcription": "warukunai",
+    "type": "phrase"
+  },
+  {
+    "id": "whats_up",
+    "word": "どうしたの？",
+    "transcription": "dou shita no?",
+    "type": "phrase"
+  },
+  {
+    "id": "nothing_much",
+    "word": "あまり何もない",
+    "transcription": "amari nanimonai",
+    "type": "phrase"
+  },
+  {
+    "id": "nice_to_meet_you",
+    "word": "はじめまして",
+    "transcription": "hajimemashite",
+    "type": "phrase"
+  },
+  {
+    "id": "same_here",
+    "word": "こっちも一緒",
+    "transcription": "kotchi mo issho",
+    "type": "phrase"
+  },
+  {
+    "id": "thank_you",
+    "word": "ありがとう",
+    "transcription": "arigatou",
+    "type": "phrase"
+  },
+  {
+    "id": "thanks",
+    "word": "ありがとう",
+    "transcription": "arigatou",
+    "type": "phrase"
+  },
+  {
+    "id": "youre_welcome",
+    "word": "どういたしまして",
+    "transcription": "douitashimashite",
+    "type": "phrase"
+  },
+  {
+    "id": "please",
+    "word": "お願いします",
+    "transcription": "onegaishimasu",
+    "type": "word"
+  },
+  {
+    "id": "excuse_me",
+    "word": "すみません",
+    "transcription": "sumimasen",
+    "type": "phrase"
+  },
+  {
+    "id": "sorry",
+    "word": "ごめん",
+    "transcription": "gomen",
+    "type": "word"
+  },
+  {
+    "id": "yes",
+    "word": "はい",
+    "transcription": "hai",
+    "type": "word"
+  },
+  {
+    "id": "no",
+    "word": "いいえ",
+    "transcription": "iie",
+    "type": "word"
+  },
+  {
+    "id": "maybe",
+    "word": "多分",
+    "transcription": "tabun",
+    "type": "word"
+  },
+  {
+    "id": "i_dont_know",
+    "word": "わからない",
+    "transcription": "wakaranai",
+    "type": "phrase"
+  },
+  {
+    "id": "i_understand",
+    "word": "わかりました",
+    "transcription": "wakarimashita",
+    "type": "phrase"
+  },
+  {
+    "id": "i_dont_understand",
+    "word": "理解できない",
+    "transcription": "rikaidekinai",
+    "type": "phrase"
+  },
+  {
+    "id": "can_you_help_me",
+    "word": "手伝ってもらえますか？",
+    "transcription": "tetsudatte moraemasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "help_me",
+    "word": "助けて",
+    "transcription": "tasukete",
+    "type": "phrase"
+  },
+  {
+    "id": "repeat_please",
+    "word": "繰り返してください",
+    "transcription": "sourihenshite kudasai",
+    "type": "phrase"
+  },
+  {
+    "id": "speak_slowly",
+    "word": "ゆっくり話す",
+    "transcription": "yukkuri hanasu",
+    "type": "phrase"
+  },
+  {
+    "id": "what_is_this",
+    "word": "これは何ですか？",
+    "transcription": "korehanandesuka?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_much",
+    "word": "いくら？",
+    "transcription": "ikura?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_is",
+    "word": "どこにありますか...？",
+    "transcription": "doko ni arimasu ka... ?",
+    "type": "phrase"
+  },
+  {
+    "id": "i_need",
+    "word": "必要です",
+    "transcription": "hitsuyoudesu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_want",
+    "word": "欲しい",
+    "transcription": "hoshii",
+    "type": "phrase"
+  },
+  {
+    "id": "i_like_it",
+    "word": "私はそれが好きです",
+    "transcription": "watashi wa sore ga sukidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_dont_like_it",
+    "word": "私はそれが気に入りません",
+    "transcription": "watashi wa sore ga kiniirimasen",
+    "type": "phrase"
+  },
+  {
+    "id": "im_tired",
+    "word": "私は疲れている",
+    "transcription": "watashi wa tsukarete iru",
+    "type": "phrase"
+  },
+  {
+    "id": "im_hungry",
+    "word": "お腹が空きました",
+    "transcription": "onaka ga akimashita",
+    "type": "phrase"
+  },
+  {
+    "id": "im_thirsty",
+    "word": "喉が渇いた",
+    "transcription": "nodo ga kawaita",
+    "type": "phrase"
+  },
+  {
+    "id": "im_happy",
+    "word": "私は幸せです",
+    "transcription": "watashi wa shiawasedesu",
+    "type": "phrase"
+  },
+  {
+    "id": "im_sad",
+    "word": "私は悲しいです",
+    "transcription": "watashi wa kanashiidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "im_angry",
+    "word": "怒っている",
+    "transcription": "ikatteiru",
+    "type": "phrase"
+  },
+  {
+    "id": "im_scared",
+    "word": "私は怖いです",
+    "transcription": "watashi wa kowaidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "im_busy",
+    "word": "私は忙しいです",
+    "transcription": "watashi wa isogashiidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "im_free",
+    "word": "私は自由だ",
+    "transcription": "watashi wa jiyuuda",
+    "type": "phrase"
+  },
+  {
+    "id": "today",
+    "word": "今日",
+    "transcription": "kyou",
+    "type": "word"
+  },
+  {
+    "id": "tomorrow",
+    "word": "明日",
+    "transcription": "ashita",
+    "type": "word"
+  },
+  {
+    "id": "yesterday",
+    "word": "昨日",
+    "transcription": "kinou",
+    "type": "word"
+  },
+  {
+    "id": "now",
+    "word": "今",
+    "transcription": "ima",
+    "type": "word"
+  },
+  {
+    "id": "later",
+    "word": "後で",
+    "transcription": "atode",
+    "type": "word"
+  },
+  {
+    "id": "morning",
+    "word": "朝",
+    "transcription": "asa",
+    "type": "word"
+  },
+  {
+    "id": "afternoon",
+    "word": "午後",
+    "transcription": "gogo",
+    "type": "word"
+  },
+  {
+    "id": "evening",
+    "word": "夕方",
+    "transcription": "yuugata",
+    "type": "word"
+  },
+  {
+    "id": "night",
+    "word": "夜",
+    "transcription": "yoru",
+    "type": "word"
+  },
+  {
+    "id": "time",
+    "word": "時間",
+    "transcription": "jikan",
+    "type": "word"
+  },
+  {
+    "id": "what_time_is_it",
+    "word": "今何時ですか？",
+    "transcription": "imananjidesuka?",
+    "type": "phrase"
+  },
+  {
+    "id": "how_old_are_you",
+    "word": "何歳ですか？",
+    "transcription": "nan-saidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "im_from",
+    "word": "私は出身です",
+    "transcription": "watashi wa shusshindesu",
+    "type": "phrase"
+  },
+  {
+    "id": "where_are_you_from",
+    "word": "どこの出身ですか？",
+    "transcription": "doko no shusshindesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "whats_your_name",
+    "word": "あなたの名前は何ですか？",
+    "transcription": "anata no namae wa nanidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "my_name_is",
+    "word": "私の名前は",
+    "transcription": "watashinonamaeha",
+    "type": "phrase"
+  },
+  {
+    "id": "nice_day",
+    "word": "良い一日",
+    "transcription": "yoi tsuitachi",
+    "type": "phrase"
+  },
+  {
+    "id": "good_luck",
+    "word": "幸運を",
+    "transcription": "kouun o",
+    "type": "phrase"
+  },
+  {
+    "id": "congratulations",
+    "word": "おめでとう",
+    "transcription": "omedetou",
+    "type": "word"
+  },
+  {
+    "id": "welcome",
+    "word": "いらっしゃいませ",
+    "transcription": "irasshaimase",
+    "type": "word"
+  },
+  {
+    "id": "goodbye",
+    "word": "さようなら",
+    "transcription": "sayounara",
+    "type": "word"
+  },
+  {
+    "id": "see_you",
+    "word": "またね",
+    "transcription": "mata ne",
+    "type": "phrase"
+  },
+  {
+    "id": "see_you_later",
+    "word": "また後で",
+    "transcription": "mataatode",
+    "type": "phrase"
+  },
+  {
+    "id": "take_care",
+    "word": "気をつけて",
+    "transcription": "kiwotsukete",
+    "type": "phrase"
+  },
+  {
+    "id": "be_careful",
+    "word": "気をつけて",
+    "transcription": "kiwotsukete",
+    "type": "phrase"
+  },
+  {
+    "id": "open",
+    "word": "開ける",
+    "transcription": "akeru",
+    "type": "word"
+  },
+  {
+    "id": "close",
+    "word": "近い",
+    "transcription": "chikai",
+    "type": "word"
+  },
+  {
+    "id": "go",
+    "word": "行く",
+    "transcription": "iku",
+    "type": "word"
+  },
+  {
+    "id": "come",
+    "word": "来る",
+    "transcription": "kuru",
+    "type": "word"
+  },
+  {
+    "id": "stop",
+    "word": "停止",
+    "transcription": "teishi",
+    "type": "word"
+  },
+  {
+    "id": "wait",
+    "word": "待って",
+    "transcription": "matte",
+    "type": "word"
+  },
+  {
+    "id": "sit",
+    "word": "座る",
+    "transcription": "suwaru",
+    "type": "word"
+  },
+  {
+    "id": "stand",
+    "word": "立つ",
+    "transcription": "tatsu",
+    "type": "word"
+  },
+  {
+    "id": "eat",
+    "word": "食べる",
+    "transcription": "taberu",
+    "type": "word"
+  },
+  {
+    "id": "drink",
+    "word": "飲む",
+    "transcription": "nomu",
+    "type": "word"
+  },
+  {
+    "id": "sleep",
+    "word": "寝る",
+    "transcription": "neru",
+    "type": "word"
+  },
+  {
+    "id": "wake_up",
+    "word": "起きろ",
+    "transcription": "okiro",
+    "type": "phrase"
+  },
+  {
+    "id": "work",
+    "word": "仕事",
+    "transcription": "shigoto",
+    "type": "word"
+  },
+  {
+    "id": "study",
+    "word": "勉強",
+    "transcription": "benkyou",
+    "type": "word"
+  },
+  {
+    "id": "play",
+    "word": "遊ぶ",
+    "transcription": "asobu",
+    "type": "word"
+  },
+  {
+    "id": "listen",
+    "word": "聞く",
+    "transcription": "kiku",
+    "type": "word"
+  },
+  {
+    "id": "look",
+    "word": "見て",
+    "transcription": "mite",
+    "type": "word"
+  },
+  {
+    "id": "write",
+    "word": "書く",
+    "transcription": "kaku",
+    "type": "word"
+  },
+  {
+    "id": "read",
+    "word": "読む",
+    "transcription": "yomu",
+    "type": "word"
+  },
+  {
+    "id": "call_me",
+    "word": "電話してね",
+    "transcription": "denwa shite ne",
+    "type": "phrase"
+  },
+  {
+    "id": "text_me",
+    "word": "テキストメッセージを送ってください",
+    "transcription": "tekisutomesseeji o okutte kudasai",
+    "type": "phrase"
+  },
+  {
+    "id": "i_agree",
+    "word": "同意します",
+    "transcription": "doui shimasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_disagree",
+    "word": "私は同意しません",
+    "transcription": "watashi wa doui shimasen",
+    "type": "phrase"
+  },
+  {
+    "id": "of_course",
+    "word": "もちろん",
+    "transcription": "mochiron",
+    "type": "phrase"
+  },
+  {
+    "id": "i_think_so",
+    "word": "そう思います",
+    "transcription": "sou omoimasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_dont_think_so",
+    "word": "私はそうは思わない",
+    "transcription": "watashi wa sou wa omowanai",
+    "type": "phrase"
+  },
+  {
+    "id": "thats_right",
+    "word": "それは正しい",
+    "transcription": "sore wa tadashii",
+    "type": "phrase"
+  },
+  {
+    "id": "wrong",
+    "word": "間違っている",
+    "transcription": "machigatte iru",
+    "type": "word"
+  },
+  {
+    "id": "its_ok",
+    "word": "大丈夫です",
+    "transcription": "daijoubudesu",
+    "type": "phrase"
+  }
+]

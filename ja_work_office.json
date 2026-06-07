@@ -1,0 +1,344 @@
+[
+  {
+    "id": "work",
+    "word": "仕事",
+    "transcription": "shigoto",
+    "type": "word"
+  },
+  {
+    "id": "office",
+    "word": "オフィス",
+    "transcription": "ofisu",
+    "type": "word"
+  },
+  {
+    "id": "job",
+    "word": "仕事",
+    "transcription": "shigoto",
+    "type": "word"
+  },
+  {
+    "id": "boss",
+    "word": "ボス",
+    "transcription": "bosu",
+    "type": "word"
+  },
+  {
+    "id": "manager",
+    "word": "マネージャー",
+    "transcription": "maneejaa",
+    "type": "word"
+  },
+  {
+    "id": "colleague",
+    "word": "同僚",
+    "transcription": "douryou",
+    "type": "word"
+  },
+  {
+    "id": "coworker",
+    "word": "同僚",
+    "transcription": "douryou",
+    "type": "word"
+  },
+  {
+    "id": "team",
+    "word": "チーム",
+    "transcription": "chiimu",
+    "type": "word"
+  },
+  {
+    "id": "meeting",
+    "word": "ミーティング",
+    "transcription": "miitingu",
+    "type": "word"
+  },
+  {
+    "id": "email",
+    "word": "電子メール",
+    "transcription": "denshi meeru",
+    "type": "word"
+  },
+  {
+    "id": "computer",
+    "word": "コンピューター",
+    "transcription": "konpyuutaa",
+    "type": "word"
+  },
+  {
+    "id": "laptop",
+    "word": "ラップトップ",
+    "transcription": "rappu toppu",
+    "type": "word"
+  },
+  {
+    "id": "desk",
+    "word": "机",
+    "transcription": "tsukue",
+    "type": "word"
+  },
+  {
+    "id": "chair",
+    "word": "椅子",
+    "transcription": "isu",
+    "type": "word"
+  },
+  {
+    "id": "workplace",
+    "word": "職場",
+    "transcription": "shokuba",
+    "type": "word"
+  },
+  {
+    "id": "environment",
+    "word": "環境",
+    "transcription": "kankyou",
+    "type": "word"
+  },
+  {
+    "id": "toxic",
+    "word": "有毒",
+    "transcription": "yuudoku",
+    "type": "word"
+  },
+  {
+    "id": "healthy",
+    "word": "健康",
+    "transcription": "kenkou",
+    "type": "word"
+  },
+  {
+    "id": "stress",
+    "word": "ストレス",
+    "transcription": "sutoresu",
+    "type": "word"
+  },
+  {
+    "id": "deadline",
+    "word": "締め切り",
+    "transcription": "shimekiri",
+    "type": "word"
+  },
+  {
+    "id": "project",
+    "word": "プロジェクト",
+    "transcription": "purojekuto",
+    "type": "word"
+  },
+  {
+    "id": "task",
+    "word": "タスク",
+    "transcription": "tasuku",
+    "type": "word"
+  },
+  {
+    "id": "report",
+    "word": "報告",
+    "transcription": "houkoku",
+    "type": "word"
+  },
+  {
+    "id": "salary",
+    "word": "給料",
+    "transcription": "kyuuryou",
+    "type": "word"
+  },
+  {
+    "id": "money",
+    "word": "お金",
+    "transcription": "okane",
+    "type": "word"
+  },
+  {
+    "id": "promotion",
+    "word": "プロモーション",
+    "transcription": "puromoushon",
+    "type": "word"
+  },
+  {
+    "id": "career",
+    "word": "キャリア",
+    "transcription": "kyaria",
+    "type": "word"
+  },
+  {
+    "id": "interview",
+    "word": "インタビュー",
+    "transcription": "intabyuu",
+    "type": "word"
+  },
+  {
+    "id": "hire",
+    "word": "雇う",
+    "transcription": "yatou",
+    "type": "word"
+  },
+  {
+    "id": "fire",
+    "word": "解雇する",
+    "transcription": "kaiko suru",
+    "type": "word"
+  },
+  {
+    "id": "resign",
+    "word": "辞職する",
+    "transcription": "jishoku suru",
+    "type": "word"
+  },
+  {
+    "id": "break",
+    "word": "壊す",
+    "transcription": "kowasu",
+    "type": "word"
+  },
+  {
+    "id": "lunch",
+    "word": "ランチ",
+    "transcription": "ranchi",
+    "type": "word"
+  },
+  {
+    "id": "after_work",
+    "word": "仕事の後",
+    "transcription": "shigoto no ato",
+    "type": "phrase"
+  },
+  {
+    "id": "overtime",
+    "word": "時間とともに",
+    "transcription": "jikan to tomoni",
+    "type": "word"
+  },
+  {
+    "id": "work_late",
+    "word": "遅くまで働く",
+    "transcription": "osokumade hataraku",
+    "type": "phrase"
+  },
+  {
+    "id": "work_from_home",
+    "word": "在宅勤務",
+    "transcription": "zaitaku kinmu",
+    "type": "phrase"
+  },
+  {
+    "id": "remote_work",
+    "word": "リモートワーク",
+    "transcription": "rimoutowaaku",
+    "type": "phrase"
+  },
+  {
+    "id": "office_job",
+    "word": "事務職",
+    "transcription": "jimushoku",
+    "type": "phrase"
+  },
+  {
+    "id": "love_my_boss",
+    "word": "私の上司を愛しています",
+    "transcription": "watashi no joushi o aishiteimasu",
+    "type": "phrase"
+  },
+  {
+    "id": "hate_my_boss",
+    "word": "私の上司が嫌いです",
+    "transcription": "watashi no joushi ga kiraidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "good_colleagues",
+    "word": "良い同僚",
+    "transcription": "yoi douryou",
+    "type": "phrase"
+  },
+  {
+    "id": "bad_colleagues",
+    "word": "悪い同僚",
+    "transcription": "warui douryou",
+    "type": "phrase"
+  },
+  {
+    "id": "colleagues_help",
+    "word": "同僚が助けてくれる",
+    "transcription": "douryou ga tasukete kureru",
+    "type": "phrase"
+  },
+  {
+    "id": "colleagues_rumors",
+    "word": "同僚の噂",
+    "transcription": "douryou no uwasa",
+    "type": "phrase"
+  },
+  {
+    "id": "work_friends",
+    "word": "仕事の友達",
+    "transcription": "shigoto no tomodachi",
+    "type": "phrase"
+  },
+  {
+    "id": "work_conflict",
+    "word": "仕事の衝突",
+    "transcription": "shigoto no shoutotsu",
+    "type": "phrase"
+  },
+  {
+    "id": "stressful_job",
+    "word": "ストレスの多い仕事",
+    "transcription": "sutoresu no oui shigoto",
+    "type": "phrase"
+  },
+  {
+    "id": "relaxed_job",
+    "word": "リラックスした仕事",
+    "transcription": "rirakkusu shita shigoto",
+    "type": "phrase"
+  },
+  {
+    "id": "work_romance",
+    "word": "仕事のロマンス",
+    "transcription": "shigoto no romansu",
+    "type": "phrase"
+  },
+  {
+    "id": "office_romance",
+    "word": "オフィスロマンス",
+    "transcription": "ofisuromansu",
+    "type": "phrase"
+  },
+  {
+    "id": "teamwork",
+    "word": "チームワーク",
+    "transcription": "chiimuwaaku",
+    "type": "word"
+  },
+  {
+    "id": "leadership",
+    "word": "リーダーシップ",
+    "transcription": "riidaashippu",
+    "type": "word"
+  },
+  {
+    "id": "responsibility",
+    "word": "責任",
+    "transcription": "sekinin",
+    "type": "word"
+  },
+  {
+    "id": "focus",
+    "word": "集中",
+    "transcription": "shuuchuu",
+    "type": "word"
+  },
+  {
+    "id": "productivity",
+    "word": "生産性",
+    "transcription": "shousansei",
+    "type": "word"
+  },
+  {
+    "id": "success",
+    "word": "成功",
+    "transcription": "seikou",
+    "type": "word"
+  }
+]

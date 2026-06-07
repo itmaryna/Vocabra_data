@@ -1,0 +1,296 @@
+[
+  {
+    "id": "fashion",
+    "word": "ファッション",
+    "transcription": "fasshon",
+    "type": "word"
+  },
+  {
+    "id": "style",
+    "word": "スタイル",
+    "transcription": "sutairu",
+    "type": "word"
+  },
+  {
+    "id": "clothes",
+    "word": "服",
+    "transcription": "fuku",
+    "type": "word"
+  },
+  {
+    "id": "outfit",
+    "word": "服装",
+    "transcription": "fukusou",
+    "type": "word"
+  },
+  {
+    "id": "dress",
+    "word": "ドレス",
+    "transcription": "doresu",
+    "type": "word"
+  },
+  {
+    "id": "shirt",
+    "word": "シャツ",
+    "transcription": "shatsu",
+    "type": "word"
+  },
+  {
+    "id": "pants",
+    "word": "パンツ",
+    "transcription": "pantsu",
+    "type": "word"
+  },
+  {
+    "id": "jeans",
+    "word": "ジーンズ",
+    "transcription": "jiinzu",
+    "type": "word"
+  },
+  {
+    "id": "jacket",
+    "word": "ジャケット",
+    "transcription": "jaketto",
+    "type": "word"
+  },
+  {
+    "id": "coat",
+    "word": "コート",
+    "transcription": "kouto",
+    "type": "word"
+  },
+  {
+    "id": "skirt",
+    "word": "スカート",
+    "transcription": "sukaato",
+    "type": "word"
+  },
+  {
+    "id": "shoes",
+    "word": "靴",
+    "transcription": "kutsu",
+    "type": "word"
+  },
+  {
+    "id": "boots",
+    "word": "ブーツ",
+    "transcription": "buutsu",
+    "type": "word"
+  },
+  {
+    "id": "bag",
+    "word": "バッグ",
+    "transcription": "baggu",
+    "type": "word"
+  },
+  {
+    "id": "accessories",
+    "word": "アクセサリー",
+    "transcription": "akusesarii",
+    "type": "word"
+  },
+  {
+    "id": "hat",
+    "word": "帽子",
+    "transcription": "boushi",
+    "type": "word"
+  },
+  {
+    "id": "watch",
+    "word": "時計",
+    "transcription": "tokei",
+    "type": "word"
+  },
+  {
+    "id": "jewelry",
+    "word": "ジュエリー",
+    "transcription": "juerii",
+    "type": "word"
+  },
+  {
+    "id": "ring",
+    "word": "指輪",
+    "transcription": "yubiwa",
+    "type": "word"
+  },
+  {
+    "id": "necklace",
+    "word": "ネックレス",
+    "transcription": "nekkuresu",
+    "type": "word"
+  },
+  {
+    "id": "earrings",
+    "word": "イヤリング",
+    "transcription": "iyaringu",
+    "type": "word"
+  },
+  {
+    "id": "makeup",
+    "word": "補う",
+    "transcription": "oginau",
+    "type": "word"
+  },
+  {
+    "id": "lipstick",
+    "word": "口紅",
+    "transcription": "kuchibeni",
+    "type": "word"
+  },
+  {
+    "id": "mascara",
+    "word": "マスカラ",
+    "transcription": "masukara",
+    "type": "word"
+  },
+  {
+    "id": "foundation",
+    "word": "財団",
+    "transcription": "zaidan",
+    "type": "word"
+  },
+  {
+    "id": "blush",
+    "word": "赤面",
+    "transcription": "sekimen",
+    "type": "word"
+  },
+  {
+    "id": "eyeshadow",
+    "word": "アイシャドウ",
+    "transcription": "aishadou",
+    "type": "word"
+  },
+  {
+    "id": "perfume",
+    "word": "香水",
+    "transcription": "kousui",
+    "type": "word"
+  },
+  {
+    "id": "beauty",
+    "word": "美しさ",
+    "transcription": "utsukushi-sa",
+    "type": "word"
+  },
+  {
+    "id": "skincare",
+    "word": "スキンケア",
+    "transcription": "sukin kea",
+    "type": "word"
+  },
+  {
+    "id": "hair",
+    "word": "髪",
+    "transcription": "kami",
+    "type": "word"
+  },
+  {
+    "id": "nails",
+    "word": "爪",
+    "transcription": "tsume",
+    "type": "word"
+  },
+  {
+    "id": "salon",
+    "word": "サロン",
+    "transcription": "saron",
+    "type": "word"
+  },
+  {
+    "id": "mirror",
+    "word": "鏡",
+    "transcription": "kagami",
+    "type": "word"
+  },
+  {
+    "id": "shop",
+    "word": "店",
+    "transcription": "mise",
+    "type": "word"
+  },
+  {
+    "id": "shopping",
+    "word": "買い物",
+    "transcription": "kaimono",
+    "type": "word"
+  },
+  {
+    "id": "brand",
+    "word": "ブランド",
+    "transcription": "burando",
+    "type": "word"
+  },
+  {
+    "id": "designer",
+    "word": "デザイナー",
+    "transcription": "dezainaa",
+    "type": "word"
+  },
+  {
+    "id": "trend",
+    "word": "傾向",
+    "transcription": "keikou",
+    "type": "word"
+  },
+  {
+    "id": "modern",
+    "word": "モダンな",
+    "transcription": "modan'na",
+    "type": "word"
+  },
+  {
+    "id": "elegant",
+    "word": "エレガント",
+    "transcription": "ereganto",
+    "type": "word"
+  },
+  {
+    "id": "casual",
+    "word": "カジュアル",
+    "transcription": "kajuaru",
+    "type": "word"
+  },
+  {
+    "id": "formal",
+    "word": "フォーマル",
+    "transcription": "fomaru",
+    "type": "word"
+  },
+  {
+    "id": "beautiful",
+    "word": "美しい",
+    "transcription": "utsukushii",
+    "type": "word"
+  },
+  {
+    "id": "handsome",
+    "word": "ハンサム",
+    "transcription": "hansamu",
+    "type": "word"
+  },
+  {
+    "id": "cute",
+    "word": "かわいい",
+    "transcription": "kawaii",
+    "type": "word"
+  },
+  {
+    "id": "fashion_show",
+    "word": "ファッションショー",
+    "transcription": "fasshonshou",
+    "type": "phrase"
+  },
+  {
+    "id": "dress_up",
+    "word": "ドレスアップする",
+    "transcription": "doresuappu suru",
+    "type": "phrase"
+  },
+  {
+    "id": "get_ready",
+    "word": "準備をする",
+    "transcription": "junbi o suru",
+    "type": "phrase"
+  }
+]

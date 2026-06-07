@@ -1,0 +1,122 @@
+[
+  {
+    "id": "help",
+    "word": "ヘルプ",
+    "transcription": "herupu",
+    "type": "phrase"
+  },
+  {
+    "id": "call_police",
+    "word": "警察を呼んで下さい",
+    "transcription": "keisatsu o yonde kudasai",
+    "type": "phrase"
+  },
+  {
+    "id": "call_ambulance",
+    "word": "救急車を呼んで下さい",
+    "transcription": "kyuukyuusha o yonde kudasai",
+    "type": "phrase"
+  },
+  {
+    "id": "fire",
+    "word": "火事",
+    "transcription": "kaji",
+    "type": "word"
+  },
+  {
+    "id": "emergency",
+    "word": "緊急",
+    "transcription": "kinkyuu",
+    "type": "word"
+  },
+  {
+    "id": "i_need_help",
+    "word": "私は助けが必要です",
+    "transcription": "watashi wa tasuke ga hitsuyoudesu",
+    "type": "phrase"
+  },
+  {
+    "id": "are_you_ok",
+    "word": "大丈夫ですか？",
+    "transcription": "daijoubudesuka?",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_injured",
+    "word": "怪我をしています",
+    "transcription": "kega o shite imasu",
+    "type": "phrase"
+  },
+  {
+    "id": "bleeding",
+    "word": "出血",
+    "transcription": "shukketsu",
+    "type": "word"
+  },
+  {
+    "id": "pain",
+    "word": "痛み",
+    "transcription": "itami",
+    "type": "word"
+  },
+  {
+    "id": "hospital",
+    "word": "病院",
+    "transcription": "byouin",
+    "type": "word"
+  },
+  {
+    "id": "doctor",
+    "word": "医者",
+    "transcription": "isha",
+    "type": "word"
+  },
+  {
+    "id": "police",
+    "word": "警察",
+    "transcription": "keisatsu",
+    "type": "word"
+  },
+  {
+    "id": "ambulance",
+    "word": "救急車",
+    "transcription": "kyuukyuusha",
+    "type": "word"
+  },
+  {
+    "id": "safe",
+    "word": "安全",
+    "transcription": "anzen",
+    "type": "word"
+  },
+  {
+    "id": "danger",
+    "word": "危険",
+    "transcription": "kiken",
+    "type": "word"
+  },
+  {
+    "id": "hurt",
+    "word": "傷つく",
+    "transcription": "kizutsuku",
+    "type": "word"
+  },
+  {
+    "id": "unconscious",
+    "word": "無意識",
+    "transcription": "muishiki",
+    "type": "word"
+  },
+  {
+    "id": "chest_pain",
+    "word": "胸痛",
+    "transcription": "kyoutsuu",
+    "type": "phrase"
+  },
+  {
+    "id": "allergic_reaction",
+    "word": "アレルギー反応",
+    "transcription": "arerugii han'nou",
+    "type": "phrase"
+  }
+]

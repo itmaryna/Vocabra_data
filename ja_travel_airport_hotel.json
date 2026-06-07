@@ -1,0 +1,302 @@
+[
+  {
+    "id": "airport",
+    "word": "空港",
+    "transcription": "kuukou",
+    "type": "word"
+  },
+  {
+    "id": "passport",
+    "word": "パスポート",
+    "transcription": "pasupouto",
+    "type": "word"
+  },
+  {
+    "id": "ticket",
+    "word": "チケット",
+    "transcription": "chiketto",
+    "type": "word"
+  },
+  {
+    "id": "boarding_pass",
+    "word": "搭乗券",
+    "transcription": "tojo ken",
+    "type": "phrase"
+  },
+  {
+    "id": "flight",
+    "word": "フライト",
+    "transcription": "furaito",
+    "type": "word"
+  },
+  {
+    "id": "gate",
+    "word": "ゲート",
+    "transcription": "geeto",
+    "type": "word"
+  },
+  {
+    "id": "terminal",
+    "word": "ターミナル",
+    "transcription": "taaminaru",
+    "type": "word"
+  },
+  {
+    "id": "departure",
+    "word": "出発",
+    "transcription": "shuppatsu",
+    "type": "word"
+  },
+  {
+    "id": "arrival",
+    "word": "到着",
+    "transcription": "touchaku",
+    "type": "word"
+  },
+  {
+    "id": "customs",
+    "word": "税関",
+    "transcription": "zeikan",
+    "type": "word"
+  },
+  {
+    "id": "security_check",
+    "word": "セキュリティチェック",
+    "transcription": "sekyuriti chekku",
+    "type": "phrase"
+  },
+  {
+    "id": "luggage",
+    "word": "荷物",
+    "transcription": "nimotsu",
+    "type": "word"
+  },
+  {
+    "id": "suitcase",
+    "word": "スーツケース",
+    "transcription": "suutsukeesu",
+    "type": "word"
+  },
+  {
+    "id": "backpack",
+    "word": "バックパック",
+    "transcription": "bakku pakku",
+    "type": "word"
+  },
+  {
+    "id": "carry_on",
+    "word": "機内持ち込み手荷物",
+    "transcription": "kinai mochikomi tenimotsu",
+    "type": "phrase"
+  },
+  {
+    "id": "check_in",
+    "word": "チェックイン",
+    "transcription": "chekku in",
+    "type": "phrase"
+  },
+  {
+    "id": "boarding",
+    "word": "搭乗",
+    "transcription": "toujou",
+    "type": "word"
+  },
+  {
+    "id": "delayed",
+    "word": "遅延",
+    "transcription": "chien",
+    "type": "word"
+  },
+  {
+    "id": "cancelled",
+    "word": "キャンセル",
+    "transcription": "kyanseru",
+    "type": "word"
+  },
+  {
+    "id": "window_seat",
+    "word": "窓側の席",
+    "transcription": "madogawa no seki",
+    "type": "phrase"
+  },
+  {
+    "id": "aisle_seat",
+    "word": "通路側の席",
+    "transcription": "tsuro gawa no seki",
+    "type": "phrase"
+  },
+  {
+    "id": "hotel",
+    "word": "ホテル",
+    "transcription": "hoteru",
+    "type": "word"
+  },
+  {
+    "id": "reservation",
+    "word": "予約",
+    "transcription": "yoyaku",
+    "type": "word"
+  },
+  {
+    "id": "room",
+    "word": "部屋",
+    "transcription": "heya",
+    "type": "word"
+  },
+  {
+    "id": "single_room",
+    "word": "シングルルーム",
+    "transcription": "shingururuumu",
+    "type": "phrase"
+  },
+  {
+    "id": "double_room",
+    "word": "ダブルルーム",
+    "transcription": "dabururuumu",
+    "type": "phrase"
+  },
+  {
+    "id": "key_card",
+    "word": "キーカード",
+    "transcription": "kiikaado",
+    "type": "phrase"
+  },
+  {
+    "id": "reception",
+    "word": "受付",
+    "transcription": "uketsuke",
+    "type": "word"
+  },
+  {
+    "id": "check_out",
+    "word": "チェックアウト",
+    "transcription": "chekku auto",
+    "type": "phrase"
+  },
+  {
+    "id": "wifi",
+    "word": "Wi-Fi",
+    "transcription": "wai fai",
+    "type": "word"
+  },
+  {
+    "id": "password",
+    "word": "パスワード",
+    "transcription": "pasuwaado",
+    "type": "word"
+  },
+  {
+    "id": "breakfast",
+    "word": "朝食",
+    "transcription": "choushoku",
+    "type": "word"
+  },
+  {
+    "id": "elevator",
+    "word": "エレベーター",
+    "transcription": "erebeetaa",
+    "type": "word"
+  },
+  {
+    "id": "stairs",
+    "word": "階段",
+    "transcription": "kaidan",
+    "type": "word"
+  },
+  {
+    "id": "taxi",
+    "word": "タクシー",
+    "transcription": "takushii",
+    "type": "word"
+  },
+  {
+    "id": "bus",
+    "word": "バス",
+    "transcription": "basu",
+    "type": "word"
+  },
+  {
+    "id": "train",
+    "word": "電車",
+    "transcription": "densha",
+    "type": "word"
+  },
+  {
+    "id": "subway",
+    "word": "地下鉄",
+    "transcription": "chikatetsu",
+    "type": "word"
+  },
+  {
+    "id": "station",
+    "word": "駅",
+    "transcription": "eki",
+    "type": "word"
+  },
+  {
+    "id": "map",
+    "word": "地図",
+    "transcription": "chizu",
+    "type": "word"
+  },
+  {
+    "id": "tourist",
+    "word": "観光客",
+    "transcription": "kankoukyaku",
+    "type": "word"
+  },
+  {
+    "id": "guide",
+    "word": "ガイド",
+    "transcription": "gaido",
+    "type": "word"
+  },
+  {
+    "id": "museum",
+    "word": "博物館",
+    "transcription": "hakubutsukan",
+    "type": "word"
+  },
+  {
+    "id": "beach",
+    "word": "ビーチ",
+    "transcription": "biichi",
+    "type": "word"
+  },
+  {
+    "id": "restaurant",
+    "word": "レストラン",
+    "transcription": "resutoran",
+    "type": "word"
+  },
+  {
+    "id": "water",
+    "word": "水",
+    "transcription": "mizu",
+    "type": "word"
+  },
+  {
+    "id": "coffee",
+    "word": "コーヒー",
+    "transcription": "kouhii",
+    "type": "word"
+  },
+  {
+    "id": "bathroom",
+    "word": "バスルーム",
+    "transcription": "basuruumu",
+    "type": "word"
+  },
+  {
+    "id": "where_is_gate",
+    "word": "門はどこですか？",
+    "transcription": "mon wa dokodesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "where_is_hotel",
+    "word": "ホテルはどこですか？",
+    "transcription": "hoteru wa dokodesu ka?",
+    "type": "phrase"
+  }
+]

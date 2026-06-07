@@ -1,0 +1,266 @@
+[
+  {
+    "id": "family",
+    "word": "家族",
+    "transcription": "kazoku",
+    "type": "word"
+  },
+  {
+    "id": "mother",
+    "word": "母親",
+    "transcription": "hahaoya",
+    "type": "word"
+  },
+  {
+    "id": "father",
+    "word": "父親",
+    "transcription": "chichioya",
+    "type": "word"
+  },
+  {
+    "id": "parents",
+    "word": "両親",
+    "transcription": "ryoushin",
+    "type": "word"
+  },
+  {
+    "id": "child",
+    "word": "子供",
+    "transcription": "kodomo",
+    "type": "word"
+  },
+  {
+    "id": "children",
+    "word": "子供たち",
+    "transcription": "kodomo-tachi",
+    "type": "word"
+  },
+  {
+    "id": "son",
+    "word": "息子",
+    "transcription": "musuko",
+    "type": "word"
+  },
+  {
+    "id": "daughter",
+    "word": "娘",
+    "transcription": "musume",
+    "type": "word"
+  },
+  {
+    "id": "brother",
+    "word": "兄弟",
+    "transcription": "kyoudai",
+    "type": "word"
+  },
+  {
+    "id": "sister",
+    "word": "妹",
+    "transcription": "imouto",
+    "type": "word"
+  },
+  {
+    "id": "grandmother",
+    "word": "祖母",
+    "transcription": "sobo",
+    "type": "word"
+  },
+  {
+    "id": "grandfather",
+    "word": "祖父",
+    "transcription": "sofu",
+    "type": "word"
+  },
+  {
+    "id": "grandparents",
+    "word": "祖父母",
+    "transcription": "sofubo",
+    "type": "word"
+  },
+  {
+    "id": "uncle",
+    "word": "叔父",
+    "transcription": "oji",
+    "type": "word"
+  },
+  {
+    "id": "aunt",
+    "word": "叔母",
+    "transcription": "oba",
+    "type": "word"
+  },
+  {
+    "id": "cousin",
+    "word": "いとこ",
+    "transcription": "itoko",
+    "type": "word"
+  },
+  {
+    "id": "husband",
+    "word": "夫",
+    "transcription": "otto",
+    "type": "word"
+  },
+  {
+    "id": "wife",
+    "word": "妻",
+    "transcription": "tsuma",
+    "type": "word"
+  },
+  {
+    "id": "baby",
+    "word": "赤ちゃん",
+    "transcription": "akachan",
+    "type": "word"
+  },
+  {
+    "id": "newborn",
+    "word": "新生児",
+    "transcription": "shinseiji",
+    "type": "word"
+  },
+  {
+    "id": "teenager",
+    "word": "ティーンエイジャー",
+    "transcription": "tiin'eijaa",
+    "type": "word"
+  },
+  {
+    "id": "adult",
+    "word": "アダルト",
+    "transcription": "adaruto",
+    "type": "word"
+  },
+  {
+    "id": "elderly",
+    "word": "お年寄り",
+    "transcription": "o toshiyori",
+    "type": "word"
+  },
+  {
+    "id": "family_member",
+    "word": "家族の一員",
+    "transcription": "kazoku no ichiin",
+    "type": "phrase"
+  },
+  {
+    "id": "relative",
+    "word": "相対的",
+    "transcription": "aitaiteki",
+    "type": "word"
+  },
+  {
+    "id": "home",
+    "word": "家",
+    "transcription": "ie",
+    "type": "word"
+  },
+  {
+    "id": "house",
+    "word": "家",
+    "transcription": "ie",
+    "type": "word"
+  },
+  {
+    "id": "marriage",
+    "word": "結婚",
+    "transcription": "kekkon",
+    "type": "word"
+  },
+  {
+    "id": "love",
+    "word": "愛",
+    "transcription": "ai",
+    "type": "word"
+  },
+  {
+    "id": "care",
+    "word": "ケア",
+    "transcription": "kea",
+    "type": "word"
+  },
+  {
+    "id": "support",
+    "word": "サポート",
+    "transcription": "sapouto",
+    "type": "word"
+  },
+  {
+    "id": "together",
+    "word": "一緒に",
+    "transcription": "issho ni",
+    "type": "word"
+  },
+  {
+    "id": "visit_family",
+    "word": "家族を訪問する",
+    "transcription": "kazoku o houmon suru",
+    "type": "phrase"
+  },
+  {
+    "id": "family_time",
+    "word": "家族の時間",
+    "transcription": "kazoku no jikan",
+    "type": "phrase"
+  },
+  {
+    "id": "big_family",
+    "word": "大家族",
+    "transcription": "dai kazoku",
+    "type": "phrase"
+  },
+  {
+    "id": "small_family",
+    "word": "小さな家族",
+    "transcription": "chiisana kazoku",
+    "type": "phrase"
+  },
+  {
+    "id": "close_family",
+    "word": "近親者",
+    "transcription": "kinshin-sha",
+    "type": "phrase"
+  },
+  {
+    "id": "family_photo",
+    "word": "家族写真",
+    "transcription": "kazoku shashin",
+    "type": "phrase"
+  },
+  {
+    "id": "birthday",
+    "word": "誕生日",
+    "transcription": "tanjoubi",
+    "type": "word"
+  },
+  {
+    "id": "wedding",
+    "word": "結婚式",
+    "transcription": "kekkonshiki",
+    "type": "word"
+  },
+  {
+    "id": "holiday",
+    "word": "休日",
+    "transcription": "kyuujitsu",
+    "type": "word"
+  },
+  {
+    "id": "celebration",
+    "word": "お祝い",
+    "transcription": "oiwai",
+    "type": "word"
+  },
+  {
+    "id": "children_play",
+    "word": "子供たちが遊ぶ",
+    "transcription": "kodomo-tachi ga asobu",
+    "type": "phrase"
+  },
+  {
+    "id": "family_love",
+    "word": "家族愛",
+    "transcription": "kazoku ai",
+    "type": "phrase"
+  }
+]

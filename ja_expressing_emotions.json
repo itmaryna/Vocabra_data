@@ -1,0 +1,230 @@
+[
+  {
+    "id": "express_emotions",
+    "word": "感情を表現する",
+    "transcription": "kanjou o hyougen suru",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_happy",
+    "word": "私は幸せです",
+    "transcription": "watashi wa shiawasedesu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_sad",
+    "word": "私は悲しいです",
+    "transcription": "watashi wa kanashiidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_angry",
+    "word": "私は怒っています",
+    "transcription": "watashi wa okotte imasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_excited",
+    "word": "わくわくしてます",
+    "transcription": "wakuwaku shitemasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_scared",
+    "word": "怖いです",
+    "transcription": "kowaidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_tired",
+    "word": "私は疲れました",
+    "transcription": "watashi wa tsukaremashita",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_good",
+    "word": "気分がいい",
+    "transcription": "kibungaii",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_bad",
+    "word": "申し訳ありません",
+    "transcription": "moushiwakearimasen",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_great",
+    "word": "とても良い気分です",
+    "transcription": "totemo yoi kibundesu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_terrible",
+    "word": "ひどい気分だ",
+    "transcription": "hidoi kibunda",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_nervous",
+    "word": "緊張します",
+    "transcription": "kinchou shimasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_confused",
+    "word": "私は混乱しています",
+    "transcription": "watashi wa konran shite imasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_surprised",
+    "word": "驚いています",
+    "transcription": "odoroite imasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_confident",
+    "word": "私は自信があります",
+    "transcription": "watashi wa jishin ga arimasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_proud",
+    "word": "誇りに思います",
+    "transcription": "hokori ni omoimasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_jealous",
+    "word": "羨ましいです",
+    "transcription": "urayamashiidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_worried",
+    "word": "心配です",
+    "transcription": "shinpaidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_stressed",
+    "word": "ストレスが溜まっている",
+    "transcription": "sutoresu ga tamatte iru",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_calm",
+    "word": "私は落ち着いています",
+    "transcription": "watashi wa ochitsuite imasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_relaxed",
+    "word": "リラックスしています",
+    "transcription": "rirakkusu shite imasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_lonely",
+    "word": "寂しいです",
+    "transcription": "sabishiidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_bored",
+    "word": "私は退屈です",
+    "transcription": "watashi wa taikutsudesu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_happy_for_you",
+    "word": "私はあなたのために幸せです",
+    "transcription": "watashi wa anata no tame ni shiawasedesu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_sad_for_you",
+    "word": "私はあなたのことが悲しいです",
+    "transcription": "watashi wa anata no koto ga kanashiidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "it_makes_me_happy",
+    "word": "それは私を幸せにします",
+    "transcription": "sore wa watashi o shiawaseni shimasu",
+    "type": "phrase"
+  },
+  {
+    "id": "it_makes_me_sad",
+    "word": "それは私を悲しくさせます",
+    "transcription": "sore wa watashi o kanashiku sa semasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_dont_know",
+    "word": "自分の気持ちがわからない",
+    "transcription": "jibun no kimochi ga wakaranai",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_lost",
+    "word": "喪失感を感じます",
+    "transcription": "soushitsukan o kanjimasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_overwhelmed",
+    "word": "圧倒されてしまいます",
+    "transcription": "attou sa rete shimaimasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_hopeful",
+    "word": "希望を感じます",
+    "transcription": "kibou o kanjimasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_ashamed",
+    "word": "恥ずかしいです",
+    "transcription": "hazukashiidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_embarrassed",
+    "word": "恥ずかしいです",
+    "transcription": "hazukashiidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_crying",
+    "word": "泣いています",
+    "transcription": "naite imasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_laughing",
+    "word": "笑ってるよ",
+    "transcription": "waratteru yo",
+    "type": "phrase"
+  },
+  {
+    "id": "i_am_smiling",
+    "word": "私は微笑んでいます",
+    "transcription": "watashi wa hohoende imasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_cant_explain",
+    "word": "自分の気持ちを説明できない",
+    "transcription": "jibun no kimochi o setsumei dekinai",
+    "type": "phrase"
+  },
+  {
+    "id": "i_need_help",
+    "word": "私は助けが必要です",
+    "transcription": "watashi wa tasuke ga hitsuyoudesu",
+    "type": "phrase"
+  }
+]

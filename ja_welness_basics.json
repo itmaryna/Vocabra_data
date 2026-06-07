@@ -1,0 +1,248 @@
+[
+  {
+    "id": "wellness",
+    "word": "ウェルネス",
+    "transcription": "u~erunesu",
+    "type": "word"
+  },
+  {
+    "id": "health",
+    "word": "健康",
+    "transcription": "kenkou",
+    "type": "word"
+  },
+  {
+    "id": "body",
+    "word": "体",
+    "transcription": "karada",
+    "type": "word"
+  },
+  {
+    "id": "my_body",
+    "word": "私の体",
+    "transcription": "watashi no karada",
+    "type": "phrase"
+  },
+  {
+    "id": "mind",
+    "word": "心",
+    "transcription": "kokoro",
+    "type": "word"
+  },
+  {
+    "id": "feeling",
+    "word": "フィーリング",
+    "transcription": "fiiringu",
+    "type": "word"
+  },
+  {
+    "id": "i_feel_good",
+    "word": "気分がいい",
+    "transcription": "kibungaii",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_bad",
+    "word": "申し訳ありません",
+    "transcription": "moushiwakearimasen",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_tired",
+    "word": "疲れを感じます",
+    "transcription": "tsukare o kanjimasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_happy",
+    "word": "幸せを感じます",
+    "transcription": "shiawase o kanjimasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_feel_sad",
+    "word": "悲しいです",
+    "transcription": "kanashiidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "stress",
+    "word": "ストレス",
+    "transcription": "sutoresu",
+    "type": "word"
+  },
+  {
+    "id": "relax",
+    "word": "リラックス",
+    "transcription": "rirakkusu",
+    "type": "verb"
+  },
+  {
+    "id": "calm",
+    "word": "落ち着いた",
+    "transcription": "ochitsuita",
+    "type": "word"
+  },
+  {
+    "id": "anxiety",
+    "word": "不安",
+    "transcription": "fuan",
+    "type": "word"
+  },
+  {
+    "id": "emotion",
+    "word": "感情",
+    "transcription": "kanjou",
+    "type": "word"
+  },
+  {
+    "id": "mood",
+    "word": "気分",
+    "transcription": "kibun",
+    "type": "word"
+  },
+  {
+    "id": "energy",
+    "word": "エネルギー",
+    "transcription": "enerugii",
+    "type": "word"
+  },
+  {
+    "id": "sleep",
+    "word": "寝る",
+    "transcription": "neru",
+    "type": "word"
+  },
+  {
+    "id": "rest",
+    "word": "休む",
+    "transcription": "yasumu",
+    "type": "word"
+  },
+  {
+    "id": "breathe",
+    "word": "息をする",
+    "transcription": "iki o suru",
+    "type": "verb"
+  },
+  {
+    "id": "breathing",
+    "word": "呼吸",
+    "transcription": "kokyuu",
+    "type": "word"
+  },
+  {
+    "id": "meditation",
+    "word": "瞑想",
+    "transcription": "meisou",
+    "type": "word"
+  },
+  {
+    "id": "peace",
+    "word": "平和",
+    "transcription": "heiwa",
+    "type": "word"
+  },
+  {
+    "id": "balance",
+    "word": "バランス",
+    "transcription": "baransu",
+    "type": "word"
+  },
+  {
+    "id": "routine",
+    "word": "ルーティーン",
+    "transcription": "ruutiin",
+    "type": "word"
+  },
+  {
+    "id": "my_day",
+    "word": "私の一日",
+    "transcription": "watashi no tsuitachi",
+    "type": "phrase"
+  },
+  {
+    "id": "morning",
+    "word": "朝",
+    "transcription": "asa",
+    "type": "word"
+  },
+  {
+    "id": "afternoon",
+    "word": "午後",
+    "transcription": "gogo",
+    "type": "word"
+  },
+  {
+    "id": "evening",
+    "word": "夕方",
+    "transcription": "yuugata",
+    "type": "word"
+  },
+  {
+    "id": "night",
+    "word": "夜",
+    "transcription": "yoru",
+    "type": "word"
+  },
+  {
+    "id": "self_care",
+    "word": "自己治療",
+    "transcription": "jiko chiryou",
+    "type": "word"
+  },
+  {
+    "id": "listen_body",
+    "word": "私の体の声を聞いてください",
+    "transcription": "watashi no karada no koe o kiitekudasai",
+    "type": "phrase"
+  },
+  {
+    "id": "healthy_lifestyle",
+    "word": "健康的なライフスタイル",
+    "transcription": "kenkou-tekina raifusutairu",
+    "type": "phrase"
+  },
+  {
+    "id": "mental_health",
+    "word": "精神的健康",
+    "transcription": "seishin-teki kenkou",
+    "type": "phrase"
+  },
+  {
+    "id": "positive_thinking",
+    "word": "ポジティブ思考",
+    "transcription": "pojitibu shikou",
+    "type": "phrase"
+  },
+  {
+    "id": "negative_thinking",
+    "word": "ネガティブ思考",
+    "transcription": "negatibu shikou",
+    "type": "phrase"
+  },
+  {
+    "id": "gratitude",
+    "word": "感謝",
+    "transcription": "kansha",
+    "type": "word"
+  },
+  {
+    "id": "focus",
+    "word": "集中",
+    "transcription": "shuuchuu",
+    "type": "word"
+  },
+  {
+    "id": "growth",
+    "word": "成長",
+    "transcription": "seichou",
+    "type": "word"
+  },
+  {
+    "id": "healing",
+    "word": "ヒーリング",
+    "transcription": "hiiringu",
+    "type": "word"
+  }
+]

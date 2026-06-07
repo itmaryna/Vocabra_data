@@ -1,0 +1,278 @@
+[
+  {
+    "id": "あ",
+    "word": "あ",
+    "transcription": "a",
+    "type": "letter"
+  },
+  {
+    "id": "い",
+    "word": "い",
+    "transcription": "i",
+    "type": "letter"
+  },
+  {
+    "id": "う",
+    "word": "う",
+    "transcription": "u",
+    "type": "letter"
+  },
+  {
+    "id": "え",
+    "word": "え",
+    "transcription": "e",
+    "type": "letter"
+  },
+  {
+    "id": "お",
+    "word": "お",
+    "transcription": "o",
+    "type": "letter"
+  },
+  {
+    "id": "か",
+    "word": "か",
+    "transcription": "ka",
+    "type": "letter"
+  },
+  {
+    "id": "き",
+    "word": "き",
+    "transcription": "ki",
+    "type": "letter"
+  },
+  {
+    "id": "く",
+    "word": "く",
+    "transcription": "ku",
+    "type": "letter"
+  },
+  {
+    "id": "け",
+    "word": "け",
+    "transcription": "ke",
+    "type": "letter"
+  },
+  {
+    "id": "こ",
+    "word": "こ",
+    "transcription": "ko",
+    "type": "letter"
+  },
+  {
+    "id": "さ",
+    "word": "さ",
+    "transcription": "sa",
+    "type": "letter"
+  },
+  {
+    "id": "し",
+    "word": "し",
+    "transcription": "shi",
+    "type": "letter"
+  },
+  {
+    "id": "す",
+    "word": "す",
+    "transcription": "su",
+    "type": "letter"
+  },
+  {
+    "id": "せ",
+    "word": "せ",
+    "transcription": "se",
+    "type": "letter"
+  },
+  {
+    "id": "そ",
+    "word": "そ",
+    "transcription": "so",
+    "type": "letter"
+  },
+  {
+    "id": "た",
+    "word": "た",
+    "transcription": "ta",
+    "type": "letter"
+  },
+  {
+    "id": "ち",
+    "word": "ち",
+    "transcription": "chi",
+    "type": "letter"
+  },
+  {
+    "id": "つ",
+    "word": "つ",
+    "transcription": "tsu",
+    "type": "letter"
+  },
+  {
+    "id": "て",
+    "word": "て",
+    "transcription": "te",
+    "type": "letter"
+  },
+  {
+    "id": "と",
+    "word": "と",
+    "transcription": "to",
+    "type": "letter"
+  },
+  {
+    "id": "な",
+    "word": "な",
+    "transcription": "na",
+    "type": "letter"
+  },
+  {
+    "id": "に",
+    "word": "に",
+    "transcription": "ni",
+    "type": "letter"
+  },
+  {
+    "id": "ぬ",
+    "word": "ぬ",
+    "transcription": "nu",
+    "type": "letter"
+  },
+  {
+    "id": "ね",
+    "word": "ね",
+    "transcription": "ne",
+    "type": "letter"
+  },
+  {
+    "id": "の",
+    "word": "の",
+    "transcription": "no",
+    "type": "letter"
+  },
+  {
+    "id": "は",
+    "word": "は",
+    "transcription": "ha",
+    "type": "letter"
+  },
+  {
+    "id": "ひ",
+    "word": "ひ",
+    "transcription": "hi",
+    "type": "letter"
+  },
+  {
+    "id": "ふ",
+    "word": "ふ",
+    "transcription": "fu",
+    "type": "letter"
+  },
+  {
+    "id": "へ",
+    "word": "へ",
+    "transcription": "he",
+    "type": "letter"
+  },
+  {
+    "id": "ほ",
+    "word": "ほ",
+    "transcription": "ho",
+    "type": "letter"
+  },
+  {
+    "id": "ま",
+    "word": "ま",
+    "transcription": "ma",
+    "type": "letter"
+  },
+  {
+    "id": "み",
+    "word": "み",
+    "transcription": "mi",
+    "type": "letter"
+  },
+  {
+    "id": "む",
+    "word": "む",
+    "transcription": "mu",
+    "type": "letter"
+  },
+  {
+    "id": "め",
+    "word": "め",
+    "transcription": "me",
+    "type": "letter"
+  },
+  {
+    "id": "も",
+    "word": "も",
+    "transcription": "mo",
+    "type": "letter"
+  },
+  {
+    "id": "や",
+    "word": "や",
+    "transcription": "ya",
+    "type": "letter"
+  },
+  {
+    "id": "ゆ",
+    "word": "ゆ",
+    "transcription": "yu",
+    "type": "letter"
+  },
+  {
+    "id": "よ",
+    "word": "よ",
+    "transcription": "yo",
+    "type": "letter"
+  },
+  {
+    "id": "ら",
+    "word": "ら",
+    "transcription": "ra",
+    "type": "letter"
+  },
+  {
+    "id": "り",
+    "word": "り",
+    "transcription": "ri",
+    "type": "letter"
+  },
+  {
+    "id": "る",
+    "word": "る",
+    "transcription": "ru",
+    "type": "letter"
+  },
+  {
+    "id": "れ",
+    "word": "れ",
+    "transcription": "re",
+    "type": "letter"
+  },
+  {
+    "id": "ろ",
+    "word": "ろ",
+    "transcription": "ro",
+    "type": "letter"
+  },
+  {
+    "id": "わ",
+    "word": "わ",
+    "transcription": "wa",
+    "type": "letter"
+  },
+  {
+    "id": "を",
+    "word": "を",
+    "transcription": "wo",
+    "type": "letter"
+  },
+  {
+    "id": "ん",
+    "word": "ん",
+    "transcription": "n",
+    "type": "letter"
+  }
+]

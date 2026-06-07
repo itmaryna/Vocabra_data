@@ -1,0 +1,272 @@
+[
+  {
+    "id": "artificial_intelligence",
+    "word": "人工知能",
+    "transcription": "jinkou chinou",
+    "type": "phrase"
+  },
+  {
+    "id": "ai",
+    "word": "AI",
+    "transcription": "ei ai",
+    "type": "word"
+  },
+  {
+    "id": "machine_learning",
+    "word": "機械学習",
+    "transcription": "kikai gakushuu",
+    "type": "phrase"
+  },
+  {
+    "id": "deep_learning",
+    "word": "ディープラーニング",
+    "transcription": "diipuraaningu",
+    "type": "phrase"
+  },
+  {
+    "id": "neural_network",
+    "word": "ニューラルネットワーク",
+    "transcription": "nyuurarunettowaaku",
+    "type": "phrase"
+  },
+  {
+    "id": "algorithm",
+    "word": "アルゴリズム",
+    "transcription": "arugorizumu",
+    "type": "word"
+  },
+  {
+    "id": "data",
+    "word": "データ",
+    "transcription": "deeta",
+    "type": "word"
+  },
+  {
+    "id": "dataset",
+    "word": "データセット",
+    "transcription": "deta setto",
+    "type": "word"
+  },
+  {
+    "id": "model",
+    "word": "モデル",
+    "transcription": "moderu",
+    "type": "word"
+  },
+  {
+    "id": "training",
+    "word": "トレーニング",
+    "transcription": "toreeningu",
+    "type": "word"
+  },
+  {
+    "id": "inference",
+    "word": "推論",
+    "transcription": "suiron",
+    "type": "word"
+  },
+  {
+    "id": "prompt",
+    "word": "プロンプト",
+    "transcription": "puronputo",
+    "type": "word"
+  },
+  {
+    "id": "chatbot",
+    "word": "チャットボット",
+    "transcription": "chatto botto",
+    "type": "word"
+  },
+  {
+    "id": "automation",
+    "word": "オートメーション",
+    "transcription": "outomeeshon",
+    "type": "word"
+  },
+  {
+    "id": "robot",
+    "word": "ロボット",
+    "transcription": "robotto",
+    "type": "word"
+  },
+  {
+    "id": "computer_vision",
+    "word": "コンピュータビジョン",
+    "transcription": "konpyuutabijon",
+    "type": "phrase"
+  },
+  {
+    "id": "natural_language_processing",
+    "word": "自然言語処理",
+    "transcription": "shizen gengo shori",
+    "type": "phrase"
+  },
+  {
+    "id": "nlp",
+    "word": "自然言語処理",
+    "transcription": "shizen gengo shori",
+    "type": "word"
+  },
+  {
+    "id": "large_language_model",
+    "word": "大規模な言語モデル",
+    "transcription": "oukibona gengo moderu",
+    "type": "phrase"
+  },
+  {
+    "id": "llm",
+    "word": "大規模言語モデル",
+    "transcription": "daikibo gengo moderu",
+    "type": "word"
+  },
+  {
+    "id": "token",
+    "word": "トークン",
+    "transcription": "tokun",
+    "type": "word"
+  },
+  {
+    "id": "embedding",
+    "word": "埋め込み",
+    "transcription": "umekomi",
+    "type": "word"
+  },
+  {
+    "id": "vector",
+    "word": "ベクトル",
+    "transcription": "bekutoru",
+    "type": "word"
+  },
+  {
+    "id": "feature",
+    "word": "特徴",
+    "transcription": "tokuchou",
+    "type": "word"
+  },
+  {
+    "id": "pattern",
+    "word": "パターン",
+    "transcription": "pataan",
+    "type": "word"
+  },
+  {
+    "id": "prediction",
+    "word": "予測",
+    "transcription": "yosoku",
+    "type": "word"
+  },
+  {
+    "id": "classification",
+    "word": "分類",
+    "transcription": "bunrui",
+    "type": "word"
+  },
+  {
+    "id": "regression",
+    "word": "回帰",
+    "transcription": "kaiki",
+    "type": "word"
+  },
+  {
+    "id": "bias",
+    "word": "バイアス",
+    "transcription": "baiasu",
+    "type": "word"
+  },
+  {
+    "id": "accuracy",
+    "word": "正確さ",
+    "transcription": "seikaku-sa",
+    "type": "word"
+  },
+  {
+    "id": "optimization",
+    "word": "最適化",
+    "transcription": "saiteki-ka",
+    "type": "word"
+  },
+  {
+    "id": "feedback",
+    "word": "フィードバック",
+    "transcription": "fiidobakku",
+    "type": "word"
+  },
+  {
+    "id": "automation_system",
+    "word": "自動化システム",
+    "transcription": "jidou-ka shisutemu",
+    "type": "phrase"
+  },
+  {
+    "id": "data_science",
+    "word": "データサイエンス",
+    "transcription": "deetasaiensu",
+    "type": "phrase"
+  },
+  {
+    "id": "ethics_ai",
+    "word": "AIの倫理",
+    "transcription": "ai no rinri",
+    "type": "phrase"
+  },
+  {
+    "id": "supervised_learning",
+    "word": "教師あり学習",
+    "transcription": "kyoushiarigakushuu",
+    "type": "phrase"
+  },
+  {
+    "id": "unsupervised_learning",
+    "word": "教師なし学習",
+    "transcription": "kyoushinashigakushuu",
+    "type": "phrase"
+  },
+  {
+    "id": "reinforcement_learning",
+    "word": "強化学習",
+    "transcription": "kyouka gakushuu",
+    "type": "phrase"
+  },
+  {
+    "id": "gpu",
+    "word": "GPU",
+    "transcription": "ji pi yu",
+    "type": "word"
+  },
+  {
+    "id": "cpu",
+    "word": "CPU",
+    "transcription": "shi pi yu",
+    "type": "word"
+  },
+  {
+    "id": "cloud",
+    "word": "クラウド",
+    "transcription": "kuraudo",
+    "type": "word"
+  },
+  {
+    "id": "api",
+    "word": "API",
+    "transcription": "ei pi ai",
+    "type": "word"
+  },
+  {
+    "id": "api_key",
+    "word": "APIキー",
+    "transcription": "ei pi ai ki",
+    "type": "phrase"
+  },
+  {
+    "id": "server",
+    "word": "サーバ",
+    "transcription": "saaba",
+    "type": "word"
+  },
+  {
+    "id": "database",
+    "word": "データベース",
+    "transcription": "deetabeesu",
+    "type": "word"
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "id": "food",
+    "word": "食べ物",
+    "transcription": "tabemono"
+  },
+  {
+    "id": "water",
+    "word": "水",
+    "transcription": "mizu"
+  },
+  {
+    "id": "bread",
+    "word": "パン",
+    "transcription": "pan"
+  },
+  {
+    "id": "milk",
+    "word": "牛乳",
+    "transcription": "gyuunyuu"
+  },
+  {
+    "id": "cheese",
+    "word": "チーズ",
+    "transcription": "chiizu"
+  },
+  {
+    "id": "egg",
+    "word": "卵",
+    "transcription": "tamago"
+  },
+  {
+    "id": "meat",
+    "word": "肉",
+    "transcription": "niku"
+  },
+  {
+    "id": "chicken",
+    "word": "チキン",
+    "transcription": "chikin"
+  },
+  {
+    "id": "beef",
+    "word": "牛肉",
+    "transcription": "gyuuniku"
+  },
+  {
+    "id": "pork",
+    "word": "豚肉",
+    "transcription": "butaniku"
+  },
+  {
+    "id": "fish",
+    "word": "魚",
+    "transcription": "sakana"
+  },
+  {
+    "id": "rice",
+    "word": "米",
+    "transcription": "kome"
+  },
+  {
+    "id": "pasta",
+    "word": "パスタ",
+    "transcription": "pasuta"
+  },
+  {
+    "id": "soup",
+    "word": "スープ",
+    "transcription": "suupu"
+  },
+  {
+    "id": "salad",
+    "word": "サラダ",
+    "transcription": "sarada"
+  },
+  {
+    "id": "salt",
+    "word": "塩",
+    "transcription": "shio"
+  },
+  {
+    "id": "sugar",
+    "word": "砂糖",
+    "transcription": "satou"
+  },
+  {
+    "id": "pepper",
+    "word": "ペッパー",
+    "transcription": "peppaa"
+  },
+  {
+    "id": "oil",
+    "word": "油",
+    "transcription": "abura"
+  },
+  {
+    "id": "butter",
+    "word": "バター",
+    "transcription": "bataa"
+  },
+  {
+    "id": "fruit",
+    "word": "フルーツ",
+    "transcription": "furuutsu"
+  },
+  {
+    "id": "vegetable",
+    "word": "野菜",
+    "transcription": "yasai"
+  },
+  {
+    "id": "apple",
+    "word": "りんご",
+    "transcription": "ringo"
+  },
+  {
+    "id": "banana",
+    "word": "バナナ",
+    "transcription": "banana"
+  },
+  {
+    "id": "orange",
+    "word": "オレンジ",
+    "transcription": "orenji"
+  },
+  {
+    "id": "lemon",
+    "word": "レモン",
+    "transcription": "remon"
+  },
+  {
+    "id": "tomato",
+    "word": "トマト",
+    "transcription": "tomato"
+  },
+  {
+    "id": "potato",
+    "word": "じゃがいも",
+    "transcription": "jagaimo"
+  },
+  {
+    "id": "carrot",
+    "word": "ニンジン",
+    "transcription": "ninjin"
+  },
+  {
+    "id": "onion",
+    "word": "タマネギ",
+    "transcription": "tamanegi"
+  },
+  {
+    "id": "garlic",
+    "word": "ニンニク",
+    "transcription": "nin'niku"
+  },
+  {
+    "id": "cucumber",
+    "word": "キュウリ",
+    "transcription": "kyuuri"
+  },
+  {
+    "id": "lettuce",
+    "word": "レタス",
+    "transcription": "retasu"
+  },
+  {
+    "id": "bread_roll",
+    "word": "ロールパン",
+    "transcription": "rourupan"
+  },
+  {
+    "id": "sandwich",
+    "word": "サンドイッチ",
+    "transcription": "sandoitchi"
+  },
+  {
+    "id": "pizza",
+    "word": "ピザ",
+    "transcription": "piza"
+  },
+  {
+    "id": "burger",
+    "word": "バーガー",
+    "transcription": "baagaa"
+  },
+  {
+    "id": "fries",
+    "word": "フライドポテト",
+    "transcription": "furaidopoteto"
+  },
+  {
+    "id": "eggplant",
+    "word": "ナス",
+    "transcription": "nasu"
+  },
+  {
+    "id": "corn",
+    "word": "トウモロコシ",
+    "transcription": "toumorokoshi"
+  },
+  {
+    "id": "peas",
+    "word": "エンドウ豆",
+    "transcription": "endou mame"
+  },
+  {
+    "id": "beans",
+    "word": "豆",
+    "transcription": "mame"
+  },
+  {
+    "id": "lentils",
+    "word": "レンズ豆",
+    "transcription": "renzu mame"
+  },
+  {
+    "id": "nuts",
+    "word": "ナッツ",
+    "transcription": "nattsu"
+  },
+  {
+    "id": "almonds",
+    "word": "アーモンド",
+    "transcription": "aamondo"
+  },
+  {
+    "id": "walnuts",
+    "word": "クルミ",
+    "transcription": "kurumi"
+  },
+  {
+    "id": "honey",
+    "word": "ハニー",
+    "transcription": "hanii"
+  },
+  {
+    "id": "jam",
+    "word": "ジャム",
+    "transcription": "jamu"
+  },
+  {
+    "id": "cake",
+    "word": "ケーキ",
+    "transcription": "keeki"
+  },
+  {
+    "id": "cookie",
+    "word": "クッキー",
+    "transcription": "kukkii"
+  },
+  {
+    "id": "chocolate",
+    "word": "チョコレート",
+    "transcription": "chokoreeto"
+  },
+  {
+    "id": "ice_cream",
+    "word": "アイスクリーム",
+    "transcription": "aisukuriimu"
+  },
+  {
+    "id": "yogurt",
+    "word": "ヨーグルト",
+    "transcription": "youguruto"
+  },
+  {
+    "id": "coffee",
+    "word": "コーヒー",
+    "transcription": "kouhii"
+  },
+  {
+    "id": "tea",
+    "word": "お茶",
+    "transcription": "ocha"
+  },
+  {
+    "id": "juice",
+    "word": "ジュース",
+    "transcription": "juusu"
+  },
+  {
+    "id": "beer",
+    "word": "ビール",
+    "transcription": "biiru"
+  },
+  {
+    "id": "wine",
+    "word": "ワイン",
+    "transcription": "wain"
+  }
+]

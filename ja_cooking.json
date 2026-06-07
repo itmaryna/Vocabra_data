@@ -1,0 +1,608 @@
+[
+  {
+    "id": "kitchen",
+    "word": "台所",
+    "transcription": "daidokoro",
+    "type": "word"
+  },
+  {
+    "id": "chef",
+    "word": "シェフ",
+    "transcription": "shefu",
+    "type": "word"
+  },
+  {
+    "id": "cook",
+    "word": "料理する",
+    "transcription": "ryouri suru",
+    "type": "word"
+  },
+  {
+    "id": "recipe",
+    "word": "レシピ",
+    "transcription": "reshipi",
+    "type": "word"
+  },
+  {
+    "id": "ingredient",
+    "word": "材料",
+    "transcription": "zairyou",
+    "type": "word"
+  },
+  {
+    "id": "oven",
+    "word": "オーブン",
+    "transcription": "oubun",
+    "type": "word"
+  },
+  {
+    "id": "stove",
+    "word": "レンジ",
+    "transcription": "renji",
+    "type": "word"
+  },
+  {
+    "id": "pan",
+    "word": "パン",
+    "transcription": "pan",
+    "type": "word"
+  },
+  {
+    "id": "pot",
+    "word": "ポット",
+    "transcription": "potto",
+    "type": "word"
+  },
+  {
+    "id": "knife",
+    "word": "ナイフ",
+    "transcription": "naifu",
+    "type": "word"
+  },
+  {
+    "id": "fork",
+    "word": "フォーク",
+    "transcription": "fouku",
+    "type": "word"
+  },
+  {
+    "id": "spoon",
+    "word": "スプーン",
+    "transcription": "supuun",
+    "type": "word"
+  },
+  {
+    "id": "plate",
+    "word": "皿",
+    "transcription": "sara",
+    "type": "word"
+  },
+  {
+    "id": "bowl",
+    "word": "ボウル",
+    "transcription": "bouru",
+    "type": "word"
+  },
+  {
+    "id": "cup",
+    "word": "カップ",
+    "transcription": "kappu",
+    "type": "word"
+  },
+  {
+    "id": "glass",
+    "word": "ガラス",
+    "transcription": "garasu",
+    "type": "word"
+  },
+  {
+    "id": "cutting_board",
+    "word": "まな板",
+    "transcription": "manaita",
+    "type": "word"
+  },
+  {
+    "id": "spatula",
+    "word": "スパチュラ",
+    "transcription": "supachura",
+    "type": "word"
+  },
+  {
+    "id": "whisk",
+    "word": "泡立て器",
+    "transcription": "awatateki",
+    "type": "word"
+  },
+  {
+    "id": "ladle",
+    "word": "柄杓",
+    "transcription": "hishaku",
+    "type": "word"
+  },
+  {
+    "id": "apron",
+    "word": "エプロン",
+    "transcription": "epuron",
+    "type": "word"
+  },
+  {
+    "id": "sink",
+    "word": "シンク",
+    "transcription": "shinku",
+    "type": "word"
+  },
+  {
+    "id": "fridge",
+    "word": "冷蔵庫",
+    "transcription": "reizouko",
+    "type": "word"
+  },
+  {
+    "id": "freezer",
+    "word": "冷凍庫",
+    "transcription": "reitouko",
+    "type": "word"
+  },
+  {
+    "id": "microwave",
+    "word": "電子レンジ",
+    "transcription": "denjirenji",
+    "type": "word"
+  },
+  {
+    "id": "toaster",
+    "word": "トースター",
+    "transcription": "tousutaa",
+    "type": "word"
+  },
+  {
+    "id": "blender",
+    "word": "ブレンダー",
+    "transcription": "burendaa",
+    "type": "word"
+  },
+  {
+    "id": "mixer",
+    "word": "ミキサー",
+    "transcription": "mikisaa",
+    "type": "word"
+  },
+  {
+    "id": "grill",
+    "word": "グリル",
+    "transcription": "guriru",
+    "type": "word"
+  },
+  {
+    "id": "tray",
+    "word": "トレイ",
+    "transcription": "torei",
+    "type": "word"
+  },
+  {
+    "id": "napkin",
+    "word": "ナプキン",
+    "transcription": "napukin",
+    "type": "word"
+  },
+  {
+    "id": "tablecloth",
+    "word": "テーブルクロス",
+    "transcription": "teeburukurosu",
+    "type": "word"
+  },
+  {
+    "id": "salt",
+    "word": "塩",
+    "transcription": "shio",
+    "type": "word"
+  },
+  {
+    "id": "pepper",
+    "word": "ペッパー",
+    "transcription": "peppaa",
+    "type": "word"
+  },
+  {
+    "id": "sugar",
+    "word": "砂糖",
+    "transcription": "satou",
+    "type": "word"
+  },
+  {
+    "id": "flour",
+    "word": "小麦粉",
+    "transcription": "komugiko",
+    "type": "word"
+  },
+  {
+    "id": "oil",
+    "word": "油",
+    "transcription": "abura",
+    "type": "word"
+  },
+  {
+    "id": "butter",
+    "word": "バター",
+    "transcription": "bataa",
+    "type": "word"
+  },
+  {
+    "id": "egg",
+    "word": "卵",
+    "transcription": "tamago",
+    "type": "word"
+  },
+  {
+    "id": "milk",
+    "word": "牛乳",
+    "transcription": "gyuunyuu",
+    "type": "word"
+  },
+  {
+    "id": "cheese",
+    "word": "チーズ",
+    "transcription": "chiizu",
+    "type": "word"
+  },
+  {
+    "id": "bread",
+    "word": "パン",
+    "transcription": "pan",
+    "type": "word"
+  },
+  {
+    "id": "rice",
+    "word": "米",
+    "transcription": "kome",
+    "type": "word"
+  },
+  {
+    "id": "pasta",
+    "word": "パスタ",
+    "transcription": "pasuta",
+    "type": "word"
+  },
+  {
+    "id": "soup",
+    "word": "スープ",
+    "transcription": "suupu",
+    "type": "word"
+  },
+  {
+    "id": "salad",
+    "word": "サラダ",
+    "transcription": "sarada",
+    "type": "word"
+  },
+  {
+    "id": "meat",
+    "word": "肉",
+    "transcription": "niku",
+    "type": "word"
+  },
+  {
+    "id": "fish",
+    "word": "魚",
+    "transcription": "sakana",
+    "type": "word"
+  },
+  {
+    "id": "chicken",
+    "word": "チキン",
+    "transcription": "chikin",
+    "type": "word"
+  },
+  {
+    "id": "vegetable",
+    "word": "野菜",
+    "transcription": "yasai",
+    "type": "word"
+  },
+  {
+    "id": "fruit",
+    "word": "フルーツ",
+    "transcription": "furuutsu",
+    "type": "word"
+  },
+  {
+    "id": "apple",
+    "word": "りんご",
+    "transcription": "ringo",
+    "type": "word"
+  },
+  {
+    "id": "banana",
+    "word": "バナナ",
+    "transcription": "banana",
+    "type": "word"
+  },
+  {
+    "id": "orange",
+    "word": "オレンジ",
+    "transcription": "orenji",
+    "type": "word"
+  },
+  {
+    "id": "tomato",
+    "word": "トマト",
+    "transcription": "tomato",
+    "type": "word"
+  },
+  {
+    "id": "potato",
+    "word": "じゃがいも",
+    "transcription": "jagaimo",
+    "type": "word"
+  },
+  {
+    "id": "onion",
+    "word": "タマネギ",
+    "transcription": "tamanegi",
+    "type": "word"
+  },
+  {
+    "id": "garlic",
+    "word": "ニンニク",
+    "transcription": "nin'niku",
+    "type": "word"
+  },
+  {
+    "id": "carrot",
+    "word": "ニンジン",
+    "transcription": "ninjin",
+    "type": "word"
+  },
+  {
+    "id": "cucumber",
+    "word": "キュウリ",
+    "transcription": "kyuuri",
+    "type": "word"
+  },
+  {
+    "id": "lettuce",
+    "word": "レタス",
+    "transcription": "retasu",
+    "type": "word"
+  },
+  {
+    "id": "pepper_vegetable",
+    "word": "ピーマン",
+    "transcription": "piiman",
+    "type": "word"
+  },
+  {
+    "id": "broccoli",
+    "word": "ブロッコリー",
+    "transcription": "burokkorii",
+    "type": "word"
+  },
+  {
+    "id": "mushroom",
+    "word": "キノコ",
+    "transcription": "kinoko",
+    "type": "word"
+  },
+  {
+    "id": "corn",
+    "word": "トウモロコシ",
+    "transcription": "toumorokoshi",
+    "type": "word"
+  },
+  {
+    "id": "beans",
+    "word": "豆",
+    "transcription": "mame",
+    "type": "word"
+  },
+  {
+    "id": "peas",
+    "word": "エンドウ豆",
+    "transcription": "endou mame",
+    "type": "word"
+  },
+  {
+    "id": "lemon",
+    "word": "レモン",
+    "transcription": "remon",
+    "type": "word"
+  },
+  {
+    "id": "lime",
+    "word": "ライム",
+    "transcription": "raimu",
+    "type": "word"
+  },
+  {
+    "id": "strawberry",
+    "word": "いちご",
+    "transcription": "ichigo",
+    "type": "word"
+  },
+  {
+    "id": "grape",
+    "word": "グレープ",
+    "transcription": "gureepu",
+    "type": "word"
+  },
+  {
+    "id": "watermelon",
+    "word": "スイカ",
+    "transcription": "suika",
+    "type": "word"
+  },
+  {
+    "id": "pineapple",
+    "word": "パイナップル",
+    "transcription": "painappuru",
+    "type": "word"
+  },
+  {
+    "id": "coffee",
+    "word": "コーヒー",
+    "transcription": "kouhii",
+    "type": "word"
+  },
+  {
+    "id": "tea",
+    "word": "お茶",
+    "transcription": "ocha",
+    "type": "word"
+  },
+  {
+    "id": "juice",
+    "word": "ジュース",
+    "transcription": "juusu",
+    "type": "word"
+  },
+  {
+    "id": "water",
+    "word": "水",
+    "transcription": "mizu",
+    "type": "word"
+  },
+  {
+    "id": "wine",
+    "word": "ワイン",
+    "transcription": "wain",
+    "type": "word"
+  },
+  {
+    "id": "beer",
+    "word": "ビール",
+    "transcription": "biiru",
+    "type": "word"
+  },
+  {
+    "id": "cook_verb",
+    "word": "料理する",
+    "transcription": "ryouri suru",
+    "type": "phrase"
+  },
+  {
+    "id": "bake",
+    "word": "焼く",
+    "transcription": "yaku",
+    "type": "word"
+  },
+  {
+    "id": "fry",
+    "word": "稚魚",
+    "transcription": "chigyo",
+    "type": "word"
+  },
+  {
+    "id": "boil",
+    "word": "沸騰させる",
+    "transcription": "futtou sa seru",
+    "type": "word"
+  },
+  {
+    "id": "steam",
+    "word": "スチーム",
+    "transcription": "suchiimu",
+    "type": "word"
+  },
+  {
+    "id": "grate",
+    "word": "格子",
+    "transcription": "koushi",
+    "type": "word"
+  },
+  {
+    "id": "slice",
+    "word": "スライス",
+    "transcription": "suraisu",
+    "type": "word"
+  },
+  {
+    "id": "chop",
+    "word": "チョップ",
+    "transcription": "choppu",
+    "type": "word"
+  },
+  {
+    "id": "mix",
+    "word": "ミックス",
+    "transcription": "mikkusu",
+    "type": "word"
+  },
+  {
+    "id": "stir",
+    "word": "かき混ぜる",
+    "transcription": "kakimazeru",
+    "type": "word"
+  },
+  {
+    "id": "pour",
+    "word": "注ぐ",
+    "transcription": "sosogu",
+    "type": "word"
+  },
+  {
+    "id": "wash",
+    "word": "洗う",
+    "transcription": "arau",
+    "type": "word"
+  },
+  {
+    "id": "peel",
+    "word": "皮をむく",
+    "transcription": "kawa o muku",
+    "type": "word"
+  },
+  {
+    "id": "measure",
+    "word": "測定",
+    "transcription": "sokutei",
+    "type": "word"
+  },
+  {
+    "id": "taste",
+    "word": "味",
+    "transcription": "aji",
+    "type": "word"
+  },
+  {
+    "id": "smell",
+    "word": "匂い",
+    "transcription": "nioi",
+    "type": "word"
+  },
+  {
+    "id": "delicious",
+    "word": "美味しい",
+    "transcription": "oishii",
+    "type": "word"
+  },
+  {
+    "id": "spicy",
+    "word": "辛い",
+    "transcription": "tsurai",
+    "type": "word"
+  },
+  {
+    "id": "sweet",
+    "word": "甘い",
+    "transcription": "amai",
+    "type": "word"
+  },
+  {
+    "id": "salty",
+    "word": "塩辛い",
+    "transcription": "shiokarai",
+    "type": "word"
+  },
+  {
+    "id": "sour",
+    "word": "酸っぱい",
+    "transcription": "suppai",
+    "type": "word"
+  },
+  {
+    "id": "bitter",
+    "word": "苦い",
+    "transcription": "nigai",
+    "type": "word"
+  }
+]

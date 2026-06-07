@@ -1,0 +1,296 @@
+[
+  {
+    "id": "transport",
+    "word": "輸送",
+    "transcription": "yusou",
+    "type": "word"
+  },
+  {
+    "id": "car",
+    "word": "車",
+    "transcription": "kuruma",
+    "type": "word"
+  },
+  {
+    "id": "bus",
+    "word": "バス",
+    "transcription": "basu",
+    "type": "word"
+  },
+  {
+    "id": "train",
+    "word": "電車",
+    "transcription": "densha",
+    "type": "word"
+  },
+  {
+    "id": "tram",
+    "word": "トラム",
+    "transcription": "toramu",
+    "type": "word"
+  },
+  {
+    "id": "metro",
+    "word": "地下鉄",
+    "transcription": "chikatetsu",
+    "type": "word"
+  },
+  {
+    "id": "subway",
+    "word": "地下鉄",
+    "transcription": "chikatetsu",
+    "type": "word"
+  },
+  {
+    "id": "taxi",
+    "word": "タクシー",
+    "transcription": "takushii",
+    "type": "word"
+  },
+  {
+    "id": "bike",
+    "word": "自転車",
+    "transcription": "jitensha",
+    "type": "word"
+  },
+  {
+    "id": "bicycle",
+    "word": "自転車",
+    "transcription": "jitensha",
+    "type": "word"
+  },
+  {
+    "id": "motorcycle",
+    "word": "オートバイ",
+    "transcription": "outobai",
+    "type": "word"
+  },
+  {
+    "id": "scooter",
+    "word": "スクーター",
+    "transcription": "sukuutaa",
+    "type": "word"
+  },
+  {
+    "id": "plane",
+    "word": "飛行機",
+    "transcription": "hikouki",
+    "type": "word"
+  },
+  {
+    "id": "airport",
+    "word": "空港",
+    "transcription": "kuukou",
+    "type": "word"
+  },
+  {
+    "id": "flight",
+    "word": "フライト",
+    "transcription": "furaito",
+    "type": "word"
+  },
+  {
+    "id": "ticket",
+    "word": "チケット",
+    "transcription": "chiketto",
+    "type": "word"
+  },
+  {
+    "id": "station",
+    "word": "駅",
+    "transcription": "eki",
+    "type": "word"
+  },
+  {
+    "id": "stop",
+    "word": "停止",
+    "transcription": "teishi",
+    "type": "word"
+  },
+  {
+    "id": "driver",
+    "word": "ドライバ",
+    "transcription": "doraiba",
+    "type": "word"
+  },
+  {
+    "id": "passenger",
+    "word": "乗客",
+    "transcription": "joukyaku",
+    "type": "word"
+  },
+  {
+    "id": "road",
+    "word": "道",
+    "transcription": "michi",
+    "type": "word"
+  },
+  {
+    "id": "street",
+    "word": "通り",
+    "transcription": "touri",
+    "type": "word"
+  },
+  {
+    "id": "highway",
+    "word": "高速道路",
+    "transcription": "kouzokudouro",
+    "type": "word"
+  },
+  {
+    "id": "traffic",
+    "word": "渋滞",
+    "transcription": "juutai",
+    "type": "word"
+  },
+  {
+    "id": "traffic_jam",
+    "word": "渋滞",
+    "transcription": "juutai",
+    "type": "phrase"
+  },
+  {
+    "id": "map",
+    "word": "地図",
+    "transcription": "chizu",
+    "type": "word"
+  },
+  {
+    "id": "route",
+    "word": "ルート",
+    "transcription": "ruuto",
+    "type": "word"
+  },
+  {
+    "id": "destination",
+    "word": "行き先",
+    "transcription": "ikisaki",
+    "type": "word"
+  },
+  {
+    "id": "departure",
+    "word": "出発",
+    "transcription": "shuppatsu",
+    "type": "word"
+  },
+  {
+    "id": "arrival",
+    "word": "到着",
+    "transcription": "touchaku",
+    "type": "word"
+  },
+  {
+    "id": "platform",
+    "word": "プラットフォーム",
+    "transcription": "purattofoumu",
+    "type": "word"
+  },
+  {
+    "id": "seat",
+    "word": "シート",
+    "transcription": "shiito",
+    "type": "word"
+  },
+  {
+    "id": "window",
+    "word": "ウィンドウ",
+    "transcription": "u~indou",
+    "type": "word"
+  },
+  {
+    "id": "ticket_machine",
+    "word": "券売機",
+    "transcription": "kenbaiki",
+    "type": "phrase"
+  },
+  {
+    "id": "luggage",
+    "word": "荷物",
+    "transcription": "nimotsu",
+    "type": "word"
+  },
+  {
+    "id": "bag",
+    "word": "バッグ",
+    "transcription": "baggu",
+    "type": "word"
+  },
+  {
+    "id": "passport",
+    "word": "パスポート",
+    "transcription": "pasupouto",
+    "type": "word"
+  },
+  {
+    "id": "border",
+    "word": "国境",
+    "transcription": "kokkyou",
+    "type": "word"
+  },
+  {
+    "id": "customs",
+    "word": "税関",
+    "transcription": "zeikan",
+    "type": "word"
+  },
+  {
+    "id": "delay",
+    "word": "遅れ",
+    "transcription": "okure",
+    "type": "word"
+  },
+  {
+    "id": "fast",
+    "word": "速い",
+    "transcription": "hayai",
+    "type": "word"
+  },
+  {
+    "id": "slow",
+    "word": "遅い",
+    "transcription": "osoi",
+    "type": "word"
+  },
+  {
+    "id": "safe",
+    "word": "安全",
+    "transcription": "anzen",
+    "type": "word"
+  },
+  {
+    "id": "travel",
+    "word": "旅行",
+    "transcription": "ryokou",
+    "type": "word"
+  },
+  {
+    "id": "journey",
+    "word": "旅",
+    "transcription": "tabi",
+    "type": "word"
+  },
+  {
+    "id": "trip",
+    "word": "旅行",
+    "transcription": "ryokou",
+    "type": "word"
+  },
+  {
+    "id": "drive",
+    "word": "ドライブ",
+    "transcription": "doraibu",
+    "type": "word"
+  },
+  {
+    "id": "ride",
+    "word": "乗る",
+    "transcription": "noru",
+    "type": "word"
+  },
+  {
+    "id": "parking",
+    "word": "駐車場",
+    "transcription": "chuushajou",
+    "type": "word"
+  }
+]

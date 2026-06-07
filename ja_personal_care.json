@@ -1,0 +1,248 @@
+[
+  {
+    "id": "personal_care",
+    "word": "パーソナルケア",
+    "transcription": "paasonarukea",
+    "type": "phrase"
+  },
+  {
+    "id": "shower",
+    "word": "シャワーを浴びる",
+    "transcription": "shawaa o abiru",
+    "type": "phrase"
+  },
+  {
+    "id": "bath",
+    "word": "お風呂に入る",
+    "transcription": "ofuronihairu",
+    "type": "phrase"
+  },
+  {
+    "id": "wash_face",
+    "word": "洗顔",
+    "transcription": "sengan",
+    "type": "phrase"
+  },
+  {
+    "id": "brush_teeth",
+    "word": "歯を磨く",
+    "transcription": "hawomigaku",
+    "type": "phrase"
+  },
+  {
+    "id": "floss",
+    "word": "フロスの歯",
+    "transcription": "furosu no ha",
+    "type": "phrase"
+  },
+  {
+    "id": "comb_hair",
+    "word": "髪をとかす",
+    "transcription": "kamiwotokasu",
+    "type": "phrase"
+  },
+  {
+    "id": "brush_hair",
+    "word": "ブラシの毛",
+    "transcription": "burashi no ke",
+    "type": "phrase"
+  },
+  {
+    "id": "shave",
+    "word": "剃る",
+    "transcription": "soru",
+    "type": "verb"
+  },
+  {
+    "id": "makeup",
+    "word": "補う",
+    "transcription": "oginau",
+    "type": "word"
+  },
+  {
+    "id": "moisturize",
+    "word": "保湿する",
+    "transcription": "hoshitsu suru",
+    "type": "verb"
+  },
+  {
+    "id": "wash_hands",
+    "word": "手を洗う",
+    "transcription": "te o arau",
+    "type": "phrase"
+  },
+  {
+    "id": "soap",
+    "word": "石鹸",
+    "transcription": "sekken",
+    "type": "word"
+  },
+  {
+    "id": "shampoo",
+    "word": "シャンプー",
+    "transcription": "shanpuu",
+    "type": "word"
+  },
+  {
+    "id": "conditioner",
+    "word": "コンディショナー",
+    "transcription": "kondishonaa",
+    "type": "word"
+  },
+  {
+    "id": "toothpaste",
+    "word": "歯磨き粉",
+    "transcription": "hamigakiko",
+    "type": "word"
+  },
+  {
+    "id": "toothbrush",
+    "word": "歯ブラシ",
+    "transcription": "haburashi",
+    "type": "word"
+  },
+  {
+    "id": "deodorant",
+    "word": "デオドラント",
+    "transcription": "deodoranto",
+    "type": "word"
+  },
+  {
+    "id": "perfume",
+    "word": "香水",
+    "transcription": "kousui",
+    "type": "word"
+  },
+  {
+    "id": "lotion",
+    "word": "ローション",
+    "transcription": "roushon",
+    "type": "word"
+  },
+  {
+    "id": "towel",
+    "word": "タオル",
+    "transcription": "taoru",
+    "type": "word"
+  },
+  {
+    "id": "nail_clipper",
+    "word": "爪切り",
+    "transcription": "tsume-kiri",
+    "type": "phrase"
+  },
+  {
+    "id": "clip_nails",
+    "word": "爪を切る",
+    "transcription": "tsume o kiru",
+    "type": "phrase"
+  },
+  {
+    "id": "clean_ears",
+    "word": "耳をきれいにする",
+    "transcription": "mimi o kirei ni suru",
+    "type": "phrase"
+  },
+  {
+    "id": "face_cream",
+    "word": "フェイスクリーム",
+    "transcription": "feisukuriimu",
+    "type": "phrase"
+  },
+  {
+    "id": "suncream",
+    "word": "日焼け止めクリーム",
+    "transcription": "hiyakedome kuriimu",
+    "type": "word"
+  },
+  {
+    "id": "mirror",
+    "word": "鏡",
+    "transcription": "kagami",
+    "type": "word"
+  },
+  {
+    "id": "razor",
+    "word": "かみそり",
+    "transcription": "kami sori",
+    "type": "word"
+  },
+  {
+    "id": "beauty_salon",
+    "word": "美容院",
+    "transcription": "miyouin",
+    "type": "phrase"
+  },
+  {
+    "id": "haircut",
+    "word": "散髪",
+    "transcription": "sanpatsu",
+    "type": "word"
+  },
+  {
+    "id": "barber",
+    "word": "理容師",
+    "transcription": "riyou-shi",
+    "type": "word"
+  },
+  {
+    "id": "clean_body",
+    "word": "きれいな体",
+    "transcription": "kireina karada",
+    "type": "phrase"
+  },
+  {
+    "id": "fresh",
+    "word": "新鮮な",
+    "transcription": "shinsen'na",
+    "type": "word"
+  },
+  {
+    "id": "hygiene",
+    "word": "衛生",
+    "transcription": "eisei",
+    "type": "word"
+  },
+  {
+    "id": "care_skin",
+    "word": "スキンケア",
+    "transcription": "sukin kea",
+    "type": "phrase"
+  },
+  {
+    "id": "care_hair",
+    "word": "ヘアケア",
+    "transcription": "hea kea",
+    "type": "phrase"
+  },
+  {
+    "id": "care_teeth",
+    "word": "歯科治療",
+    "transcription": "shika chiryou",
+    "type": "phrase"
+  },
+  {
+    "id": "bathroom",
+    "word": "バスルーム",
+    "transcription": "basuruumu",
+    "type": "word"
+  },
+  {
+    "id": "mirror_check",
+    "word": "チェックミラー",
+    "transcription": "chekkumiraa",
+    "type": "phrase"
+  },
+  {
+    "id": "get_ready",
+    "word": "準備をする",
+    "transcription": "junbi o suru",
+    "type": "phrase"
+  },
+  {
+    "id": "look_good",
+    "word": "良く見える",
+    "transcription": "yoku mieru",
+    "type": "phrase"
+  }
+]

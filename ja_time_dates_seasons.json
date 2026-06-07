@@ -1,0 +1,296 @@
+[
+  {
+    "id": "time",
+    "word": "時間",
+    "transcription": "jikan",
+    "type": "word"
+  },
+  {
+    "id": "hour",
+    "word": "時間",
+    "transcription": "jikan",
+    "type": "word"
+  },
+  {
+    "id": "minute",
+    "word": "分",
+    "transcription": "bun",
+    "type": "word"
+  },
+  {
+    "id": "second",
+    "word": "2番",
+    "transcription": "2-ban",
+    "type": "word"
+  },
+  {
+    "id": "day",
+    "word": "日",
+    "transcription": "hi",
+    "type": "word"
+  },
+  {
+    "id": "night",
+    "word": "夜",
+    "transcription": "yoru",
+    "type": "word"
+  },
+  {
+    "id": "morning",
+    "word": "朝",
+    "transcription": "asa",
+    "type": "word"
+  },
+  {
+    "id": "afternoon",
+    "word": "午後",
+    "transcription": "gogo",
+    "type": "word"
+  },
+  {
+    "id": "evening",
+    "word": "夕方",
+    "transcription": "yuugata",
+    "type": "word"
+  },
+  {
+    "id": "today",
+    "word": "今日",
+    "transcription": "kyou",
+    "type": "word"
+  },
+  {
+    "id": "tomorrow",
+    "word": "明日",
+    "transcription": "ashita",
+    "type": "word"
+  },
+  {
+    "id": "yesterday",
+    "word": "昨日",
+    "transcription": "kinou",
+    "type": "word"
+  },
+  {
+    "id": "week",
+    "word": "週",
+    "transcription": "shuu",
+    "type": "word"
+  },
+  {
+    "id": "month",
+    "word": "月",
+    "transcription": "tsuki",
+    "type": "word"
+  },
+  {
+    "id": "year",
+    "word": "年",
+    "transcription": "toshi",
+    "type": "word"
+  },
+  {
+    "id": "calendar",
+    "word": "カレンダー",
+    "transcription": "karendaa",
+    "type": "word"
+  },
+  {
+    "id": "date",
+    "word": "デート",
+    "transcription": "deto",
+    "type": "word"
+  },
+  {
+    "id": "season",
+    "word": "季節",
+    "transcription": "kisetsu",
+    "type": "word"
+  },
+  {
+    "id": "spring",
+    "word": "春",
+    "transcription": "haru",
+    "type": "word"
+  },
+  {
+    "id": "summer",
+    "word": "夏",
+    "transcription": "natsu",
+    "type": "word"
+  },
+  {
+    "id": "autumn",
+    "word": "秋",
+    "transcription": "aki",
+    "type": "word"
+  },
+  {
+    "id": "winter",
+    "word": "冬",
+    "transcription": "fuyu",
+    "type": "word"
+  },
+  {
+    "id": "january",
+    "word": "1月",
+    "transcription": "1 tsuki",
+    "type": "word"
+  },
+  {
+    "id": "february",
+    "word": "2月",
+    "transcription": "2 tsuki",
+    "type": "word"
+  },
+  {
+    "id": "march",
+    "word": "行進",
+    "transcription": "koushin",
+    "type": "word"
+  },
+  {
+    "id": "april",
+    "word": "4月",
+    "transcription": "4 tsuki",
+    "type": "word"
+  },
+  {
+    "id": "may",
+    "word": "5月",
+    "transcription": "go gatsu",
+    "type": "word"
+  },
+  {
+    "id": "june",
+    "word": "6月",
+    "transcription": "6 tsuki",
+    "type": "word"
+  },
+  {
+    "id": "july",
+    "word": "7月",
+    "transcription": "7 tsuki",
+    "type": "word"
+  },
+  {
+    "id": "august",
+    "word": "8月",
+    "transcription": "8 tsuki",
+    "type": "word"
+  },
+  {
+    "id": "september",
+    "word": "9月",
+    "transcription": "9 tsuki",
+    "type": "word"
+  },
+  {
+    "id": "october",
+    "word": "10月",
+    "transcription": "10 tsuki",
+    "type": "word"
+  },
+  {
+    "id": "november",
+    "word": "11月",
+    "transcription": "11 tsuki",
+    "type": "word"
+  },
+  {
+    "id": "december",
+    "word": "12月",
+    "transcription": "12 tsuki",
+    "type": "word"
+  },
+  {
+    "id": "weekend",
+    "word": "週末",
+    "transcription": "shuumatsu",
+    "type": "word"
+  },
+  {
+    "id": "weekday",
+    "word": "平日",
+    "transcription": "heijitsu",
+    "type": "word"
+  },
+  {
+    "id": "monday",
+    "word": "月曜日",
+    "transcription": "getsuyoubi",
+    "type": "word"
+  },
+  {
+    "id": "tuesday",
+    "word": "火曜日",
+    "transcription": "kayoubi",
+    "type": "word"
+  },
+  {
+    "id": "wednesday",
+    "word": "水曜日",
+    "transcription": "suiyoubi",
+    "type": "word"
+  },
+  {
+    "id": "thursday",
+    "word": "木曜日",
+    "transcription": "mokuyoubi",
+    "type": "word"
+  },
+  {
+    "id": "friday",
+    "word": "金曜日",
+    "transcription": "kin'youbi",
+    "type": "word"
+  },
+  {
+    "id": "saturday",
+    "word": "土曜日",
+    "transcription": "doyoubi",
+    "type": "word"
+  },
+  {
+    "id": "sunday",
+    "word": "日曜日",
+    "transcription": "nichiyoubi",
+    "type": "word"
+  },
+  {
+    "id": "now",
+    "word": "今",
+    "transcription": "ima",
+    "type": "word"
+  },
+  {
+    "id": "later",
+    "word": "後で",
+    "transcription": "atode",
+    "type": "word"
+  },
+  {
+    "id": "soon",
+    "word": "すぐ",
+    "transcription": "sugu",
+    "type": "word"
+  },
+  {
+    "id": "always",
+    "word": "いつも",
+    "transcription": "itsumo",
+    "type": "word"
+  },
+  {
+    "id": "never",
+    "word": "一度もない",
+    "transcription": "ichido mo nai",
+    "type": "word"
+  },
+  {
+    "id": "sometimes",
+    "word": "時々",
+    "transcription": "tokidoki",
+    "type": "word"
+  }
+]

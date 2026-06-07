@@ -1,0 +1,290 @@
+[
+  {
+    "id": "sport",
+    "word": "スポーツ",
+    "transcription": "supoutsu",
+    "type": "word"
+  },
+  {
+    "id": "fitness",
+    "word": "フィットネス",
+    "transcription": "fittonesu",
+    "type": "word"
+  },
+  {
+    "id": "gym",
+    "word": "ジム",
+    "transcription": "jimu",
+    "type": "word"
+  },
+  {
+    "id": "training",
+    "word": "トレーニング",
+    "transcription": "toreeningu",
+    "type": "word"
+  },
+  {
+    "id": "exercise",
+    "word": "エクササイズ",
+    "transcription": "ekusasaizu",
+    "type": "word"
+  },
+  {
+    "id": "workout",
+    "word": "いい結果",
+    "transcription": "ii kekka",
+    "type": "word"
+  },
+  {
+    "id": "run",
+    "word": "走る",
+    "transcription": "hashiru",
+    "type": "word"
+  },
+  {
+    "id": "walk",
+    "word": "歩く",
+    "transcription": "aruku",
+    "type": "word"
+  },
+  {
+    "id": "jump",
+    "word": "ジャンプ",
+    "transcription": "janpu",
+    "type": "word"
+  },
+  {
+    "id": "stretch",
+    "word": "ストレッチ",
+    "transcription": "sutoretchi",
+    "type": "word"
+  },
+  {
+    "id": "yoga",
+    "word": "ヨガ",
+    "transcription": "yoga",
+    "type": "word"
+  },
+  {
+    "id": "meditation",
+    "word": "瞑想",
+    "transcription": "meisou",
+    "type": "word"
+  },
+  {
+    "id": "breathing",
+    "word": "呼吸",
+    "transcription": "kokyuu",
+    "type": "word"
+  },
+  {
+    "id": "relax",
+    "word": "リラックス",
+    "transcription": "rirakkusu",
+    "type": "word"
+  },
+  {
+    "id": "body",
+    "word": "体",
+    "transcription": "karada",
+    "type": "word"
+  },
+  {
+    "id": "health",
+    "word": "健康",
+    "transcription": "kenkou",
+    "type": "word"
+  },
+  {
+    "id": "strength",
+    "word": "強さ",
+    "transcription": "tsuyo-sa",
+    "type": "word"
+  },
+  {
+    "id": "muscle",
+    "word": "筋",
+    "transcription": "suji",
+    "type": "word"
+  },
+  {
+    "id": "energy",
+    "word": "エネルギー",
+    "transcription": "enerugii",
+    "type": "word"
+  },
+  {
+    "id": "balance",
+    "word": "バランス",
+    "transcription": "baransu",
+    "type": "word"
+  },
+  {
+    "id": "pose",
+    "word": "ポーズ",
+    "transcription": "pouzu",
+    "type": "word"
+  },
+  {
+    "id": "plank",
+    "word": "板",
+    "transcription": "ita",
+    "type": "exercise"
+  },
+  {
+    "id": "squat",
+    "word": "しゃがむ",
+    "transcription": "shagamu",
+    "type": "exercise"
+  },
+  {
+    "id": "push_up",
+    "word": "腕立て伏せ",
+    "transcription": "udetatefuse",
+    "type": "exercise"
+  },
+  {
+    "id": "sit_up",
+    "word": "座る",
+    "transcription": "suwaru",
+    "type": "exercise"
+  },
+  {
+    "id": "run_fast",
+    "word": "速く走る",
+    "transcription": "hayakuhashiru",
+    "type": "phrase"
+  },
+  {
+    "id": "team",
+    "word": "チーム",
+    "transcription": "chiimu",
+    "type": "word"
+  },
+  {
+    "id": "game",
+    "word": "ゲーム",
+    "transcription": "geemu",
+    "type": "word"
+  },
+  {
+    "id": "match",
+    "word": "マッチ",
+    "transcription": "matchi",
+    "type": "word"
+  },
+  {
+    "id": "win",
+    "word": "勝つ",
+    "transcription": "katsu",
+    "type": "word"
+  },
+  {
+    "id": "lose",
+    "word": "失う",
+    "transcription": "ushinau",
+    "type": "word"
+  },
+  {
+    "id": "coach",
+    "word": "コーチ",
+    "transcription": "kouchi",
+    "type": "word"
+  },
+  {
+    "id": "player",
+    "word": "プレーヤー",
+    "transcription": "pureeyaa",
+    "type": "word"
+  },
+  {
+    "id": "stadium",
+    "word": "スタジアム",
+    "transcription": "sutajiamu",
+    "type": "word"
+  },
+  {
+    "id": "ball",
+    "word": "ボール",
+    "transcription": "bouru",
+    "type": "word"
+  },
+  {
+    "id": "football",
+    "word": "フットボール",
+    "transcription": "futtobouru",
+    "type": "word"
+  },
+  {
+    "id": "basketball",
+    "word": "バスケットボール",
+    "transcription": "basukettobouru",
+    "type": "word"
+  },
+  {
+    "id": "tennis",
+    "word": "テニス",
+    "transcription": "tenisu",
+    "type": "word"
+  },
+  {
+    "id": "swimming",
+    "word": "水泳",
+    "transcription": "suiei",
+    "type": "word"
+  },
+  {
+    "id": "cycling",
+    "word": "サイクリング",
+    "transcription": "saikuringu",
+    "type": "word"
+  },
+  {
+    "id": "bike",
+    "word": "自転車",
+    "transcription": "jitensha",
+    "type": "word"
+  },
+  {
+    "id": "water",
+    "word": "水",
+    "transcription": "mizu",
+    "type": "word"
+  },
+  {
+    "id": "sweat",
+    "word": "汗",
+    "transcription": "ase",
+    "type": "word"
+  },
+  {
+    "id": "tired",
+    "word": "疲れた",
+    "transcription": "tsukareta",
+    "type": "word"
+  },
+  {
+    "id": "strong",
+    "word": "強い",
+    "transcription": "tsuyoi",
+    "type": "word"
+  },
+  {
+    "id": "healthy_lifestyle",
+    "word": "健康的なライフスタイル",
+    "transcription": "kenkou-tekina raifusutairu",
+    "type": "phrase"
+  },
+  {
+    "id": "morning_run",
+    "word": "朝のランニング",
+    "transcription": "asa no ran'ningu",
+    "type": "phrase"
+  },
+  {
+    "id": "fitness_club",
+    "word": "フィットネスクラブ",
+    "transcription": "fittonesukurabu",
+    "type": "phrase"
+  }
+]

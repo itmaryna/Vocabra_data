@@ -1,0 +1,770 @@
+[
+  {
+    "id": "clothes",
+    "word": "服",
+    "transcription": "fuku",
+    "type": "word"
+  },
+  {
+    "id": "clothing",
+    "word": "衣類",
+    "transcription": "irui",
+    "type": "word"
+  },
+  {
+    "id": "outfit",
+    "word": "服装",
+    "transcription": "fukusou",
+    "type": "word"
+  },
+  {
+    "id": "fashion",
+    "word": "ファッション",
+    "transcription": "fasshon",
+    "type": "word"
+  },
+  {
+    "id": "style",
+    "word": "スタイル",
+    "transcription": "sutairu",
+    "type": "word"
+  },
+  {
+    "id": "shirt",
+    "word": "シャツ",
+    "transcription": "shatsu",
+    "type": "word"
+  },
+  {
+    "id": "t_shirt",
+    "word": "Tシャツ",
+    "transcription": "tiishatsu",
+    "type": "word"
+  },
+  {
+    "id": "long_sleeve_shirt",
+    "word": "長袖シャツ",
+    "transcription": "nagasode shatsu",
+    "type": "word"
+  },
+  {
+    "id": "short_sleeve_shirt",
+    "word": "半袖シャツ",
+    "transcription": "hansode shatsu",
+    "type": "word"
+  },
+  {
+    "id": "tank_top",
+    "word": "タンクトップ",
+    "transcription": "tanku toppu",
+    "type": "word"
+  },
+  {
+    "id": "hoodie",
+    "word": "パーカー",
+    "transcription": "paka",
+    "type": "word"
+  },
+  {
+    "id": "sweater",
+    "word": "セーター",
+    "transcription": "seetaa",
+    "type": "word"
+  },
+  {
+    "id": "cardigan",
+    "word": "カーディガン",
+    "transcription": "kaadigan",
+    "type": "word"
+  },
+  {
+    "id": "jacket",
+    "word": "ジャケット",
+    "transcription": "jaketto",
+    "type": "word"
+  },
+  {
+    "id": "coat",
+    "word": "コート",
+    "transcription": "kouto",
+    "type": "word"
+  },
+  {
+    "id": "raincoat",
+    "word": "レインコート",
+    "transcription": "reinkouto",
+    "type": "word"
+  },
+  {
+    "id": "winter_coat",
+    "word": "冬のコート",
+    "transcription": "fuyu no kouto",
+    "type": "word"
+  },
+  {
+    "id": "blazer",
+    "word": "ブレザー",
+    "transcription": "burezaa",
+    "type": "word"
+  },
+  {
+    "id": "suit",
+    "word": "スーツ",
+    "transcription": "suutsu",
+    "type": "word"
+  },
+  {
+    "id": "vest",
+    "word": "ベスト",
+    "transcription": "besuto",
+    "type": "word"
+  },
+  {
+    "id": "pants",
+    "word": "パンツ",
+    "transcription": "pantsu",
+    "type": "word"
+  },
+  {
+    "id": "trousers",
+    "word": "ズボン",
+    "transcription": "zubon",
+    "type": "word"
+  },
+  {
+    "id": "jeans",
+    "word": "ジーンズ",
+    "transcription": "jiinzu",
+    "type": "word"
+  },
+  {
+    "id": "shorts",
+    "word": "ショートパンツ",
+    "transcription": "shoutopantsu",
+    "type": "word"
+  },
+  {
+    "id": "leggings",
+    "word": "レギンス",
+    "transcription": "reginsu",
+    "type": "word"
+  },
+  {
+    "id": "skirt",
+    "word": "スカート",
+    "transcription": "sukaato",
+    "type": "word"
+  },
+  {
+    "id": "dress",
+    "word": "ドレス",
+    "transcription": "doresu",
+    "type": "word"
+  },
+  {
+    "id": "summer_dress",
+    "word": "サマードレス",
+    "transcription": "samaadoresu",
+    "type": "word"
+  },
+  {
+    "id": "evening_dress",
+    "word": "イブニングドレス",
+    "transcription": "ibuningudoresu",
+    "type": "word"
+  },
+  {
+    "id": "underwear",
+    "word": "下着",
+    "transcription": "shitagi",
+    "type": "word"
+  },
+  {
+    "id": "bra",
+    "word": "ブラジャー",
+    "transcription": "buraja",
+    "type": "word"
+  },
+  {
+    "id": "underpants",
+    "word": "下着",
+    "transcription": "shitagi",
+    "type": "word"
+  },
+  {
+    "id": "socks",
+    "word": "ソックス",
+    "transcription": "sokkusu",
+    "type": "word"
+  },
+  {
+    "id": "tights",
+    "word": "タイツ",
+    "transcription": "taitsu",
+    "type": "word"
+  },
+  {
+    "id": "pajamas",
+    "word": "パジャマ",
+    "transcription": "pajama",
+    "type": "word"
+  },
+  {
+    "id": "robe",
+    "word": "ローブ",
+    "transcription": "roubu",
+    "type": "word"
+  },
+  {
+    "id": "swimsuit",
+    "word": "水着",
+    "transcription": "mizugi",
+    "type": "word"
+  },
+  {
+    "id": "bikini",
+    "word": "ビキニ",
+    "transcription": "bikini",
+    "type": "word"
+  },
+  {
+    "id": "swimming_trunks",
+    "word": "水泳パンツ",
+    "transcription": "suiei pantsu",
+    "type": "word"
+  },
+  {
+    "id": "shoes",
+    "word": "靴",
+    "transcription": "kutsu",
+    "type": "word"
+  },
+  {
+    "id": "sneakers",
+    "word": "スニーカー",
+    "transcription": "sunika",
+    "type": "word"
+  },
+  {
+    "id": "boots",
+    "word": "ブーツ",
+    "transcription": "buutsu",
+    "type": "word"
+  },
+  {
+    "id": "sandals",
+    "word": "サンダル",
+    "transcription": "sandaru",
+    "type": "word"
+  },
+  {
+    "id": "slippers",
+    "word": "スリッパ",
+    "transcription": "surippa",
+    "type": "word"
+  },
+  {
+    "id": "heels",
+    "word": "ハイヒール",
+    "transcription": "haihiru",
+    "type": "word"
+  },
+  {
+    "id": "flip_flops",
+    "word": "ビーチサンダル",
+    "transcription": "bichi sandaru",
+    "type": "word"
+  },
+  {
+    "id": "hat",
+    "word": "帽子",
+    "transcription": "boushi",
+    "type": "word"
+  },
+  {
+    "id": "cap",
+    "word": "キャップ",
+    "transcription": "kyappu",
+    "type": "word"
+  },
+  {
+    "id": "beanie",
+    "word": "ニット帽",
+    "transcription": "nitto bo",
+    "type": "word"
+  },
+  {
+    "id": "scarf",
+    "word": "スカーフ",
+    "transcription": "sukaafu",
+    "type": "word"
+  },
+  {
+    "id": "gloves",
+    "word": "手袋",
+    "transcription": "tebukuro",
+    "type": "word"
+  },
+  {
+    "id": "belt",
+    "word": "ベルト",
+    "transcription": "beruto",
+    "type": "word"
+  },
+  {
+    "id": "tie",
+    "word": "ネクタイ",
+    "transcription": "nekutai",
+    "type": "word"
+  },
+  {
+    "id": "bow_tie",
+    "word": "蝶ネクタイ",
+    "transcription": "cho nekutai",
+    "type": "word"
+  },
+  {
+    "id": "bag",
+    "word": "バッグ",
+    "transcription": "baggu",
+    "type": "word"
+  },
+  {
+    "id": "backpack",
+    "word": "バックパック",
+    "transcription": "bakku pakku",
+    "type": "word"
+  },
+  {
+    "id": "handbag",
+    "word": "ハンドバッグ",
+    "transcription": "handobaggu",
+    "type": "word"
+  },
+  {
+    "id": "wallet",
+    "word": "財布",
+    "transcription": "saifu",
+    "type": "word"
+  },
+  {
+    "id": "watch",
+    "word": "時計",
+    "transcription": "tokei",
+    "type": "word"
+  },
+  {
+    "id": "sunglasses",
+    "word": "サングラス",
+    "transcription": "sangurasu",
+    "type": "word"
+  },
+  {
+    "id": "umbrella",
+    "word": "傘",
+    "transcription": "kasa",
+    "type": "word"
+  },
+  {
+    "id": "zipper",
+    "word": "ジッパー",
+    "transcription": "jippaa",
+    "type": "word"
+  },
+  {
+    "id": "button",
+    "word": "ボタン",
+    "transcription": "botan",
+    "type": "word"
+  },
+  {
+    "id": "pocket",
+    "word": "ポケット",
+    "transcription": "poketto",
+    "type": "word"
+  },
+  {
+    "id": "sleeve",
+    "word": "スリーブ",
+    "transcription": "suriibu",
+    "type": "word"
+  },
+  {
+    "id": "collar",
+    "word": "襟",
+    "transcription": "eri",
+    "type": "word"
+  },
+  {
+    "id": "hood",
+    "word": "フード",
+    "transcription": "fuudo",
+    "type": "word"
+  },
+  {
+    "id": "fabric",
+    "word": "ファブリック",
+    "transcription": "faburikku",
+    "type": "word"
+  },
+  {
+    "id": "cotton",
+    "word": "コットン",
+    "transcription": "kotton",
+    "type": "word"
+  },
+  {
+    "id": "wool",
+    "word": "ウール",
+    "transcription": "uuru",
+    "type": "word"
+  },
+  {
+    "id": "leather",
+    "word": "レザー",
+    "transcription": "rezaa",
+    "type": "word"
+  },
+  {
+    "id": "silk",
+    "word": "シルク",
+    "transcription": "shiruku",
+    "type": "word"
+  },
+  {
+    "id": "linen",
+    "word": "リネン",
+    "transcription": "rinen",
+    "type": "word"
+  },
+  {
+    "id": "denim",
+    "word": "デニム",
+    "transcription": "denimu",
+    "type": "word"
+  },
+  {
+    "id": "black",
+    "word": "黒",
+    "transcription": "kuro",
+    "type": "word"
+  },
+  {
+    "id": "white",
+    "word": "白",
+    "transcription": "shiro",
+    "type": "word"
+  },
+  {
+    "id": "gray",
+    "word": "グレー",
+    "transcription": "guree",
+    "type": "word"
+  },
+  {
+    "id": "red",
+    "word": "赤",
+    "transcription": "aka",
+    "type": "word"
+  },
+  {
+    "id": "blue",
+    "word": "青",
+    "transcription": "ao",
+    "type": "word"
+  },
+  {
+    "id": "green",
+    "word": "緑",
+    "transcription": "midori",
+    "type": "word"
+  },
+  {
+    "id": "yellow",
+    "word": "黄色",
+    "transcription": "kiiro",
+    "type": "word"
+  },
+  {
+    "id": "pink",
+    "word": "ピンク",
+    "transcription": "pinku",
+    "type": "word"
+  },
+  {
+    "id": "purple",
+    "word": "紫",
+    "transcription": "murasaki",
+    "type": "word"
+  },
+  {
+    "id": "brown",
+    "word": "茶色",
+    "transcription": "chairo",
+    "type": "word"
+  },
+  {
+    "id": "orange",
+    "word": "オレンジ",
+    "transcription": "orenji",
+    "type": "word"
+  },
+  {
+    "id": "small",
+    "word": "小さい",
+    "transcription": "chiisai",
+    "type": "word"
+  },
+  {
+    "id": "medium",
+    "word": "中くらい",
+    "transcription": "chuu kurai",
+    "type": "word"
+  },
+  {
+    "id": "large",
+    "word": "大きい",
+    "transcription": "oukii",
+    "type": "word"
+  },
+  {
+    "id": "extra_large",
+    "word": "特大",
+    "transcription": "tokudai",
+    "type": "word"
+  },
+  {
+    "id": "size",
+    "word": "サイズ",
+    "transcription": "saizu",
+    "type": "word"
+  },
+  {
+    "id": "comfortable",
+    "word": "快適",
+    "transcription": "kaiteki",
+    "type": "word"
+  },
+  {
+    "id": "tight",
+    "word": "きつい",
+    "transcription": "kitsui",
+    "type": "word"
+  },
+  {
+    "id": "loose",
+    "word": "ゆるい",
+    "transcription": "yurui",
+    "type": "word"
+  },
+  {
+    "id": "casual",
+    "word": "カジュアル",
+    "transcription": "kajuaru",
+    "type": "word"
+  },
+  {
+    "id": "formal",
+    "word": "フォーマル",
+    "transcription": "fomaru",
+    "type": "word"
+  },
+  {
+    "id": "elegant",
+    "word": "エレガント",
+    "transcription": "ereganto",
+    "type": "word"
+  },
+  {
+    "id": "modern",
+    "word": "モダンな",
+    "transcription": "modan'na",
+    "type": "word"
+  },
+  {
+    "id": "clean",
+    "word": "クリーン",
+    "transcription": "kuriin",
+    "type": "word"
+  },
+  {
+    "id": "dirty",
+    "word": "汚い",
+    "transcription": "kitanai",
+    "type": "word"
+  },
+  {
+    "id": "new",
+    "word": "新しい",
+    "transcription": "atarashii",
+    "type": "word"
+  },
+  {
+    "id": "old",
+    "word": "古い",
+    "transcription": "furui",
+    "type": "word"
+  },
+  {
+    "id": "wear",
+    "word": "着る",
+    "transcription": "kiru",
+    "type": "word"
+  },
+  {
+    "id": "put_on",
+    "word": "つける",
+    "transcription": "tsukeru",
+    "type": "phrase"
+  },
+  {
+    "id": "take_off",
+    "word": "脱ぐ",
+    "transcription": "nugu",
+    "type": "phrase"
+  },
+  {
+    "id": "try_on",
+    "word": "試着してみる",
+    "transcription": "shichaku shite miru",
+    "type": "phrase"
+  },
+  {
+    "id": "get_dressed",
+    "word": "服を着る",
+    "transcription": "fukuwokiru",
+    "type": "phrase"
+  },
+  {
+    "id": "change_clothes",
+    "word": "着替える",
+    "transcription": "kigaeru",
+    "type": "phrase"
+  },
+  {
+    "id": "fold_clothes",
+    "word": "服をたたむ",
+    "transcription": "fuku o tatamu",
+    "type": "phrase"
+  },
+  {
+    "id": "wash_clothes",
+    "word": "服を洗う",
+    "transcription": "fuku o arau",
+    "type": "phrase"
+  },
+  {
+    "id": "dry_clothes",
+    "word": "乾いた服",
+    "transcription": "kawaita fuku",
+    "type": "phrase"
+  },
+  {
+    "id": "iron_clothes",
+    "word": "アイロンをかけた服",
+    "transcription": "airon o kaketa fuku",
+    "type": "phrase"
+  },
+  {
+    "id": "laundry",
+    "word": "ランドリー",
+    "transcription": "randorii",
+    "type": "word"
+  },
+  {
+    "id": "washing_machine",
+    "word": "洗濯機",
+    "transcription": "sentakki",
+    "type": "word"
+  },
+  {
+    "id": "dryer",
+    "word": "ドライヤー",
+    "transcription": "doraiyaa",
+    "type": "word"
+  },
+  {
+    "id": "hanger",
+    "word": "ハンガー",
+    "transcription": "hangaa",
+    "type": "word"
+  },
+  {
+    "id": "closet",
+    "word": "クローゼット",
+    "transcription": "kurouzetto",
+    "type": "word"
+  },
+  {
+    "id": "mirror",
+    "word": "鏡",
+    "transcription": "kagami",
+    "type": "word"
+  },
+  {
+    "id": "changing_room",
+    "word": "試着室",
+    "transcription": "shichakushitsu",
+    "type": "word"
+  },
+  {
+    "id": "what_size_are_you",
+    "word": "あなたはどのくらいのサイズですか？",
+    "transcription": "anata wa dono kurai no saizudesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "do_you_have_this_in_black",
+    "word": "これの黒はありますか？",
+    "transcription": "kore no kuro wa arimasu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "can_i_try_it_on",
+    "word": "試着してもいいですか？",
+    "transcription": "shichaku shite mo iidesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "it_fits_well",
+    "word": "ぴったりです",
+    "transcription": "pittaridesu",
+    "type": "phrase"
+  },
+  {
+    "id": "its_too_small",
+    "word": "小さすぎます",
+    "transcription": "chiisa sugimasu",
+    "type": "phrase"
+  },
+  {
+    "id": "its_too_big",
+    "word": "大きすぎます",
+    "transcription": "ouki sugimasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_like_this_style",
+    "word": "このスタイルが好きです",
+    "transcription": "kono sutairu ga sukidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "this_is_comfortable",
+    "word": "これは快適です",
+    "transcription": "kore wa kaitekidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "where_is_the_fitting_room",
+    "word": "試着室はどこですか？",
+    "transcription": "shichakushitsu wa dokodesu ka?",
+    "type": "phrase"
+  },
+  {
+    "id": "i_need_new_shoes",
+    "word": "新しい靴が必要です",
+    "transcription": "atarashii kutsu ga hitsuyoudesu",
+    "type": "phrase"
+  }
+]

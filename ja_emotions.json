@@ -1,0 +1,302 @@
+[
+  {
+    "id": "emotion",
+    "word": "感情",
+    "transcription": "kanjou",
+    "type": "word"
+  },
+  {
+    "id": "feeling",
+    "word": "フィーリング",
+    "transcription": "fiiringu",
+    "type": "word"
+  },
+  {
+    "id": "happy",
+    "word": "ハッピー",
+    "transcription": "happii",
+    "type": "word"
+  },
+  {
+    "id": "sad",
+    "word": "悲しい",
+    "transcription": "kanashii",
+    "type": "word"
+  },
+  {
+    "id": "angry",
+    "word": "怒り",
+    "transcription": "ikari",
+    "type": "word"
+  },
+  {
+    "id": "irritated",
+    "word": "イライラする",
+    "transcription": "iraira suru",
+    "type": "word"
+  },
+  {
+    "id": "annoyed",
+    "word": "イライラした",
+    "transcription": "iraira shita",
+    "type": "word"
+  },
+  {
+    "id": "excited",
+    "word": "興奮した",
+    "transcription": "koufun shita",
+    "type": "word"
+  },
+  {
+    "id": "calm",
+    "word": "落ち着いた",
+    "transcription": "ochitsuita",
+    "type": "word"
+  },
+  {
+    "id": "relaxed",
+    "word": "リラックスした",
+    "transcription": "rirakkusu shita",
+    "type": "word"
+  },
+  {
+    "id": "tired",
+    "word": "疲れた",
+    "transcription": "tsukareta",
+    "type": "word"
+  },
+  {
+    "id": "exhausted",
+    "word": "疲れ果てた",
+    "transcription": "tsukarehateta",
+    "type": "word"
+  },
+  {
+    "id": "nervous",
+    "word": "神経質",
+    "transcription": "shinkeishitsu",
+    "type": "word"
+  },
+  {
+    "id": "anxious",
+    "word": "心配している",
+    "transcription": "shinpai shite iru",
+    "type": "word"
+  },
+  {
+    "id": "worried",
+    "word": "心配した",
+    "transcription": "shinpai shita",
+    "type": "word"
+  },
+  {
+    "id": "confused",
+    "word": "混乱した",
+    "transcription": "konran shita",
+    "type": "word"
+  },
+  {
+    "id": "surprised",
+    "word": "驚いた",
+    "transcription": "odoroita",
+    "type": "word"
+  },
+  {
+    "id": "shocked",
+    "word": "ショックを受けた",
+    "transcription": "shokku o uketa",
+    "type": "word"
+  },
+  {
+    "id": "scared",
+    "word": "怖がった",
+    "transcription": "kowagatta",
+    "type": "word"
+  },
+  {
+    "id": "afraid",
+    "word": "恐れている",
+    "transcription": "osorete iru",
+    "type": "word"
+  },
+  {
+    "id": "jealous",
+    "word": "嫉妬深い",
+    "transcription": "shittobukai",
+    "type": "word"
+  },
+  {
+    "id": "suspicious",
+    "word": "疑わしい",
+    "transcription": "utagawashii",
+    "type": "word"
+  },
+  {
+    "id": "bored",
+    "word": "退屈",
+    "transcription": "taikutsu",
+    "type": "word"
+  },
+  {
+    "id": "lonely",
+    "word": "さみしい",
+    "transcription": "samishii",
+    "type": "word"
+  },
+  {
+    "id": "proud",
+    "word": "誇りに思う",
+    "transcription": "hokori ni omou",
+    "type": "word"
+  },
+  {
+    "id": "embarrassed",
+    "word": "恥ずかしい",
+    "transcription": "hazukashii",
+    "type": "word"
+  },
+  {
+    "id": "ashamed",
+    "word": "恥ずかしい",
+    "transcription": "hazukashii",
+    "type": "word"
+  },
+  {
+    "id": "hopeful",
+    "word": "希望に満ちた",
+    "transcription": "kibou ni michita",
+    "type": "word"
+  },
+  {
+    "id": "grateful",
+    "word": "ありがたい",
+    "transcription": "arigatai",
+    "type": "word"
+  },
+  {
+    "id": "disappointed",
+    "word": "残念だった",
+    "transcription": "zan'nendatta",
+    "type": "word"
+  },
+  {
+    "id": "frustrated",
+    "word": "イライラした",
+    "transcription": "iraira shita",
+    "type": "word"
+  },
+  {
+    "id": "crying",
+    "word": "泣いている",
+    "transcription": "naite iru",
+    "type": "word"
+  },
+  {
+    "id": "laughing",
+    "word": "笑い",
+    "transcription": "warai",
+    "type": "word"
+  },
+  {
+    "id": "smiling",
+    "word": "笑顔",
+    "transcription": "egao",
+    "type": "word"
+  },
+  {
+    "id": "thinking",
+    "word": "考え",
+    "transcription": "kangae",
+    "type": "word"
+  },
+  {
+    "id": "peaceful",
+    "word": "平和な",
+    "transcription": "heiwana",
+    "type": "word"
+  },
+  {
+    "id": "confident",
+    "word": "自信を持って",
+    "transcription": "jishin o motte",
+    "type": "word"
+  },
+  {
+    "id": "insecure",
+    "word": "不安な",
+    "transcription": "fuan'na",
+    "type": "word"
+  },
+  {
+    "id": "overwhelmed",
+    "word": "圧倒された",
+    "transcription": "attou sa reta",
+    "type": "word"
+  },
+  {
+    "id": "curious",
+    "word": "好奇心旺盛",
+    "transcription": "koukishin ousei",
+    "type": "word"
+  },
+  {
+    "id": "interested",
+    "word": "興味がある",
+    "transcription": "kyoumigaaru",
+    "type": "word"
+  },
+  {
+    "id": "disgusted",
+    "word": "うんざりした",
+    "transcription": "unzari shita",
+    "type": "word"
+  },
+  {
+    "id": "hope",
+    "word": "希望",
+    "transcription": "kibou",
+    "type": "word"
+  },
+  {
+    "id": "love",
+    "word": "愛",
+    "transcription": "ai",
+    "type": "word"
+  },
+  {
+    "id": "hate",
+    "word": "嫌い",
+    "transcription": "kirai",
+    "type": "word"
+  },
+  {
+    "id": "joy",
+    "word": "喜び",
+    "transcription": "yorokobi",
+    "type": "word"
+  },
+  {
+    "id": "sadness",
+    "word": "悲しみ",
+    "transcription": "kanashimi",
+    "type": "word"
+  },
+  {
+    "id": "anger",
+    "word": "怒り",
+    "transcription": "ikari",
+    "type": "word"
+  },
+  {
+    "id": "fear",
+    "word": "恐れ",
+    "transcription": "osore",
+    "type": "word"
+  },
+  {
+    "id": "stress",
+    "word": "ストレス",
+    "transcription": "sutoresu",
+    "type": "word"
+  }
+]

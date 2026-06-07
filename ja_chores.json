@@ -1,0 +1,242 @@
+[
+  {
+    "id": "clean",
+    "word": "クリーン",
+    "transcription": "kuriin",
+    "type": "verb"
+  },
+  {
+    "id": "wash_dishes",
+    "word": "皿を洗う",
+    "transcription": "sara o arau",
+    "type": "phrase"
+  },
+  {
+    "id": "do_laundry",
+    "word": "洗濯をする",
+    "transcription": "sentaku o suru",
+    "type": "phrase"
+  },
+  {
+    "id": "vacuum",
+    "word": "真空",
+    "transcription": "shinkuu",
+    "type": "verb"
+  },
+  {
+    "id": "sweep_floor",
+    "word": "床を掃除する",
+    "transcription": "yuka o souji suru",
+    "type": "phrase"
+  },
+  {
+    "id": "mop_floor",
+    "word": "床をモップで拭きます",
+    "transcription": "yuka o moppu de fukimasu",
+    "type": "phrase"
+  },
+  {
+    "id": "take_out_trash",
+    "word": "ゴミを出す",
+    "transcription": "gomi o dasu",
+    "type": "phrase"
+  },
+  {
+    "id": "make_bed",
+    "word": "ベッドを作る",
+    "transcription": "beddo o tsukuru",
+    "type": "phrase"
+  },
+  {
+    "id": "dust",
+    "word": "ほこり",
+    "transcription": "hokori",
+    "type": "verb"
+  },
+  {
+    "id": "cook",
+    "word": "料理する",
+    "transcription": "ryouri suru",
+    "type": "verb"
+  },
+  {
+    "id": "wash_clothes",
+    "word": "服を洗う",
+    "transcription": "fuku o arau",
+    "type": "phrase"
+  },
+  {
+    "id": "iron_clothes",
+    "word": "アイロンをかけた服",
+    "transcription": "airon o kaketa fuku",
+    "type": "phrase"
+  },
+  {
+    "id": "fold_clothes",
+    "word": "服をたたむ",
+    "transcription": "fuku o tatamu",
+    "type": "phrase"
+  },
+  {
+    "id": "hang_clothes",
+    "word": "服を掛ける",
+    "transcription": "fuku o kakeru",
+    "type": "phrase"
+  },
+  {
+    "id": "clean_window",
+    "word": "窓を掃除する",
+    "transcription": "mado o souji suru",
+    "type": "phrase"
+  },
+  {
+    "id": "wash_car",
+    "word": "車を洗う",
+    "transcription": "kuruma o arau",
+    "type": "phrase"
+  },
+  {
+    "id": "water_plants",
+    "word": "植物に水をやる",
+    "transcription": "shokubutsu ni mizu o yaru",
+    "type": "phrase"
+  },
+  {
+    "id": "feed_pet",
+    "word": "ペットに餌をやる",
+    "transcription": "petto ni esa o yaru",
+    "type": "phrase"
+  },
+  {
+    "id": "walk_dog",
+    "word": "犬の散歩をする",
+    "transcription": "inunosanpo o suru",
+    "type": "phrase"
+  },
+  {
+    "id": "set_table",
+    "word": "テーブルをセットする",
+    "transcription": "teeburu o setto suru",
+    "type": "phrase"
+  },
+  {
+    "id": "clear_table",
+    "word": "テーブルを片付ける",
+    "transcription": "teeburu o katadzukeru",
+    "type": "phrase"
+  },
+  {
+    "id": "take_shower",
+    "word": "シャワーを浴びる",
+    "transcription": "shawaa o abiru",
+    "type": "phrase"
+  },
+  {
+    "id": "brush_teeth",
+    "word": "歯を磨く",
+    "transcription": "hawomigaku",
+    "type": "phrase"
+  },
+  {
+    "id": "clean_bathroom",
+    "word": "バスルームを掃除する",
+    "transcription": "basuruumu o souji suru",
+    "type": "phrase"
+  },
+  {
+    "id": "organize_room",
+    "word": "部屋を整理する",
+    "transcription": "heya o seiri suru",
+    "type": "phrase"
+  },
+  {
+    "id": "tidy_up",
+    "word": "片付ける",
+    "transcription": "katadzukeru",
+    "type": "phrase"
+  },
+  {
+    "id": "shop_groceries",
+    "word": "食料品を買う",
+    "transcription": "shokuryouhin o kau",
+    "type": "phrase"
+  },
+  {
+    "id": "carry_bags",
+    "word": "キャリーバッグ",
+    "transcription": "kyariibaggu",
+    "type": "phrase"
+  },
+  {
+    "id": "fix",
+    "word": "修理",
+    "transcription": "shuuri",
+    "type": "verb"
+  },
+  {
+    "id": "repair",
+    "word": "修理",
+    "transcription": "shuuri",
+    "type": "verb"
+  },
+  {
+    "id": "paint",
+    "word": "ペイント",
+    "transcription": "peinto",
+    "type": "verb"
+  },
+  {
+    "id": "change_lightbulb",
+    "word": "電球を交換する",
+    "transcription": "denkyuu o koukan suru",
+    "type": "phrase"
+  },
+  {
+    "id": "clean_kitchen",
+    "word": "キッチンを掃除する",
+    "transcription": "kitchin o souji suru",
+    "type": "phrase"
+  },
+  {
+    "id": "wash_hands",
+    "word": "手を洗う",
+    "transcription": "te o arau",
+    "type": "phrase"
+  },
+  {
+    "id": "dry_dishes",
+    "word": "皿を乾かす",
+    "transcription": "sara o kawakasu",
+    "type": "phrase"
+  },
+  {
+    "id": "put_away",
+    "word": "しまう",
+    "transcription": "shimau",
+    "type": "phrase"
+  },
+  {
+    "id": "open_curtains",
+    "word": "カーテンを開けてください",
+    "transcription": "kaaten o akete kudasai",
+    "type": "phrase"
+  },
+  {
+    "id": "close_curtains",
+    "word": "カーテンを閉めてください",
+    "transcription": "kaaten o shimete kudasai",
+    "type": "phrase"
+  },
+  {
+    "id": "clean_fridge",
+    "word": "冷蔵庫を掃除する",
+    "transcription": "reizouko o souji suru",
+    "type": "phrase"
+  },
+  {
+    "id": "throw_away",
+    "word": "捨てる",
+    "transcription": "suteru",
+    "type": "phrase"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "dog",
+    "word": "犬",
+    "transcription": "inu",
+    "type": "word"
+  },
+  {
+    "id": "cat",
+    "word": "猫",
+    "transcription": "neko",
+    "type": "word"
+  },
+  {
+    "id": "bird",
+    "word": "鳥",
+    "transcription": "tori",
+    "type": "word"
+  },
+  {
+    "id": "fish",
+    "word": "魚",
+    "transcription": "sakana",
+    "type": "word"
+  },
+  {
+    "id": "cow",
+    "word": "牛",
+    "transcription": "ushi",
+    "type": "word"
+  },
+  {
+    "id": "horse",
+    "word": "馬",
+    "transcription": "uma",
+    "type": "word"
+  },
+  {
+    "id": "sheep",
+    "word": "羊",
+    "transcription": "hitsuji",
+    "type": "word"
+  },
+  {
+    "id": "goat",
+    "word": "ヤギ",
+    "transcription": "yagi",
+    "type": "word"
+  },
+  {
+    "id": "pig",
+    "word": "豚",
+    "transcription": "buta",
+    "type": "word"
+  },
+  {
+    "id": "chicken",
+    "word": "チキン",
+    "transcription": "chikin",
+    "type": "word"
+  },
+  {
+    "id": "duck",
+    "word": "アヒル",
+    "transcription": "ahiru",
+    "type": "word"
+  },
+  {
+    "id": "lion",
+    "word": "ライオン",
+    "transcription": "raion",
+    "type": "word"
+  },
+  {
+    "id": "tiger",
+    "word": "虎",
+    "transcription": "tora",
+    "type": "word"
+  },
+  {
+    "id": "elephant",
+    "word": "象",
+    "transcription": "zou",
+    "type": "word"
+  },
+  {
+    "id": "monkey",
+    "word": "猿",
+    "transcription": "saru",
+    "type": "word"
+  },
+  {
+    "id": "bear",
+    "word": "クマ",
+    "transcription": "kuma",
+    "type": "word"
+  },
+  {
+    "id": "wolf",
+    "word": "狼",
+    "transcription": "oukami",
+    "type": "word"
+  },
+  {
+    "id": "fox",
+    "word": "キツネ",
+    "transcription": "kitsune",
+    "type": "word"
+  },
+  {
+    "id": "deer",
+    "word": "鹿",
+    "transcription": "shika",
+    "type": "word"
+  },
+  {
+    "id": "rabbit",
+    "word": "うさぎ",
+    "transcription": "usagi",
+    "type": "word"
+  },
+  {
+    "id": "mouse",
+    "word": "ねずみ",
+    "transcription": "nezumi",
+    "type": "word"
+  },
+  {
+    "id": "snake",
+    "word": "蛇",
+    "transcription": "hebi",
+    "type": "word"
+  },
+  {
+    "id": "frog",
+    "word": "蛙",
+    "transcription": "kaeru",
+    "type": "word"
+  },
+  {
+    "id": "turtle",
+    "word": "カメ",
+    "transcription": "kame",
+    "type": "word"
+  },
+  {
+    "id": "shark",
+    "word": "サメ",
+    "transcription": "same",
+    "type": "word"
+  },
+  {
+    "id": "whale",
+    "word": "鯨",
+    "transcription": "kujira",
+    "type": "word"
+  },
+  {
+    "id": "dolphin",
+    "word": "イルカ",
+    "transcription": "iruka",
+    "type": "word"
+  },
+  {
+    "id": "octopus",
+    "word": "タコ",
+    "transcription": "tako",
+    "type": "word"
+  },
+  {
+    "id": "ant",
+    "word": "アリ",
+    "transcription": "ari",
+    "type": "word"
+  },
+  {
+    "id": "bee",
+    "word": "蜂",
+    "transcription": "hachi",
+    "type": "word"
+  }
+]

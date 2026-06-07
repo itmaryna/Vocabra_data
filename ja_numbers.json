@@ -1,0 +1,608 @@
+[
+  {
+    "id": "number_0",
+    "word": "ゼロ",
+    "transcription": "zero",
+    "type": "number"
+  },
+  {
+    "id": "number_1",
+    "word": "一",
+    "transcription": "ichi",
+    "type": "number"
+  },
+  {
+    "id": "number_2",
+    "word": "二",
+    "transcription": "ni",
+    "type": "number"
+  },
+  {
+    "id": "number_3",
+    "word": "三",
+    "transcription": "san",
+    "type": "number"
+  },
+  {
+    "id": "number_4",
+    "word": "四",
+    "transcription": "yon",
+    "type": "number"
+  },
+  {
+    "id": "number_5",
+    "word": "五",
+    "transcription": "go",
+    "type": "number"
+  },
+  {
+    "id": "number_6",
+    "word": "六",
+    "transcription": "roku",
+    "type": "number"
+  },
+  {
+    "id": "number_7",
+    "word": "七",
+    "transcription": "nana",
+    "type": "number"
+  },
+  {
+    "id": "number_8",
+    "word": "八",
+    "transcription": "hachi",
+    "type": "number"
+  },
+  {
+    "id": "number_9",
+    "word": "九",
+    "transcription": "kyu",
+    "type": "number"
+  },
+  {
+    "id": "number_10",
+    "word": "十",
+    "transcription": "ju",
+    "type": "number"
+  },
+  {
+    "id": "number_11",
+    "word": "十一",
+    "transcription": "ju ichi",
+    "type": "number"
+  },
+  {
+    "id": "number_12",
+    "word": "十二",
+    "transcription": "ju ni",
+    "type": "number"
+  },
+  {
+    "id": "number_13",
+    "word": "十三",
+    "transcription": "ju san",
+    "type": "number"
+  },
+  {
+    "id": "number_14",
+    "word": "十四",
+    "transcription": "ju yon",
+    "type": "number"
+  },
+  {
+    "id": "number_15",
+    "word": "十五",
+    "transcription": "ju go",
+    "type": "number"
+  },
+  {
+    "id": "number_16",
+    "word": "十六",
+    "transcription": "ju roku",
+    "type": "number"
+  },
+  {
+    "id": "number_17",
+    "word": "十七",
+    "transcription": "ju nana",
+    "type": "number"
+  },
+  {
+    "id": "number_18",
+    "word": "十八",
+    "transcription": "ju hachi",
+    "type": "number"
+  },
+  {
+    "id": "number_19",
+    "word": "十九",
+    "transcription": "ju kyu",
+    "type": "number"
+  },
+  {
+    "id": "number_20",
+    "word": "二十",
+    "transcription": "ni ju",
+    "type": "number"
+  },
+  {
+    "id": "number_21",
+    "word": "二十一",
+    "transcription": "ni ju ichi",
+    "type": "number"
+  },
+  {
+    "id": "number_22",
+    "word": "二十二",
+    "transcription": "ni ju ni",
+    "type": "number"
+  },
+  {
+    "id": "number_23",
+    "word": "二十三",
+    "transcription": "ni ju san",
+    "type": "number"
+  },
+  {
+    "id": "number_24",
+    "word": "二十四",
+    "transcription": "ni ju yon",
+    "type": "number"
+  },
+  {
+    "id": "number_25",
+    "word": "二十五",
+    "transcription": "ni ju go",
+    "type": "number"
+  },
+  {
+    "id": "number_26",
+    "word": "二十六",
+    "transcription": "ni ju roku",
+    "type": "number"
+  },
+  {
+    "id": "number_27",
+    "word": "二十七",
+    "transcription": "ni ju nana",
+    "type": "number"
+  },
+  {
+    "id": "number_28",
+    "word": "二十八",
+    "transcription": "ni ju hachi",
+    "type": "number"
+  },
+  {
+    "id": "number_29",
+    "word": "二十九",
+    "transcription": "ni ju kyu",
+    "type": "number"
+  },
+  {
+    "id": "number_30",
+    "word": "三十",
+    "transcription": "san ju",
+    "type": "number"
+  },
+  {
+    "id": "number_31",
+    "word": "三十一",
+    "transcription": "san ju ichi",
+    "type": "number"
+  },
+  {
+    "id": "number_32",
+    "word": "三十二",
+    "transcription": "san ju ni",
+    "type": "number"
+  },
+  {
+    "id": "number_33",
+    "word": "三十三",
+    "transcription": "san ju san",
+    "type": "number"
+  },
+  {
+    "id": "number_34",
+    "word": "三十四",
+    "transcription": "san ju yon",
+    "type": "number"
+  },
+  {
+    "id": "number_35",
+    "word": "三十五",
+    "transcription": "san ju go",
+    "type": "number"
+  },
+  {
+    "id": "number_36",
+    "word": "三十六",
+    "transcription": "san ju roku",
+    "type": "number"
+  },
+  {
+    "id": "number_37",
+    "word": "三十七",
+    "transcription": "san ju nana",
+    "type": "number"
+  },
+  {
+    "id": "number_38",
+    "word": "三十八",
+    "transcription": "san ju hachi",
+    "type": "number"
+  },
+  {
+    "id": "number_39",
+    "word": "三十九",
+    "transcription": "san ju kyu",
+    "type": "number"
+  },
+  {
+    "id": "number_40",
+    "word": "四十",
+    "transcription": "yon ju",
+    "type": "number"
+  },
+  {
+    "id": "number_41",
+    "word": "四十一",
+    "transcription": "yon ju ichi",
+    "type": "number"
+  },
+  {
+    "id": "number_42",
+    "word": "四十二",
+    "transcription": "yon ju ni",
+    "type": "number"
+  },
+  {
+    "id": "number_43",
+    "word": "四十三",
+    "transcription": "yon ju san",
+    "type": "number"
+  },
+  {
+    "id": "number_44",
+    "word": "四十四",
+    "transcription": "yon ju yon",
+    "type": "number"
+  },
+  {
+    "id": "number_45",
+    "word": "四十五",
+    "transcription": "yon ju go",
+    "type": "number"
+  },
+  {
+    "id": "number_46",
+    "word": "四十六",
+    "transcription": "yon ju roku",
+    "type": "number"
+  },
+  {
+    "id": "number_47",
+    "word": "四十七",
+    "transcription": "yon ju nana",
+    "type": "number"
+  },
+  {
+    "id": "number_48",
+    "word": "四十八",
+    "transcription": "yon ju hachi",
+    "type": "number"
+  },
+  {
+    "id": "number_49",
+    "word": "四十九",
+    "transcription": "yon ju kyu",
+    "type": "number"
+  },
+  {
+    "id": "number_50",
+    "word": "五十",
+    "transcription": "go ju",
+    "type": "number"
+  },
+  {
+    "id": "number_51",
+    "word": "五十一",
+    "transcription": "go ju ichi",
+    "type": "number"
+  },
+  {
+    "id": "number_52",
+    "word": "五十二",
+    "transcription": "go ju ni",
+    "type": "number"
+  },
+  {
+    "id": "number_53",
+    "word": "五十三",
+    "transcription": "go ju san",
+    "type": "number"
+  },
+  {
+    "id": "number_54",
+    "word": "五十四",
+    "transcription": "go ju yon",
+    "type": "number"
+  },
+  {
+    "id": "number_55",
+    "word": "五十五",
+    "transcription": "go ju go",
+    "type": "number"
+  },
+  {
+    "id": "number_56",
+    "word": "五十六",
+    "transcription": "go ju roku",
+    "type": "number"
+  },
+  {
+    "id": "number_57",
+    "word": "五十七",
+    "transcription": "go ju nana",
+    "type": "number"
+  },
+  {
+    "id": "number_58",
+    "word": "五十八",
+    "transcription": "go ju hachi",
+    "type": "number"
+  },
+  {
+    "id": "number_59",
+    "word": "五十九",
+    "transcription": "go ju kyu",
+    "type": "number"
+  },
+  {
+    "id": "number_60",
+    "word": "六十",
+    "transcription": "roku ju",
+    "type": "number"
+  },
+  {
+    "id": "number_61",
+    "word": "六十一",
+    "transcription": "roku ju ichi",
+    "type": "number"
+  },
+  {
+    "id": "number_62",
+    "word": "六十二",
+    "transcription": "roku ju ni",
+    "type": "number"
+  },
+  {
+    "id": "number_63",
+    "word": "六十三",
+    "transcription": "roku ju san",
+    "type": "number"
+  },
+  {
+    "id": "number_64",
+    "word": "六十四",
+    "transcription": "roku ju yon",
+    "type": "number"
+  },
+  {
+    "id": "number_65",
+    "word": "六十五",
+    "transcription": "roku ju go",
+    "type": "number"
+  },
+  {
+    "id": "number_66",
+    "word": "六十六",
+    "transcription": "roku ju roku",
+    "type": "number"
+  },
+  {
+    "id": "number_67",
+    "word": "六十七",
+    "transcription": "roku ju nana",
+    "type": "number"
+  },
+  {
+    "id": "number_68",
+    "word": "六十八",
+    "transcription": "roku ju hachi",
+    "type": "number"
+  },
+  {
+    "id": "number_69",
+    "word": "六十九",
+    "transcription": "roku ju kyu",
+    "type": "number"
+  },
+  {
+    "id": "number_70",
+    "word": "七十",
+    "transcription": "nana ju",
+    "type": "number"
+  },
+  {
+    "id": "number_71",
+    "word": "七十一",
+    "transcription": "nana ju ichi",
+    "type": "number"
+  },
+  {
+    "id": "number_72",
+    "word": "七十二",
+    "transcription": "nana ju ni",
+    "type": "number"
+  },
+  {
+    "id": "number_73",
+    "word": "七十三",
+    "transcription": "nana ju san",
+    "type": "number"
+  },
+  {
+    "id": "number_74",
+    "word": "七十四",
+    "transcription": "nana ju yon",
+    "type": "number"
+  },
+  {
+    "id": "number_75",
+    "word": "七十五",
+    "transcription": "nana ju go",
+    "type": "number"
+  },
+  {
+    "id": "number_76",
+    "word": "七十六",
+    "transcription": "nana ju roku",
+    "type": "number"
+  },
+  {
+    "id": "number_77",
+    "word": "七十七",
+    "transcription": "nana ju nana",
+    "type": "number"
+  },
+  {
+    "id": "number_78",
+    "word": "七十八",
+    "transcription": "nana ju hachi",
+    "type": "number"
+  },
+  {
+    "id": "number_79",
+    "word": "七十九",
+    "transcription": "nana ju kyu",
+    "type": "number"
+  },
+  {
+    "id": "number_80",
+    "word": "八十",
+    "transcription": "hachi ju",
+    "type": "number"
+  },
+  {
+    "id": "number_81",
+    "word": "八十一",
+    "transcription": "hachi ju ichi",
+    "type": "number"
+  },
+  {
+    "id": "number_82",
+    "word": "八十二",
+    "transcription": "hachi ju ni",
+    "type": "number"
+  },
+  {
+    "id": "number_83",
+    "word": "八十三",
+    "transcription": "hachi ju san",
+    "type": "number"
+  },
+  {
+    "id": "number_84",
+    "word": "八十四",
+    "transcription": "hachi ju yon",
+    "type": "number"
+  },
+  {
+    "id": "number_85",
+    "word": "八十五",
+    "transcription": "hachi ju go",
+    "type": "number"
+  },
+  {
+    "id": "number_86",
+    "word": "八十六",
+    "transcription": "hachi ju roku",
+    "type": "number"
+  },
+  {
+    "id": "number_87",
+    "word": "八十七",
+    "transcription": "hachi ju nana",
+    "type": "number"
+  },
+  {
+    "id": "number_88",
+    "word": "八十八",
+    "transcription": "hachi ju hachi",
+    "type": "number"
+  },
+  {
+    "id": "number_89",
+    "word": "八十九",
+    "transcription": "hachi ju kyu",
+    "type": "number"
+  },
+  {
+    "id": "number_90",
+    "word": "九十",
+    "transcription": "kyu ju",
+    "type": "number"
+  },
+  {
+    "id": "number_91",
+    "word": "九十一",
+    "transcription": "kyu ju ichi",
+    "type": "number"
+  },
+  {
+    "id": "number_92",
+    "word": "九十二",
+    "transcription": "kyu ju ni",
+    "type": "number"
+  },
+  {
+    "id": "number_93",
+    "word": "九十三",
+    "transcription": "kyu ju san",
+    "type": "number"
+  },
+  {
+    "id": "number_94",
+    "word": "九十四",
+    "transcription": "kyu ju yon",
+    "type": "number"
+  },
+  {
+    "id": "number_95",
+    "word": "九十五",
+    "transcription": "kyu ju go",
+    "type": "number"
+  },
+  {
+    "id": "number_96",
+    "word": "九十六",
+    "transcription": "kyu ju roku",
+    "type": "number"
+  },
+  {
+    "id": "number_97",
+    "word": "九十七",
+    "transcription": "kyu ju nana",
+    "type": "number"
+  },
+  {
+    "id": "number_98",
+    "word": "九十八",
+    "transcription": "kyu ju hachi",
+    "type": "number"
+  },
+  {
+    "id": "number_99",
+    "word": "九十九",
+    "transcription": "kyu ju kyu",
+    "type": "number"
+  },
+  {
+    "id": "number_100",
+    "word": "百",
+    "transcription": "hyaku",
+    "type": "number"
+  }
+]

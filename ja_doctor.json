@@ -1,0 +1,302 @@
+[
+  {
+    "id": "doctor",
+    "word": "医者",
+    "transcription": "isha",
+    "type": "word"
+  },
+  {
+    "id": "hospital",
+    "word": "病院",
+    "transcription": "byouin",
+    "type": "word"
+  },
+  {
+    "id": "clinic",
+    "word": "クリニック",
+    "transcription": "kurinikku",
+    "type": "word"
+  },
+  {
+    "id": "appointment",
+    "word": "予定",
+    "transcription": "yotei",
+    "type": "word"
+  },
+  {
+    "id": "patient",
+    "word": "忍耐強い",
+    "transcription": "nintaidzuyoi",
+    "type": "word"
+  },
+  {
+    "id": "nurse",
+    "word": "看護師",
+    "transcription": "kankoshi",
+    "type": "word"
+  },
+  {
+    "id": "medicine",
+    "word": "薬",
+    "transcription": "kusuri",
+    "type": "word"
+  },
+  {
+    "id": "prescription",
+    "word": "処方箋",
+    "transcription": "shohousen",
+    "type": "word"
+  },
+  {
+    "id": "pharmacy",
+    "word": "薬局",
+    "transcription": "yakkyoku",
+    "type": "word"
+  },
+  {
+    "id": "pain",
+    "word": "痛み",
+    "transcription": "itami",
+    "type": "word"
+  },
+  {
+    "id": "headache",
+    "word": "頭痛",
+    "transcription": "zutsuu",
+    "type": "word"
+  },
+  {
+    "id": "fever",
+    "word": "熱",
+    "transcription": "netsu",
+    "type": "word"
+  },
+  {
+    "id": "cough",
+    "word": "咳",
+    "transcription": "seki",
+    "type": "word"
+  },
+  {
+    "id": "cold",
+    "word": "寒い",
+    "transcription": "samui",
+    "type": "word"
+  },
+  {
+    "id": "flu",
+    "word": "インフルエンザ",
+    "transcription": "infuruenza",
+    "type": "word"
+  },
+  {
+    "id": "allergy",
+    "word": "アレルギー",
+    "transcription": "arerugii",
+    "type": "word"
+  },
+  {
+    "id": "injury",
+    "word": "けが",
+    "transcription": "kega",
+    "type": "word"
+  },
+  {
+    "id": "blood",
+    "word": "血",
+    "transcription": "chi",
+    "type": "word"
+  },
+  {
+    "id": "heart",
+    "word": "心臓",
+    "transcription": "shinzou",
+    "type": "word"
+  },
+  {
+    "id": "stomach",
+    "word": "胃",
+    "transcription": "i",
+    "type": "word"
+  },
+  {
+    "id": "back_pain",
+    "word": "背中の痛み",
+    "transcription": "senakanoitami",
+    "type": "phrase"
+  },
+  {
+    "id": "sore_throat",
+    "word": "喉の痛み",
+    "transcription": "nodonoitami",
+    "type": "phrase"
+  },
+  {
+    "id": "runny_nose",
+    "word": "鼻水",
+    "transcription": "hanamizu",
+    "type": "phrase"
+  },
+  {
+    "id": "toothache",
+    "word": "歯痛",
+    "transcription": "shitsuu",
+    "type": "word"
+  },
+  {
+    "id": "dizzy",
+    "word": "めまい",
+    "transcription": "memai",
+    "type": "word"
+  },
+  {
+    "id": "vomit",
+    "word": "吐瀉物",
+    "transcription": "tosha-mono",
+    "type": "word"
+  },
+  {
+    "id": "diarrhea",
+    "word": "下痢",
+    "transcription": "geri",
+    "type": "word"
+  },
+  {
+    "id": "ambulance",
+    "word": "救急車",
+    "transcription": "kyuukyuusha",
+    "type": "word"
+  },
+  {
+    "id": "emergency",
+    "word": "緊急",
+    "transcription": "kinkyuu",
+    "type": "word"
+  },
+  {
+    "id": "operation",
+    "word": "手術",
+    "transcription": "shujutsu",
+    "type": "word"
+  },
+  {
+    "id": "xray",
+    "word": "レントゲン",
+    "transcription": "rentogen",
+    "type": "word"
+  },
+  {
+    "id": "checkup",
+    "word": "健康診断",
+    "transcription": "kenko shindan",
+    "type": "word"
+  },
+  {
+    "id": "blood_test",
+    "word": "血液検査",
+    "transcription": "ketsueki kensa",
+    "type": "phrase"
+  },
+  {
+    "id": "insurance",
+    "word": "保険",
+    "transcription": "hoken",
+    "type": "word"
+  },
+  {
+    "id": "i_feel_sick",
+    "word": "気分が悪いです",
+    "transcription": "kibungawaruidesu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_have_pain",
+    "word": "痛みがあります",
+    "transcription": "itami ga arimasu",
+    "type": "phrase"
+  },
+  {
+    "id": "i_need_help",
+    "word": "私は助けが必要です",
+    "transcription": "watashi wa tasuke ga hitsuyoudesu",
+    "type": "phrase"
+  },
+  {
+    "id": "call_ambulance",
+    "word": "救急車を呼んで下さい",
+    "transcription": "kyuukyuusha o yonde kudasai",
+    "type": "phrase"
+  },
+  {
+    "id": "where_does_it_hurt",
+    "word": "どこが痛みますか",
+    "transcription": "doko ga itamimasu ka",
+    "type": "phrase"
+  },
+  {
+    "id": "take_medicine",
+    "word": "薬を飲む",
+    "transcription": "kusuriwonomu",
+    "type": "phrase"
+  },
+  {
+    "id": "twice_a_day",
+    "word": "1日2回",
+    "transcription": "1-nichi 2-kai",
+    "type": "phrase"
+  },
+  {
+    "id": "rest",
+    "word": "休む",
+    "transcription": "yasumu",
+    "type": "word"
+  },
+  {
+    "id": "healthy",
+    "word": "健康",
+    "transcription": "kenkou",
+    "type": "word"
+  },
+  {
+    "id": "unhealthy",
+    "word": "不健康",
+    "transcription": "fukenkou",
+    "type": "word"
+  },
+  {
+    "id": "symptom",
+    "word": "症状",
+    "transcription": "shoujou",
+    "type": "word"
+  },
+  {
+    "id": "virus",
+    "word": "ウイルス",
+    "transcription": "uirusu",
+    "type": "word"
+  },
+  {
+    "id": "bacteria",
+    "word": "細菌",
+    "transcription": "saikin",
+    "type": "word"
+  },
+  {
+    "id": "infection",
+    "word": "感染",
+    "transcription": "kansen",
+    "type": "word"
+  },
+  {
+    "id": "bandage",
+    "word": "包帯",
+    "transcription": "houtai",
+    "type": "word"
+  },
+  {
+    "id": "painkiller",
+    "word": "鎮痛剤",
+    "transcription": "chintsuu-zai",
+    "type": "word"
+  }
+]
